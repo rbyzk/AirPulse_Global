@@ -39,6 +39,57 @@ from PIL import Image, ImageDraw, ImageFont
 import base64
 from requests import RequestException
 
+
+def patch_pandas_fillna_method_compat() -> None:
+    """Keep older analytics calls compatible with pandas versions that removed fillna(method=...)."""
+    original_fillna = getattr(pd.core.generic.NDFrame, "fillna", None)
+    if original_fillna is None or getattr(original_fillna, "_airpulse_method_compat", False):
+        return
+
+    def call_original(obj, **kwargs):
+        try:
+            return original_fillna(obj, **kwargs)
+        except TypeError:
+            kwargs.pop("method", None)
+            kwargs.pop("downcast", None)
+            return original_fillna(obj, **kwargs)
+
+    def fillna_compat(self, value=None, method=None, axis=None, inplace=False, limit=None, downcast=None):
+        if method is not None:
+            method_name = str(method).lower()
+            if method_name in {"ffill", "pad"}:
+                result = self.ffill(axis=axis, limit=limit)
+            elif method_name in {"bfill", "backfill"}:
+                result = self.bfill(axis=axis, limit=limit)
+            else:
+                result = call_original(
+                    self,
+                    value=value,
+                    method=method,
+                    axis=axis,
+                    inplace=False,
+                    limit=limit,
+                    downcast=downcast,
+                )
+            if inplace:
+                self.update(result)
+                return None
+            return result
+        return call_original(
+            self,
+            value=value,
+            axis=axis,
+            inplace=inplace,
+            limit=limit,
+            downcast=downcast,
+        )
+
+    fillna_compat._airpulse_method_compat = True
+    pd.core.generic.NDFrame.fillna = fillna_compat
+
+
+patch_pandas_fillna_method_compat()
+
 PROJECT_ROOT = SysPath(__file__).resolve().parents[2]
 SRC_ROOT = PROJECT_ROOT / "src"
 ACTION_TRACKER_FILE = PROJECT_ROOT / "data" / "processed" / "action_tracker.json"
@@ -2881,7 +2932,7 @@ def page_forecast():
             days=days,
             station_name=source_label,
             station_key=None,
-            prefer_native_waqi=True,
+            prefer_native_waqi=False,
             prefer_offline_champion_only=False,
         )
         hist_df = forecast_result.hist_df.rename(columns={"value": pollutant}).copy()
