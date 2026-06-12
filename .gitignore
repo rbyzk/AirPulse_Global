@@ -6,6 +6,8 @@ __pycache__/
 *.log
 .vscode/
 *.zip
+AirPulse_Global_*.docx
+AirPulse_Global_*.pptx
 data/processed/
 artifacts/*.pkl
 artifacts/*.json
