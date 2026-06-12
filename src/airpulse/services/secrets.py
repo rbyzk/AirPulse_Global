@@ -7,6 +7,16 @@ import os
 import streamlit as st
 
 
+def _normalize_secret_value(value):
+    if value is None:
+        return None
+    if isinstance(value, str):
+        cleaned = value.strip().strip('"').strip("'").strip()
+        return cleaned or None
+    cleaned = str(value).strip().strip('"').strip("'").strip()
+    return cleaned or None
+
+
 def safe_secret_get(*keys: str):
     try:
         root = st.secrets
@@ -18,9 +28,9 @@ def safe_secret_get(*keys: str):
             continue
         try:
             if key in root:
-                value = root[key]
-                if isinstance(value, str) and value.strip():
-                    return value.strip()
+                value = _normalize_secret_value(root[key])
+                if value:
+                    return value
         except Exception:
             pass
         if "." in key:
@@ -32,8 +42,9 @@ def safe_secret_get(*keys: str):
                 except Exception:
                     ok = False
                     break
-            if ok and isinstance(current, str) and current.strip():
-                return current.strip()
+            value = _normalize_secret_value(current) if ok else None
+            if value:
+                return value
     return None
 
 
@@ -68,9 +79,22 @@ def read_api_key(*, secret_keys: tuple[str, ...], env_keys: tuple[str, ...], fil
 
 def get_waqi_key():
     return read_api_key(
-        secret_keys=("WAQI_TOKEN", "waqi_token", "api.WAQI_TOKEN"),
-        env_keys=("WAQI_TOKEN", "AQICN_TOKEN"),
-        file_paths=("api_token.txt", "./api_token.txt"),
+        secret_keys=(
+            "WAQI_TOKEN",
+            "WAQI_API_KEY",
+            "AQICN_TOKEN",
+            "AQICN_API_KEY",
+            "waqi_token",
+            "waqi_api",
+            "api_token",
+            "api.WAQI_TOKEN",
+            "api.WAQI_API_KEY",
+            "api.AQICN_TOKEN",
+            "api.waqi_token",
+            "api.api_token",
+        ),
+        env_keys=("WAQI_TOKEN", "WAQI_API_KEY", "AQICN_TOKEN", "AQICN_API_KEY"),
+        file_paths=("api_token.txt", "./api_token.txt", "waqi_token.txt", "./waqi_token.txt"),
         default="demo",
     )
 

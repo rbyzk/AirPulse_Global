@@ -17,6 +17,7 @@ import requests
 import logging
 import math
 import re
+import html
 import io
 import json
 import os
@@ -244,6 +245,13 @@ st.markdown("""
 html, body, [class*="css"] {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   -webkit-font-smoothing: antialiased;
+}
+.card, .mcard, .info-card, .plant-card, .campaign-card, .checklist-wrap, .model-box,
+.card *, .mcard *, .info-card *, .plant-card *, .campaign-card *, .checklist-wrap *, .model-box * {
+  min-width: 0;
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: none;
 }
 .main { background: var(--bg); }
 .main .block-container { padding: 1.6rem 2.15rem 4.2rem; max-width: 1600px; }
@@ -501,6 +509,45 @@ html, body, [class*="css"] {
 .m-label { font-size:.68rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--gray); margin-bottom:.4rem; }
 .m-value { font-size:2rem; font-weight:800; color:var(--text); line-height:1.1; }
 .m-unit  { font-size:.8rem; color:var(--gray); font-weight:500; margin-top:.15rem; }
+.metric-grid {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+  margin-bottom: .5rem;
+}
+.metric-grid .mcard {
+  height: 100%;
+  margin-bottom: 0;
+}
+.metric-grid .m-value {
+  font-size: clamp(1.55rem, 3vw, 2.1rem);
+}
+.action-card-grid {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+  margin-bottom: .8rem;
+}
+.action-card-title {
+  font-size: 1rem;
+  font-weight: 800;
+  color: #1D1D1F;
+  line-height: 1.35;
+  margin-bottom: .35rem;
+}
+.action-card-copy {
+  font-size: .86rem;
+  line-height: 1.62;
+  color: #4B5563;
+}
+.action-score-mini-grid {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(82px, 1fr));
+  gap: .7rem;
+  margin-top: 1rem;
+}
 
 /* ── ACTION HERO ──────────────────────────────────── */
 .action-hero {
@@ -771,6 +818,13 @@ def inject_runtime_styles() -> None:
             radial-gradient(circle at top left, rgba(255,255,255,.65), transparent 24%),
             linear-gradient(180deg, #f5f7fb 0%, #eef2f8 100%);
         }
+        .card, .mcard, .info-card, .plant-card, .campaign-card, .checklist-wrap, .model-box,
+        .card *, .mcard *, .info-card *, .plant-card *, .campaign-card *, .checklist-wrap *, .model-box * {
+          min-width: 0 !important;
+          word-break: normal !important;
+          overflow-wrap: break-word !important;
+          hyphens: none !important;
+        }
         .main .block-container { padding: 1.5rem 2.1rem 4rem; max-width: 1540px; }
         .hero {
           background:
@@ -845,6 +899,40 @@ def inject_runtime_styles() -> None:
         .mcard { min-height: 142px; }
         .m-value { font-size:2.1rem; font-weight:850; color:#162033; line-height:1.05; letter-spacing:-.03em; }
         .m-unit { font-size:.84rem; color:#7e8a9f; font-weight:600; margin-top:.35rem; line-height:1.45; }
+        .metric-grid {
+          display:grid;
+          grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+          gap: 1rem;
+          align-items: stretch;
+          margin-bottom: .5rem;
+        }
+        .metric-grid .mcard { height:100%; margin-bottom:0; }
+        .metric-grid .m-value { font-size: clamp(1.55rem, 3vw, 2.1rem); }
+        .action-card-grid {
+          display:grid;
+          grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+          gap: 1rem;
+          align-items: stretch;
+          margin-bottom: .8rem;
+        }
+        .action-card-title {
+          font-size: 1rem;
+          font-weight: 800;
+          color: #1D1D1F;
+          line-height: 1.35;
+          margin-bottom: .35rem;
+        }
+        .action-card-copy {
+          font-size: .86rem;
+          line-height: 1.62;
+          color: #4B5563;
+        }
+        .action-score-mini-grid {
+          display:grid;
+          grid-template-columns: repeat(auto-fit, minmax(82px, 1fr));
+          gap:.7rem;
+          margin-top:1rem;
+        }
         .aqi-widget {
           background:#FFFFFF; border-radius:20px; padding:1.5rem;
           box-shadow:0 10px 24px rgba(15,23,42,.05); border:1px solid rgba(15,23,42,.06);
@@ -1902,16 +1990,16 @@ def render_aqi_widget(label, aqi, pm25=0, pm10=0, o3=0, wind_speed=None,
     """, unsafe_allow_html=True)
 
 def render_metric_grid(metrics: list):
-    cols = st.columns(len(metrics))
-    for col, (lbl, val, unit, color) in zip(cols, metrics):
-        with col:
-            st.markdown(f"""
-            <div class="mcard">
-              <div class="m-label">{lbl}</div>
-              <div class="m-value" style="color:{color}">{val}</div>
-              <div class="m-unit">{unit}</div>
-            </div>
-            """, unsafe_allow_html=True)
+    cards = []
+    for lbl, val, unit, color in metrics:
+        cards.append(f"""
+        <div class="mcard">
+          <div class="m-label">{html.escape(str(lbl))}</div>
+          <div class="m-value" style="color:{html.escape(str(color))}">{html.escape(str(val))}</div>
+          <div class="m-unit">{html.escape(str(unit))}</div>
+        </div>
+        """)
+    st.markdown(f"<div class='metric-grid'>{''.join(cards)}</div>", unsafe_allow_html=True)
 
 def render_section(title):
     clean_title = str(title).replace("Â·", "·").replace("â€”", "-")
@@ -3178,27 +3266,27 @@ def page_action():
           <div class="m-label">Top 3 Actions for Today</div>
         </div>
         """, unsafe_allow_html=True)
-        action_cols = st.columns(3, gap="large")
         fallback_actions = top_actions + [{
             "title": "Keep monitoring today's air quality",
             "reason": "As you complete actions, this panel will continue to highlight the next most useful step.",
         }] * max(0, 3 - len(top_actions))
-        for idx, (col, item) in enumerate(zip(action_cols, fallback_actions[:3]), start=1):
-            with col:
-                st.markdown(f"""
-                <div class="card" style="background:#F8FAFC;padding:1rem 1.05rem;height:100%;border:1px solid rgba(0,0,0,.06);margin-bottom:.7rem">
-                  <div style="font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#007AFF;margin-bottom:.45rem">Priority {idx}</div>
-                  <div style="font-size:1rem;font-weight:800;color:#1D1D1F;margin-bottom:.3rem">{item['title']}</div>
-                  <div style="font-size:.85rem;line-height:1.65;color:#4B5563">{item['reason']}</div>
-                </div>
-                """, unsafe_allow_html=True)
+        action_cards = []
+        for idx, item in enumerate(fallback_actions[:3], start=1):
+            action_cards.append(f"""
+            <div class="card" style="background:#F8FAFC;padding:1rem 1.05rem;height:100%;border:1px solid rgba(0,0,0,.06);margin-bottom:0">
+              <div style="font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#007AFF;margin-bottom:.45rem">Priority {idx}</div>
+              <div class="action-card-title">{html.escape(str(item.get('title', 'Action')))}</div>
+              <div class="action-card-copy">{html.escape(str(item.get('reason', 'Review the current air-quality context before planning outdoor activity.')))}</div>
+            </div>
+            """)
+        st.markdown(f"<div class='action-card-grid'>{''.join(action_cards)}</div>", unsafe_allow_html=True)
     with overview_right:
         st.markdown(f"""
         <div class="card" style="height:100%;margin-top:0;min-height:78px">
           <div class="m-label">Action Score</div>
           <div style="font-size:3rem;font-weight:900;color:#007AFF;line-height:1">{action_score}</div>
           <div style="font-size:.9rem;color:#6B7280;margin-top:.25rem">This score reflects the quality of today's choices based on exposure, behavior, and protective actions.</div>
-          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:.7rem;margin-top:1rem">
+          <div class="action-score-mini-grid">
             <div style="background:#F8FAFC;border-radius:14px;padding:.8rem;text-align:center">
               <div style="font-size:.7rem;color:#6B7280;text-transform:uppercase;font-weight:700">Yesterday</div>
               <div style="font-size:1.25rem;font-weight:800;color:#1D1D1F">{yesterday_score}</div>
