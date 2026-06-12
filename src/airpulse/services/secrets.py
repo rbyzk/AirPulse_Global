@@ -101,7 +101,19 @@ def get_waqi_key():
 
 def get_tomorrow_key():
     return read_api_key(
-        secret_keys=("TOMORROW_IO_API_KEY", "tomorrow_io_api_key", "tomorrow_api", "api.TOMORROW_IO_API_KEY", "api.tomorrow_api"),
+        secret_keys=(
+            "TOMORROW_IO_API_KEY",
+            "TOMORROW_API",
+            "WIND_API_KEY",
+            "tomorrow_io_api_key",
+            "tomorrow_api",
+            "wind_api",
+            "api.TOMORROW_IO_API_KEY",
+            "api.TOMORROW_API",
+            "api.WIND_API_KEY",
+            "api.tomorrow_api",
+            "api.wind_api",
+        ),
         env_keys=("TOMORROW_IO_API_KEY", "TOMORROW_API", "WIND_API_KEY"),
         file_paths=("tomorrow_api.txt", "./tomorrow_api.txt", "tomorrow_api", "./tomorrow_api", "wind_api.txt", "./wind_api.txt"),
         default=None,

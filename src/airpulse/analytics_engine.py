@@ -255,8 +255,8 @@ def build_temporal_patterns(hourly_df: pd.DataFrame, pollutant: str = "pm25") ->
             df.groupby("hour")[pollutant]
             .mean()
             .reindex(range(24))
-            .fillna(method="ffill")
-            .fillna(method="bfill")
+            .ffill()
+            .bfill()
         )
 
         weekday_weekend_fig = go.Figure()
@@ -543,7 +543,7 @@ def _compute_history_backtest_accuracy(history_df: pd.DataFrame, pollutant: str 
     if len(daily) < 14:
         return {"error": "Not enough daily points for backtest metrics."}
 
-    predicted = daily.shift(1).rolling(3, min_periods=1).mean().fillna(method="bfill")
+    predicted = daily.shift(1).rolling(3, min_periods=1).mean().bfill()
     actual = daily
     aligned = pd.DataFrame({"actual": actual, "predicted": predicted}).dropna().tail(30)
     if aligned.empty:
