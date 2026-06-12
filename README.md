@@ -68,7 +68,6 @@ AirPulse_Global/
 |-- stations.csv
 |-- .streamlit/
 |   |-- config.toml
-|   |-- secrets.toml.example
 |   `-- secrets.toml.template
 |-- artifacts/
 |-- data/
@@ -215,7 +214,7 @@ The repository is configured to keep local secrets and runtime files out of vers
 - local processed cache files are ignored
 - large model artifacts such as `.pkl` files are ignored
 
-Only templates such as `.streamlit/secrets.toml.template` and `.streamlit/secrets.toml.example` are included.
+Only `.streamlit/secrets.toml.template` is included as the safe onboarding template.
 
 ## Kaggle Notebook
 

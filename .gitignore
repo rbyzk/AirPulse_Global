@@ -8,6 +8,8 @@ __pycache__/
 *.zip
 AirPulse_Global_*.docx
 AirPulse_Global_*.pptx
+artifacts/AirPulse_Global_*.docx
+artifacts/AirPulse_Global_*.pptx
 data/processed/
 artifacts/*.pkl
 artifacts/*.json
