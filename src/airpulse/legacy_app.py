@@ -254,7 +254,7 @@ html, body, [class*="css"] {
   hyphens: none;
 }
 .main { background: var(--bg); }
-.main .block-container { padding: 1.6rem 2.15rem 4.2rem; max-width: 1600px; }
+.main .block-container { padding: 1.6rem 2.15rem 4.2rem; max-width: min(1900px, 96vw); }
 
 /* ── SIDEBAR ─────────────────────────────────────── */
 [data-testid="stSidebar"] {
@@ -825,7 +825,7 @@ def inject_runtime_styles() -> None:
           overflow-wrap: break-word !important;
           hyphens: none !important;
         }
-        .main .block-container { padding: 1.5rem 2.1rem 4rem; max-width: 1540px; }
+        .main .block-container { padding: 1.5rem 2.1rem 4rem; max-width: min(1900px, 96vw); }
         .hero {
           background:
             radial-gradient(circle at top left, rgba(255,255,255,.12), transparent 26%),
@@ -1992,14 +1992,14 @@ def render_aqi_widget(label, aqi, pm25=0, pm10=0, o3=0, wind_speed=None,
 def render_metric_grid(metrics: list):
     cards = []
     for lbl, val, unit, color in metrics:
-        cards.append(f"""
-        <div class="mcard">
-          <div class="m-label">{html.escape(str(lbl))}</div>
-          <div class="m-value" style="color:{html.escape(str(color))}">{html.escape(str(val))}</div>
-          <div class="m-unit">{html.escape(str(unit))}</div>
-        </div>
-        """)
-    st.markdown(f"<div class='metric-grid'>{''.join(cards)}</div>", unsafe_allow_html=True)
+        cards.append(
+            '<div class="mcard">'
+            f'<div class="m-label">{html.escape(str(lbl))}</div>'
+            f'<div class="m-value" style="color:{html.escape(str(color))}">{html.escape(str(val))}</div>'
+            f'<div class="m-unit">{html.escape(str(unit))}</div>'
+            '</div>'
+        )
+    st.markdown('<div class="metric-grid">' + "".join(cards) + "</div>", unsafe_allow_html=True)
 
 def render_section(title):
     clean_title = str(title).replace("Â·", "·").replace("â€”", "-")
@@ -3272,14 +3272,14 @@ def page_action():
         }] * max(0, 3 - len(top_actions))
         action_cards = []
         for idx, item in enumerate(fallback_actions[:3], start=1):
-            action_cards.append(f"""
-            <div class="card" style="background:#F8FAFC;padding:1rem 1.05rem;height:100%;border:1px solid rgba(0,0,0,.06);margin-bottom:0">
-              <div style="font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#007AFF;margin-bottom:.45rem">Priority {idx}</div>
-              <div class="action-card-title">{html.escape(str(item.get('title', 'Action')))}</div>
-              <div class="action-card-copy">{html.escape(str(item.get('reason', 'Review the current air-quality context before planning outdoor activity.')))}</div>
-            </div>
-            """)
-        st.markdown(f"<div class='action-card-grid'>{''.join(action_cards)}</div>", unsafe_allow_html=True)
+            action_cards.append(
+                '<div class="card" style="background:#F8FAFC;padding:1rem 1.05rem;height:100%;border:1px solid rgba(0,0,0,.06);margin-bottom:0">'
+                f'<div style="font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#007AFF;margin-bottom:.45rem">Priority {idx}</div>'
+                f'<div class="action-card-title">{html.escape(str(item.get("title", "Action")))}</div>'
+                f'<div class="action-card-copy">{html.escape(str(item.get("reason", "Review the current air-quality context before planning outdoor activity.")))}</div>'
+                '</div>'
+            )
+        st.markdown('<div class="action-card-grid">' + "".join(action_cards) + "</div>", unsafe_allow_html=True)
     with overview_right:
         st.markdown(f"""
         <div class="card" style="height:100%;margin-top:0;min-height:78px">
