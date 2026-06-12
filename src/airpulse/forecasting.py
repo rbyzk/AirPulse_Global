@@ -800,6 +800,69 @@ def parse_waqi_daily_forecast(forecast_raw, pollutant: str):
         return []
 
 
+def _aqi_to_concentration(aqi_value: float, pollutant: str) -> float:
+    """Convert WAQI/EPA-style AQI forecast values to pollutant concentration."""
+    aqi = safe_float(aqi_value, float("nan"))
+    pollutant = str(pollutant).lower().strip()
+    if not np.isfinite(aqi):
+        return float("nan")
+    breakpoints = {
+        "pm25": [
+            (0, 50, 0.0, 12.0),
+            (51, 100, 12.1, 35.4),
+            (101, 150, 35.5, 55.4),
+            (151, 200, 55.5, 150.4),
+            (201, 300, 150.5, 250.4),
+            (301, 500, 250.5, 500.4),
+        ],
+        "pm10": [
+            (0, 50, 0.0, 54.0),
+            (51, 100, 55.0, 154.0),
+            (101, 150, 155.0, 254.0),
+            (151, 200, 255.0, 354.0),
+            (201, 300, 355.0, 424.0),
+            (301, 500, 425.0, 604.0),
+        ],
+    }.get(pollutant)
+    if not breakpoints:
+        return max(0.0, float(aqi))
+    for aqi_lo, aqi_hi, conc_lo, conc_hi in breakpoints:
+        if aqi_lo <= aqi <= aqi_hi:
+            return ((aqi - aqi_lo) / max(aqi_hi - aqi_lo, 1)) * (conc_hi - conc_lo) + conc_lo
+    return max(0.0, float(aqi))
+
+
+def _normalize_waqi_forecast_row(row: dict, pollutant: str) -> dict:
+    normalized = dict(row)
+    if pollutant in {"pm25", "pm10"}:
+        for key in ("avg", "min", "max"):
+            if key in normalized:
+                normalized[key] = _aqi_to_concentration(normalized[key], pollutant)
+        normalized["source_scale"] = "waqi_aqi_converted_to_concentration"
+    return normalized
+
+
+def _native_forecast_is_plausible(fc_df: pd.DataFrame, history_df: pd.DataFrame, pollutant: str) -> tuple[bool, str]:
+    if fc_df.empty or pollutant not in history_df.columns:
+        return True, ""
+    fc_values = pd.to_numeric(fc_df["value"], errors="coerce").dropna()
+    hist_values = pd.to_numeric(history_df[pollutant], errors="coerce").dropna()
+    if fc_values.empty or hist_values.empty:
+        return True, ""
+    latest = float(hist_values.iloc[-1])
+    hist_p95 = float(hist_values.quantile(0.95))
+    hist_max = float(hist_values.max())
+    peak = float(fc_values.max())
+    plausible_peak = max(latest * 3.0 + 25.0, hist_p95 * 2.2, hist_max * 1.35, 60.0)
+    hard_caps = {"pm25": 125.0, "pm10": 260.0, "o3": 240.0, "no2": 220.0}
+    hard_cap = hard_caps.get(str(pollutant).lower().strip())
+    if hard_cap and peak > hard_cap:
+        return False, f"provider_forecast_peak_above_cap_{hard_cap:g}"
+    if peak > plausible_peak:
+        return False, "provider_forecast_outlier_vs_observed_history"
+    return True, ""
+
+
 def _prepare_history_frame(df: pd.DataFrame, pollutant: str, history_days: int) -> pd.DataFrame:
     if df.empty or pollutant not in df.columns:
         return pd.DataFrame(columns=["date", pollutant])
@@ -1578,27 +1641,37 @@ def generate_forecast_bundle(feed_data: Dict, pollutant: str, days: int = 7,
 
     waqi_daily = parse_waqi_daily_forecast(feed_data.get("forecast", {}), pollutant)
     waqi_daily = [row for row in waqi_daily if isinstance(row, dict) and "day" in row and "avg" in row]
-    if prefer_native_waqi and waqi_daily:
-        fc_dates = [pd.to_datetime(row["day"]) for row in waqi_daily[:days]]
-        fc_avg = [max(0, safe_float(row.get("avg"))) for row in waqi_daily[:days]]
-        fc_max = [max(0, safe_float(row.get("max"), fc_avg[i])) for i, row in enumerate(waqi_daily[:days])]
-        fc_min = [max(0, safe_float(row.get("min"), fc_avg[i])) for i, row in enumerate(waqi_daily[:days])]
-        fc_df = pd.DataFrame({"date": fc_dates, "value": fc_avg, "upper": fc_max, "lower": fc_min})
-        history_df, history_diag = _build_observed_history(feed_data, pollutant, station_key)
-        history_df = _prepare_history_frame(history_df, pollutant, int(FORECAST_DEFAULTS["history_days"]))
-        return _build_result(
-            history_df=history_df,
-            fc_df=fc_df,
-            pollutant=pollutant,
-            model_used="WAQI_NATIVE",
-            data_note="Official WAQI provider forecast feed is being used for the future days shown here.",
-            diagnostics={**history_diag, "station_key": station_key or "unknown"},
-            past_forecast_df=_empty_validation_frame(),
-            model_accuracy_pct=None,
-        )
+    waqi_daily = [_normalize_waqi_forecast_row(row, pollutant) for row in waqi_daily]
 
     history_df, history_diag = _build_observed_history(feed_data, pollutant, station_key)
     history_df = _prepare_history_frame(history_df, pollutant, int(FORECAST_DEFAULTS["history_days"]))
+
+    if prefer_native_waqi and waqi_daily and not history_df.empty:
+        native_rows = waqi_daily[:days]
+        fc_dates = [pd.to_datetime(row["day"]) for row in native_rows]
+        fc_avg = [max(0, safe_float(row.get("avg"))) for row in native_rows]
+        fc_max = [max(0, safe_float(row.get("max"), fc_avg[i])) for i, row in enumerate(native_rows)]
+        fc_min = [max(0, safe_float(row.get("min"), fc_avg[i])) for i, row in enumerate(native_rows)]
+        fc_df = pd.DataFrame({"date": fc_dates, "value": fc_avg, "upper": fc_max, "lower": fc_min})
+        native_ok, native_reject_reason = _native_forecast_is_plausible(fc_df, history_df, pollutant)
+        if not native_ok:
+            history_diag["fallback_reason"] = native_reject_reason
+            history_diag["native_waqi_forecast_rejected"] = "true"
+            history_diag["native_waqi_forecast_peak"] = f"{float(pd.to_numeric(fc_df['value'], errors='coerce').max()):.1f}"
+        else:
+            source_scale = native_rows[0].get("source_scale") if native_rows else None
+            if source_scale:
+                history_diag["native_waqi_forecast_scale"] = str(source_scale)
+            return _build_result(
+                history_df=history_df,
+                fc_df=fc_df,
+                pollutant=pollutant,
+                model_used="WAQI_NATIVE",
+                data_note="Official WAQI provider forecast feed is being used for the future days shown here.",
+                diagnostics={**history_diag, "station_key": station_key or "unknown"},
+                past_forecast_df=_empty_validation_frame(),
+                model_accuracy_pct=None,
+            )
     if history_df.empty:
         return _build_result(
             history_df=pd.DataFrame(columns=["date", pollutant]),
@@ -1615,8 +1688,11 @@ def generate_forecast_bundle(feed_data: Dict, pollutant: str, days: int = 7,
     fc_df, diagnostics = _single_point_forecast(hw_train, days) if len(hw_train) < 2 else _holt_winters_forecast(hw_train, days, pollutant)
     diagnostics["safe_mode"] = "true"
     if prefer_native_waqi:
-        diagnostics["fallback_reason"] = "waqi_daily_forecast_unavailable"
-        data_note = "WAQI daily forecast was unavailable, so AirPulse is using a conservative time-series fallback."
+        diagnostics.setdefault("fallback_reason", "waqi_daily_forecast_unavailable")
+        if diagnostics.get("native_waqi_forecast_rejected") == "true":
+            data_note = "WAQI daily forecast was available but looked inconsistent with recent observed history, so AirPulse is using a conservative time-series fallback."
+        else:
+            data_note = "WAQI daily forecast was unavailable, so AirPulse is using a conservative time-series fallback."
     else:
         data_note = "AirPulse is using a lightweight fallback forecast built from the recent observed history."
     return _build_result(
