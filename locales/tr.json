@@ -1,0 +1,119 @@
+{
+  "app": {
+    "page_title": "AirPulse Global | Hava Kalitesi Zekâsı",
+    "brand": "AirPulse",
+    "tagline": "Global Zekâ"
+  },
+  "lang": {
+    "label": "Dil",
+    "en": "İngilizce",
+    "tr": "Türkçe"
+  },
+  "common": {
+    "live": "CANLI",
+    "data_refreshed": "Veri yenilenme zamanı: {value}",
+    "views": "{count} görüntüleme",
+    "source": "Kaynak",
+    "global_city_search": "Global Şehir Arama",
+    "date_generated": "Oluşturulma: {value}",
+    "not_available": "Yok"
+  },
+  "nav": {
+    "dashboard": "Gösterge Paneli",
+    "stations_map": "İstasyon Haritası",
+    "forecast": "Tahmin",
+    "take_action": "Harekete Geç",
+    "analytics": "Analitik",
+    "reports": "Raporlar",
+    "about": "Hakkında"
+  },
+  "sidebar": {
+    "waqi": "WAQI",
+    "wind": "Rüzgâr",
+    "station": "İstasyon"
+  },
+  "aqi": {
+    "good": {
+      "name": "İyi",
+      "desc": "Hava kalitesi tatmin edici; risk yok ya da çok düşük."
+    },
+    "moderate": {
+      "name": "Orta",
+      "desc": "Kabul edilebilir; hassas kişiler uzun süreli dış ortam eforunu sınırlamalı."
+    },
+    "sensitive": {
+      "name": "Hassas Gruplar İçin Sağlıksız",
+      "desc": "Hassas gruplar etkilenebilir. Genel halkın etkilenme olasılığı daha düşüktür."
+    },
+    "unhealthy": {
+      "name": "Sağlıksız",
+      "desc": "Herkes etkileri hissetmeye başlayabilir. Hassas gruplar daha ciddi etkilenir."
+    },
+    "very_unhealthy": {
+      "name": "Çok Sağlıksız",
+      "desc": "Acil durum seviyesinde sağlık uyarısı. Tüm nüfus daha fazla etkilenebilir."
+    },
+    "hazardous": {
+      "name": "Tehlikeli",
+      "desc": "Sağlık alarmı: herkes ciddi etkiler yaşayabilir. Dış etkinliklerden kaçının."
+    }
+  },
+  "forecast": {
+    "title": "Tahmin",
+    "subtitle": "Kirletici trendi ve ileriye dönük analiz",
+    "guide": "Bu sayfa ne yapar: Girdiğiniz şehir için Open-Meteo üzerinden son 90 günün gerçek tarihsel kirletici verisini yükler, ardından bunu ileriye dönük tahmin, güven bandı ve model doğruluğu bağlamıyla genişletir.",
+    "enter_city": "Tahmin için şehir girin",
+    "pollutant": "Kirletici",
+    "horizon": "Tahmin ufku (gün)",
+    "latest_observed": "Son Gözlem",
+    "forecast_mean": "Tahmin Ortalaması",
+    "peak_risk": "En Yüksek Risk",
+    "who_breach_days": "WHO Eşik Günleri",
+    "model_accuracy": "Model Doğruluğu",
+    "waiting_actuals": "Gerçekleşen veriler bekleniyor",
+    "interpretation": "Tahmin Yorumu",
+    "computed": "Bu tahmin nasıl hesaplandı?",
+    "prophet_title": "Prophet + Open-Meteo Hava Değişkenleri",
+    "waqi_title": "WAQI Yerel Tahmini",
+    "fallback_title": "Holt-Winters / Sentetik Yedek",
+    "within": "WHO eşiği içinde ({who} {unit})",
+    "exceeding": "WHO eşiğini aşıyor ({who} {unit})",
+    "what_used": "Bu Tahminde Kullanılanlar"
+  },
+  "analytics": {
+    "title": "Analitik Laboratuvarı",
+    "subtitle": "Tanımlayıcıdan tanısal hava kalitesi zekâsına",
+    "guide": "Bu sayfa ne gösterir: Seçili şehir için zamansal desenler, coğrafi yayılım, model doğruluğu, şehirler arası karşılaştırma ve anomali tespiti. Aşağıdaki analiz lensleri yalnızca gerektiğinde yüklenir.",
+    "primary_city": "Birincil şehir",
+    "compare_against": "Karşılaştır",
+    "pollutant_focus": "Kirletici odağı",
+    "analysis_lens": "Analiz lensi",
+    "temporal_patterns": "Zamansal Desenler",
+    "geospatial_correlation": "Coğrafi Korelasyon",
+    "forecast_accuracy": "Tahmin Doğruluğu",
+    "comparative_analysis": "Karşılaştırmalı Analiz",
+    "anomaly_detection": "Anomali Tespiti",
+    "current_aqi": "Güncel AQI",
+    "region_mean": "Bölge Ortalaması",
+    "normalized_aqi": "Normalize AQI",
+    "regional_rank": "Bölgesel Sıra",
+    "wind_dispersion": "Rüzgâr kaynaklı yayılım",
+    "neighbor_lag": "Komşu şehir gecikme tepkisi",
+    "station_correlation": "İstasyon korelasyon matrisi",
+    "forecast_dashboard": "Tahmin doğrulama paneli",
+    "comparison": "İki şehir karşılaştırması",
+    "anomaly_title": "AQI anomali tespiti",
+    "fallback_note": "Bu kirletici için arşiv verisi bulunmadığından panel tarihsel backtest yedeğini gösteriyor."
+  },
+  "reports": {
+    "title": "Raporlar",
+    "subtitle": "Profesyonel çıktı · her şehir · kişisel karbon ayak izi",
+    "report_city": "Rapor Şehri",
+    "downloads": "İndirmeler",
+    "share": "Raporunu Paylaş",
+    "pdf": "PDF Raporu İndir (A4)",
+    "jpeg": "Sosyal Kartı İndir (JPEG)",
+    "csv": "Tüm Veriyi İndir (CSV)",
+    "share_text": "{city} için hava kalitesi özeti: AQI {aqi} ({level}), PM2.5 {pm25:.1f} ug/m3, aylık karbon ayak izi {footprint:.2f} t CO2. AirPulse Global ile oluşturuldu. #CleanAir #AirPulseGlobal #ClimateAction"
+  }
+}

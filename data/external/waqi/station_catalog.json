@@ -1,0 +1,5332 @@
+[
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8159,
+    "aqi": "53",
+    "station_name": "Istanbul Sirinevler, Turkey",
+    "latitude": 41.00245,
+    "longitude": 28.83866
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 11611,
+    "aqi": "61",
+    "station_name": "Istanbul Sultangazi, Turkey",
+    "latitude": 41.10197,
+    "longitude": 28.87202
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 14845,
+    "aqi": "61",
+    "station_name": "Sultangazi 1, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8152,
+    "aqi": "61",
+    "station_name": "Istanbul Basaksehir, Turkey",
+    "latitude": 41.09552,
+    "longitude": 28.78986
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 9558,
+    "aqi": "49",
+    "station_name": "Istanbul (Buyukada), Turkey",
+    "latitude": 40.8578714,
+    "longitude": 29.1209951
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 9559,
+    "aqi": "30",
+    "station_name": "Goztepe, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8160,
+    "aqi": "62",
+    "station_name": "Istanbul Umraniye, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8154,
+    "aqi": "69",
+    "station_name": "Istanbul Kagithane, Turkey",
+    "latitude": 41.09233,
+    "longitude": 28.97478
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 14841,
+    "aqi": "46",
+    "station_name": "Arnavutk\u00f6y, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 9562,
+    "aqi": "38",
+    "station_name": "Maslak, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8156,
+    "aqi": "52",
+    "station_name": "Istanbul Mecidiyekoy, Turkey",
+    "latitude": 41.06596,
+    "longitude": 28.99446
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8773,
+    "aqi": "70",
+    "station_name": "Selimiye, Turkey",
+    "latitude": 41.003818,
+    "longitude": 29.026914
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 9564,
+    "aqi": "68",
+    "station_name": "Avcilar, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4148,
+    "aqi": "50",
+    "station_name": "Istanbul (Kartal), Turkey",
+    "latitude": 40.89,
+    "longitude": 29.2075
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4149,
+    "aqi": "38",
+    "station_name": "Istanbul (Sariyer), Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8155,
+    "aqi": "52",
+    "station_name": "Istanbul Kandilli, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 14842,
+    "aqi": "53",
+    "station_name": "Ba\u011fc\u0131lar, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4144,
+    "aqi": "22",
+    "station_name": "Istanbul (Alibeykoy), Turkey",
+    "latitude": 41.057672,
+    "longitude": 28.945682
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 14847,
+    "aqi": "61",
+    "station_name": "Sultangazi 3, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 14844,
+    "aqi": "52",
+    "station_name": "Sancaktepe, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4150,
+    "aqi": "52",
+    "station_name": "Istanbul (Umraniye), Turkey",
+    "latitude": 41.013611,
+    "longitude": 29.162222
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8772,
+    "aqi": "62",
+    "station_name": "Catladikapi, Turkey",
+    "latitude": 41.0025,
+    "longitude": 28.975278
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4147,
+    "aqi": "20",
+    "station_name": "Istanbul (Kadikoy), Turkey",
+    "latitude": 40.991944,
+    "longitude": 29.033611
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4151,
+    "aqi": "30",
+    "station_name": "Istanbul (Uskudar), Turkey",
+    "latitude": 41.015278,
+    "longitude": 29.025
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 9560,
+    "aqi": "38",
+    "station_name": "Kandilli, Turkey",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4146,
+    "aqi": "54",
+    "station_name": "Istanbul (Esenler), Turkey",
+    "latitude": 41.038333,
+    "longitude": 28.888056
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8161,
+    "aqi": "30",
+    "station_name": "Istanbul Uskudar, Turkey",
+    "latitude": 41.02705,
+    "longitude": 29.02489
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4145,
+    "aqi": "52",
+    "station_name": "Istanbul (Besiktas), Turkey",
+    "latitude": 41.053889,
+    "longitude": 29.01
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4143,
+    "aqi": "55",
+    "station_name": "Istanbul (Aksaray), Turkey",
+    "latitude": 41.014722,
+    "longitude": 28.954722
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 5382,
+    "aqi": "61",
+    "station_name": "Istanbul (Kagithane), Turkey",
+    "latitude": 41.087733,
+    "longitude": 28.982773
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 14843,
+    "aqi": "38",
+    "station_name": "Mobil 2, Turkey",
+    "latitude": 41.051663093475156,
+    "longitude": 28.867944221876538
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 4152,
+    "aqi": "53",
+    "station_name": "Istanbul (Yenibosna), Turkey",
+    "latitude": 40.998889,
+    "longitude": 28.826667
+  },
+  {
+    "seed_city": "Istanbul",
+    "seed_country": "Turkey",
+    "search_keyword": "istanbul",
+    "waqi_uid": 8157,
+    "aqi": "55",
+    "station_name": "Istanbul Silivri, Turkey",
+    "latitude": 41.089333,
+    "longitude": 28.255444
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 3193,
+    "aqi": "109",
+    "station_name": "London Marylebone Road, United Kingdom",
+    "latitude": 51.52253,
+    "longitude": -0.154611
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 11653,
+    "aqi": "105",
+    "station_name": "London Honor Oak Park, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 11767,
+    "aqi": "-",
+    "station_name": "Hounslow Chiswick, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14604,
+    "aqi": "122",
+    "station_name": "Westminster - Oxford Street, United Kingdom",
+    "latitude": 51.5139287404213,
+    "longitude": -0.152792701881935
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 3194,
+    "aqi": "100",
+    "station_name": "London N. Kensington, United Kingdom",
+    "latitude": 51.52105,
+    "longitude": -0.213492
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7953,
+    "aqi": "114",
+    "station_name": "Greenwich - A206 Burrage Grove, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 3166,
+    "aqi": "122",
+    "station_name": "Camden Kerbside, United Kingdom",
+    "latitude": 51.54421,
+    "longitude": -0.175269
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14612,
+    "aqi": "102",
+    "station_name": "Wandsworth - Putney, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14627,
+    "aqi": "-",
+    "station_name": "Richmond Upon Thames - Castelnau, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7948,
+    "aqi": "-",
+    "station_name": "Tower Hamlets - Blackwall, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7945,
+    "aqi": "93",
+    "station_name": "Camden - Euston Road, United Kingdom",
+    "latitude": 51.5277066194645,
+    "longitude": -0.129053205282516
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14596,
+    "aqi": "105",
+    "station_name": "Islington - Arsenal, United Kingdom",
+    "latitude": 51.557895,
+    "longitude": -0.106989
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7944,
+    "aqi": "119",
+    "station_name": "Brent - Ikea, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7955,
+    "aqi": "39",
+    "station_name": "Greenwich - Woolwich Flyover, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 10876,
+    "aqi": "41",
+    "station_name": "Greenwich - John Harrison Way, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 11766,
+    "aqi": "8",
+    "station_name": "Hounslow Brentford, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14631,
+    "aqi": "82",
+    "station_name": "Camden - Coopers Lane, United Kingdom",
+    "latitude": 51.533238,
+    "longitude": -0.129594
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 12504,
+    "aqi": "99",
+    "station_name": "Brent - Neasden Lane, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 12503,
+    "aqi": "107",
+    "station_name": "Brent - John Keble Primary School, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 10874,
+    "aqi": "109",
+    "station_name": "London Westminster, United Kingdom",
+    "latitude": 51.49467,
+    "longitude": -0.131931
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 3195,
+    "aqi": "100",
+    "station_name": "London Teddington Bushy Park, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14626,
+    "aqi": "114",
+    "station_name": "Wandsworth - Tooting High Street, United Kingdom",
+    "latitude": 51.429331,
+    "longitude": -0.166524
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14614,
+    "aqi": "89",
+    "station_name": "Lambeth - Brixton Road, United Kingdom",
+    "latitude": 51.464113541162,
+    "longitude": -0.11458102695123
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14638,
+    "aqi": "82",
+    "station_name": "Westminster - Elizabeth Bridge, United Kingdom",
+    "latitude": 51.4922482333024,
+    "longitude": -0.147114752900186
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14610,
+    "aqi": "-",
+    "station_name": "Richmond Upon Thames - Barnes Wetlands, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7954,
+    "aqi": "106",
+    "station_name": "Greenwich - Plumstead High Street, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14616,
+    "aqi": "33",
+    "station_name": "Greenwich - Fiveways Sidcup Rd A20, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14611,
+    "aqi": "36",
+    "station_name": "Greenwich - Blackheath, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 7957,
+    "aqi": "105",
+    "station_name": "Greenwich - Westhorne Avenue, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 10103,
+    "aqi": "-",
+    "station_name": "Greenwich - Trafalgar Road (Hoskins St), United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 3189,
+    "aqi": "99",
+    "station_name": "London Bloomsbury, United Kingdom",
+    "latitude": 51.52229,
+    "longitude": -0.125889
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 3179,
+    "aqi": "-",
+    "station_name": "Haringey Roadside, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14608,
+    "aqi": "93",
+    "station_name": "Wandsworth - Battersea, United Kingdom",
+    "latitude": 51.4794395281222,
+    "longitude": -0.141786953606306
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14625,
+    "aqi": "104",
+    "station_name": "Wandsworth - Lavender Hill (Clapham Jct), United Kingdom",
+    "latitude": 51.4636903568111,
+    "longitude": -0.166713485994806
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14618,
+    "aqi": "95",
+    "station_name": "Merton - Merton Road, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 11768,
+    "aqi": "-",
+    "station_name": "Waltham Forest Dawlish Rd, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 5724,
+    "aqi": "100",
+    "station_name": "London",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14597,
+    "aqi": "102",
+    "station_name": "Islington - Holloway Road, United Kingdom",
+    "latitude": 51.555378,
+    "longitude": -0.116146
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14634,
+    "aqi": "104",
+    "station_name": "Greenwich - Falconwood FDMS, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14617,
+    "aqi": "21",
+    "station_name": "Lambeth - Streatham Green, United Kingdom",
+    "latitude": 51.4282131429499,
+    "longitude": -0.13186863879576
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14594,
+    "aqi": "118",
+    "station_name": "Enfield - Bowes Primary School, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 10875,
+    "aqi": "122",
+    "station_name": "Brent - ARK Franklin Primary Academy, United Kingdom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14636,
+    "aqi": "-",
+    "station_name": "Southwark - Tower Bridge Road, United Kingdom",
+    "latitude": 51.5013906712066,
+    "longitude": -0.0782034373606952
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14606,
+    "aqi": "-",
+    "station_name": "Southwark - Elephant and Castle, United Kingdom",
+    "latitude": 51.4931557048667,
+    "longitude": -0.101527038274853
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14605,
+    "aqi": "-",
+    "station_name": "Westminster - Horseferry Road, United Kingdom",
+    "latitude": 51.494681,
+    "longitude": -0.131938
+  },
+  {
+    "seed_city": "London",
+    "seed_country": "United Kingdom",
+    "search_keyword": "london",
+    "waqi_uid": 14607,
+    "aqi": "-",
+    "station_name": "Lambeth - Bondway Interchange, United Kingdom",
+    "latitude": 51.4854867739729,
+    "longitude": -0.124545234819213
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3101,
+    "aqi": "40",
+    "station_name": "Tremblay-en-france, Paris",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3082,
+    "aqi": "95",
+    "station_name": "Paris 18eme, Paris",
+    "latitude": 48.8917,
+    "longitude": 2.34563
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3085,
+    "aqi": "143",
+    "station_name": "Gennevilliers, Paris",
+    "latitude": 48.9302,
+    "longitude": 2.29421
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3089,
+    "aqi": "95",
+    "station_name": "Boulevard Haussmann, Paris",
+    "latitude": 48.8733,
+    "longitude": 2.32957
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3092,
+    "aqi": "49",
+    "station_name": "Place De Lopera, Paris",
+    "latitude": 48.8704,
+    "longitude": 2.33241
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3091,
+    "aqi": "53",
+    "station_name": "Place Victor Basch, Paris",
+    "latitude": 48.8277,
+    "longitude": 2.3267
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 12763,
+    "aqi": "125",
+    "station_name": "Paris 1er Les Halles, Paris",
+    "latitude": 48.8621,
+    "longitude": 2.34462
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3086,
+    "aqi": "119",
+    "station_name": "Avenue Des Champs Elysees, Paris",
+    "latitude": 48.8686,
+    "longitude": 2.31166
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3097,
+    "aqi": "110",
+    "station_name": "La Defense, Paris",
+    "latitude": 48.8913,
+    "longitude": 2.24064
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3102,
+    "aqi": "51",
+    "station_name": "Nogent-sur-marne, Paris",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 6937,
+    "aqi": "37",
+    "station_name": "Paris Stade Lenglen, Paris",
+    "latitude": 48.8303,
+    "longitude": 2.26972
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3105,
+    "aqi": "85",
+    "station_name": "Gonesse, Paris",
+    "latitude": 48.9908,
+    "longitude": 2.44461
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3088,
+    "aqi": "118",
+    "station_name": "Boulevard Peripherique Est, Paris",
+    "latitude": 48.8386,
+    "longitude": 2.41278
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3098,
+    "aqi": "123",
+    "station_name": "Autoroute A1 - Saint-denis, Paris",
+    "latitude": 48.9251,
+    "longitude": 2.35654
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3099,
+    "aqi": "143",
+    "station_name": "Bobigny, Paris",
+    "latitude": 48.9024,
+    "longitude": 2.45261
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3103,
+    "aqi": "111",
+    "station_name": "Vitry-sur-seine, Paris",
+    "latitude": 48.7759,
+    "longitude": 2.37577
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 5722,
+    "aqi": "119",
+    "station_name": "Paris",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3100,
+    "aqi": "-",
+    "station_name": "Route Nationale 2 - Pantin, Paris",
+    "latitude": 48.9022,
+    "longitude": 2.3907
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3090,
+    "aqi": "-",
+    "station_name": "Paris Centre, Paris",
+    "latitude": 48.8593,
+    "longitude": 2.35101
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 10946,
+    "aqi": "-",
+    "station_name": ", Quai De Paris - Trafic, Rouen, France",
+    "latitude": 49.4366914897979,
+    "longitude": 1.09855494496119
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3093,
+    "aqi": "34",
+    "station_name": "Lognes, Paris",
+    "latitude": 48.8403,
+    "longitude": 2.63463
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 12762,
+    "aqi": "99",
+    "station_name": "Rambouillet, Paris",
+    "latitude": 48.6337,
+    "longitude": 1.83043
+  },
+  {
+    "seed_city": "Paris",
+    "seed_country": "France",
+    "search_keyword": "paris",
+    "waqi_uid": 3104,
+    "aqi": "42",
+    "station_name": "Cergy-pontoise, Paris",
+    "latitude": 49.0459,
+    "longitude": 2.04104
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 6179,
+    "aqi": "89",
+    "station_name": "berlin-buckow; Blankenfelde-Mahlow, Germany",
+    "latitude": 52.349444444444,
+    "longitude": 13.424166666667
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 13850,
+    "aqi": "63",
+    "station_name": "Wildau, Germany",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10036,
+    "aqi": "82",
+    "station_name": "Neuk\u00f6lln-Silbersteinstr., Berlin, Germany",
+    "latitude": 52.467534,
+    "longitude": 13.441654
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10033,
+    "aqi": "59",
+    "station_name": "Buch, Berlin, Germany",
+    "latitude": 52.644169,
+    "longitude": 13.483079
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10031,
+    "aqi": "57",
+    "station_name": "Grunewald (3.5 m), Berlin, Germany",
+    "latitude": 52.473192,
+    "longitude": 13.225144
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10034,
+    "aqi": "87",
+    "station_name": "Friedrichshagen, Berlin, Germany",
+    "latitude": 52.447697,
+    "longitude": 13.64705
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10040,
+    "aqi": "91",
+    "station_name": "Mariendorf, Mariendorfer Damm, Berlin, Germany",
+    "latitude": 52.438115,
+    "longitude": 13.38772
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10039,
+    "aqi": "70",
+    "station_name": "Mitte, Br\u00fcckenstra\u00dfe, Berlin, Germany",
+    "latitude": 52.513606,
+    "longitude": 13.418833
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10038,
+    "aqi": "107",
+    "station_name": "Friedrichshain-Frankfurter Allee, Berlin, Germany",
+    "latitude": 52.514072,
+    "longitude": 13.469931
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10035,
+    "aqi": "76",
+    "station_name": "Steglitz-Schildhornstr., Berlin, Germany",
+    "latitude": 52.463611,
+    "longitude": 13.31825
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10032,
+    "aqi": "65",
+    "station_name": "Neuk\u00f6lln-Nansenstra\u00dfe, Berlin, Germany",
+    "latitude": 52.489451,
+    "longitude": 13.430844
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 13851,
+    "aqi": "76",
+    "station_name": "Karl-Marx-Stra\u00dfe, Berlin, Germany",
+    "latitude": 52.483812,
+    "longitude": 13.429672
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 6132,
+    "aqi": "65",
+    "station_name": "Berlin, Germany",
+    "latitude": 52.5200066,
+    "longitude": 13.404954
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 6194,
+    "aqi": "85",
+    "station_name": "Bernau, Lohm\u00fchlenstr. v, Germany",
+    "latitude": 52.6775,
+    "longitude": 13.582222222222
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 6200,
+    "aqi": "70",
+    "station_name": "Sch\u00f6nefeld, Flughafen*, Germany",
+    "latitude": 52.376666666667,
+    "longitude": 13.5325
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 13852,
+    "aqi": "82",
+    "station_name": "Leipziger Stra\u00dfe, Berlin, Germany",
+    "latitude": 52.509813,
+    "longitude": 13.382377
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10030,
+    "aqi": "63",
+    "station_name": "Wedding-Amrumer Str., Berlin, Germany",
+    "latitude": 52.543041,
+    "longitude": 13.349326
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 10037,
+    "aqi": "-",
+    "station_name": "Neuk\u00f6lln-Karl-Marx-Str. 76, Berlin, Germany",
+    "latitude": 52.481709,
+    "longitude": 13.433967
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 7458,
+    "aqi": "16",
+    "station_name": "berlin; Canton, Ohio, USA",
+    "latitude": 40.800797,
+    "longitude": -81.372853
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 7373,
+    "aqi": "-",
+    "station_name": "berlingtan; Burlington, Vermont, USA",
+    "latitude": 44.476101,
+    "longitude": -73.210297
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 4,
+    "aqi": "30",
+    "station_name": "berlington; Burlington, Ontario, Canada",
+    "latitude": 43.315111,
+    "longitude": -79.802639
+  },
+  {
+    "seed_city": "Berlin",
+    "seed_country": "Germany",
+    "search_keyword": "berlin",
+    "waqi_uid": 6188,
+    "aqi": "65",
+    "station_name": "berlin-staaken; Potsdam, Gro\u00df Glienicke, Germany",
+    "latitude": 52.484166666667,
+    "longitude": 13.123611111111
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 9118,
+    "aqi": "-",
+    "station_name": "Milano Senato, Lombardia, Italy",
+    "latitude": 45.470501,
+    "longitude": 9.19746075
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 9132,
+    "aqi": "-",
+    "station_name": "Milano Pascal Citt\u00e0 Studi, Lombardia, Italy",
+    "latitude": 45.478347,
+    "longitude": 9.231667
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 10044,
+    "aqi": "-",
+    "station_name": "Sesto San Giovanni , Lombardia, Italy",
+    "latitude": 45.53476819,
+    "longitude": 9.23610903
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 11437,
+    "aqi": "12",
+    "station_name": "milan; East Syracuse, New York, USA",
+    "latitude": 43.052351,
+    "longitude": -76.059185
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 10803,
+    "aqi": "-",
+    "station_name": "milandadeebeulo; Miranda de Ebro II, Burgos, Spain",
+    "latitude": 42.688055550005,
+    "longitude": -2.9405555502216
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 11808,
+    "aqi": "-",
+    "station_name": "milandadeebeulo; Miranda de Ebro I, Burgos, Spain",
+    "latitude": 42.684444439738,
+    "longitude": -2.9175000000954
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 9128,
+    "aqi": "-",
+    "station_name": "Monza Machiavelli, Lombardia, Italy",
+    "latitude": 45.574117,
+    "longitude": 9.263808
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 9119,
+    "aqi": "-",
+    "station_name": "Saronno Santuario, Lombardia, Italy",
+    "latitude": 45.626104,
+    "longitude": 9.025004
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 2589,
+    "aqi": "68",
+    "station_name": "Port Dickson, Negeri Sembilan, Malaysia",
+    "latitude": 2.441383,
+    "longitude": 101.866858
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 196,
+    "aqi": "51",
+    "station_name": "Odessa Gonzales, Midland, Texas",
+    "latitude": 31.8702534,
+    "longitude": -102.3347563
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 2588,
+    "aqi": "65",
+    "station_name": "Nilai, Negeri Sembilan, Malaysia",
+    "latitude": 2.821692,
+    "longitude": 101.811486
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 3313,
+    "aqi": "70",
+    "station_name": "Nezahualc\u00f3yotl, M\u00e9xico, Mexico",
+    "latitude": 19.393734,
+    "longitude": -99.028212
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 11773,
+    "aqi": "69",
+    "station_name": "Santiago Acahualtepec, M\u00e9xico, Mexico",
+    "latitude": 19.34561,
+    "longitude": -99.009381
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 8529,
+    "aqi": "46",
+    "station_name": "Estaci\u00f3n de Monitoreo Cuernavaca Centro, Morelos, Mexico",
+    "latitude": 18.90861,
+    "longitude": -99.21167
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 8606,
+    "aqi": "-",
+    "station_name": "millan; Millau, France",
+    "latitude": 44.10618169,
+    "longitude": 3.072179407
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 14122,
+    "aqi": "33",
+    "station_name": "miltan; Milton, Ontario, Canada",
+    "latitude": 43.52965,
+    "longitude": -79.862449
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 12698,
+    "aqi": "6",
+    "station_name": "moilana; Moheia vest, Mo i Rana, Norway",
+    "latitude": 66.312191,
+    "longitude": 14.149923
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 2645,
+    "aqi": "-",
+    "station_name": "moilana; Moheia, Mo i Rana, Norway",
+    "latitude": 66.3111229,
+    "longitude": 14.1520537
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 10452,
+    "aqi": "162",
+    "station_name": "milyang; Naeil-dong, Gyeongnam, South Korea (\ub0b4\uc77c\ub3d9 \uacbd\ub0a8)",
+    "latitude": 35.493678,
+    "longitude": 128.754168
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 5912,
+    "aqi": "29",
+    "station_name": "amiltan; Hamilton",
+    "latitude": 43.2500208,
+    "longitude": -79.8660914
+  },
+  {
+    "seed_city": "Milan",
+    "seed_country": "Italy",
+    "search_keyword": "milan",
+    "waqi_uid": 4,
+    "aqi": "30",
+    "station_name": "amiltan; Burlington, Ontario, Canada",
+    "latitude": 43.315111,
+    "longitude": -79.802639
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 243,
+    "aqi": "74",
+    "station_name": "Los Angeles-North Main Street",
+    "latitude": 34.06653,
+    "longitude": -118.22676
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 9606,
+    "aqi": "-",
+    "station_name": "Long Beach-Route 710 Near Road, Los Angeles, California",
+    "latitude": 33.859444,
+    "longitude": -118.200278
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 245,
+    "aqi": "76",
+    "station_name": "Reseda, Los Angeles",
+    "latitude": 34.1992,
+    "longitude": -118.53275
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 13231,
+    "aqi": "52",
+    "station_name": "North Hollywood, Los Angeles, California",
+    "latitude": 34.18198,
+    "longitude": -118.36304
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 14727,
+    "aqi": "63",
+    "station_name": "21 de mayo 2, Chile",
+    "latitude": -37.471182288689,
+    "longitude": -72.36146284977
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 444,
+    "aqi": "30",
+    "station_name": "21 de mayo, Chile",
+    "latitude": -37.471182288689,
+    "longitude": -72.36146284977
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 8511,
+    "aqi": "30",
+    "station_name": "Los \u00c1ngeles Oriente, Chile",
+    "latitude": -37.463035064801,
+    "longitude": -72.324575155457
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 247,
+    "aqi": "-",
+    "station_name": "South Long Beach, Los Angeles, California",
+    "latitude": 33.7924,
+    "longitude": -118.17525
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 13067,
+    "aqi": "-",
+    "station_name": "Lancaster-Division Street, Los Angeles, California",
+    "latitude": 34.66959,
+    "longitude": -118.13068
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 244,
+    "aqi": "-",
+    "station_name": "North Long Beach (Long Beach), Los Angeles",
+    "latitude": 33.82376,
+    "longitude": -118.18916
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 241,
+    "aqi": "-",
+    "station_name": "Burbank, Los Angeles",
+    "latitude": 34.17599,
+    "longitude": -118.31701
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 246,
+    "aqi": "78",
+    "station_name": "Santa Clarita-Placerita, Los Angeles",
+    "latitude": 34.38337,
+    "longitude": -118.52839
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 242,
+    "aqi": "85",
+    "station_name": "Glendora-Laurel, Los Angeles",
+    "latitude": 34.14437,
+    "longitude": -117.85038
+  },
+  {
+    "seed_city": "Los Angeles",
+    "seed_country": "United States",
+    "search_keyword": "los angeles",
+    "waqi_uid": 11798,
+    "aqi": "72",
+    "station_name": "puebla de los angeles; Vel\u00f3dromo, Puebla, Mexico",
+    "latitude": 19.115858055556,
+    "longitude": -98.277487222222
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 400,
+    "aqi": "55",
+    "station_name": "Tultitlan, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 3313,
+    "aqi": "70",
+    "station_name": "Nezahualc\u00f3yotl, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 407,
+    "aqi": "84",
+    "station_name": "Pedregal, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 410,
+    "aqi": "54",
+    "station_name": "FES Acatl\u00e1n, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 411,
+    "aqi": "61",
+    "station_name": "Hospital General de M\u00e9xico, M\u00e9xico, Mexico",
+    "latitude": 19.411617,
+    "longitude": -99.152207
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 8528,
+    "aqi": "53",
+    "station_name": "Tlalnepantla, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 8866,
+    "aqi": "49",
+    "station_name": "Miguel Hidalgo, M\u00e9xico, Mexico",
+    "latitude": 19.40405,
+    "longitude": -99.202603
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 3315,
+    "aqi": "57",
+    "station_name": "UAM Xochimilco, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 11773,
+    "aqi": "69",
+    "station_name": "Santiago Acahualtepec, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 406,
+    "aqi": "78",
+    "station_name": "UAM Iztapalapa, M\u00e9xico, Mexico",
+    "latitude": 19.360794,
+    "longitude": -99.07388
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 402,
+    "aqi": "42",
+    "station_name": "Xalostoc, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 5867,
+    "aqi": "37",
+    "station_name": "San Agust\u00edn, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 3312,
+    "aqi": "57",
+    "station_name": "Camarones, M\u00e9xico, Mexico",
+    "latitude": 19.468404,
+    "longitude": -99.169794
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 409,
+    "aqi": "57",
+    "station_name": "Tlahuac, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 405,
+    "aqi": "61",
+    "station_name": "Iztacalco, M\u00e9xico, Mexico",
+    "latitude": 19.384413,
+    "longitude": -99.117641
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 398,
+    "aqi": "69",
+    "station_name": "Villa de las Flores, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 8527,
+    "aqi": "76",
+    "station_name": "Centro de Ciencias de la Atmosfera, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 8867,
+    "aqi": "88",
+    "station_name": "Ajusco Medio, M\u00e9xico, Mexico",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 9156,
+    "aqi": "47",
+    "station_name": "Benito Ju\u00e1rez, M\u00e9xico, Mexico",
+    "latitude": 19.371612,
+    "longitude": -99.158969
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 404,
+    "aqi": "65",
+    "station_name": "Merced, M\u00e9xico, Mexico",
+    "latitude": 19.42461,
+    "longitude": -99.119594
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 10158,
+    "aqi": "68",
+    "station_name": "Gustavo A. Madero, M\u00e9xico, Mexico",
+    "latitude": 19.4827,
+    "longitude": -99.094517
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 413,
+    "aqi": "-",
+    "station_name": "Coyoac\u00e1n, M\u00e9xico, Mexico",
+    "latitude": 19.350258,
+    "longitude": -99.157101
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 3314,
+    "aqi": "-",
+    "station_name": "San Juan de Arag\u00f3n, M\u00e9xico, Mexico",
+    "latitude": 19.452592,
+    "longitude": -99.086095
+  },
+  {
+    "seed_city": "Mexico City",
+    "seed_country": "Mexico",
+    "search_keyword": "mexico city",
+    "waqi_uid": 11772,
+    "aqi": "-",
+    "station_name": "FES Arag\u00f3n, M\u00e9xico, Mexico",
+    "latitude": 19.473692,
+    "longitude": -99.046176
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12452,
+    "aqi": "192",
+    "station_name": "Loni, Ghaziabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11267,
+    "aqi": "-",
+    "station_name": "Pooth Khurd, Bawana, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11856,
+    "aqi": "177",
+    "station_name": "Vasundhara, Ghaziabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12435,
+    "aqi": "182",
+    "station_name": "Indirapuram, Ghaziabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12463,
+    "aqi": "240",
+    "station_name": "Knowledge Park - V, Greater Noida, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 8685,
+    "aqi": "177",
+    "station_name": "Vikas Sadan Gurgaon, Gurgaon, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10705,
+    "aqi": "172",
+    "station_name": "Jawaharlal Nehru Stadium, Delhi, Delhi, India",
+    "latitude": 28.582846,
+    "longitude": 77.234366
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10124,
+    "aqi": "132",
+    "station_name": "Pusa, Delhi, Delhi, India",
+    "latitude": 28.636997,
+    "longitude": 77.172248
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 9290,
+    "aqi": "173",
+    "station_name": "DTU, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10110,
+    "aqi": "159",
+    "station_name": "Dr. Karni Singh Shooting Range, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10704,
+    "aqi": "142",
+    "station_name": "Mother Dairy Plant, Parparganj, Delhi, Delhi, India",
+    "latitude": 28.620171,
+    "longitude": 77.287705
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 2556,
+    "aqi": "122",
+    "station_name": "R.K. Puram, Delhi, Delhi, India",
+    "latitude": 28.5648,
+    "longitude": 77.1744
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10122,
+    "aqi": "161",
+    "station_name": "Lodhi Road, Delhi, Delhi, India",
+    "latitude": 28.589701,
+    "longitude": 77.221917
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10113,
+    "aqi": "170",
+    "station_name": "ITI Jahangirpuri, Delhi, Delhi, India",
+    "latitude": 28.733016,
+    "longitude": 77.17197
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10708,
+    "aqi": "411",
+    "station_name": "Mundka, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 3715,
+    "aqi": "161",
+    "station_name": "ITO, Delhi, Delhi, India",
+    "latitude": 28.628577,
+    "longitude": 77.241036
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10121,
+    "aqi": "237",
+    "station_name": "Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",
+    "latitude": 28.710066,
+    "longitude": 77.24622
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12465,
+    "aqi": "211",
+    "station_name": "Sector-116, Noida, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12814,
+    "aqi": "4",
+    "station_name": "Sector 30, Faridabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12889,
+    "aqi": "167",
+    "station_name": "New Industrial Town, Faridabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10116,
+    "aqi": "-",
+    "station_name": "DITE Okhla, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10707,
+    "aqi": "-",
+    "station_name": "Sri Auribindo Marg, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10112,
+    "aqi": "151",
+    "station_name": "PGDAV College, Sriniwaspuri, Delhi, Delhi, India",
+    "latitude": 28.566827,
+    "longitude": 77.251418
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10114,
+    "aqi": "144",
+    "station_name": "Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",
+    "latitude": 28.700505,
+    "longitude": 77.165603
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10120,
+    "aqi": "-",
+    "station_name": "Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12447,
+    "aqi": "-",
+    "station_name": "Arya Nagar, Bahadurgarh, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12816,
+    "aqi": "210",
+    "station_name": "Sector-51, Gurugram, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12466,
+    "aqi": "200",
+    "station_name": "Sector-1, Noida, India",
+    "latitude": 28.5898,
+    "longitude": 77.3101
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10111,
+    "aqi": "167",
+    "station_name": "Major Dhyan Chand National Stadium, Delhi, Delhi, India",
+    "latitude": 28.612498,
+    "longitude": 77.237388
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 8179,
+    "aqi": "171",
+    "station_name": "Shadipur, Delhi, Delhi, India",
+    "latitude": 28.65155278,
+    "longitude": 77.15804167
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10119,
+    "aqi": "-",
+    "station_name": "National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10118,
+    "aqi": "273",
+    "station_name": "ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",
+    "latitude": 28.672114,
+    "longitude": 77.313832
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 2554,
+    "aqi": "182",
+    "station_name": "Mandir Marg, Delhi, Delhi, India",
+    "latitude": 28.6341,
+    "longitude": 77.2005
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10115,
+    "aqi": "129",
+    "station_name": "Satyawati College, Delhi, Delhi, India",
+    "latitude": 28.69572,
+    "longitude": 77.181295
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10125,
+    "aqi": "170",
+    "station_name": "Burari Crossing, Delhi, Delhi, India",
+    "latitude": 28.725646,
+    "longitude": 77.203384
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12813,
+    "aqi": "814",
+    "station_name": "Sector 11, Faridabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10123,
+    "aqi": "166",
+    "station_name": "CRRI Mathura Road, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11863,
+    "aqi": "306",
+    "station_name": "Sector - 125, Noida, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 2555,
+    "aqi": "175",
+    "station_name": "Punjabi Bagh, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11278,
+    "aqi": "176",
+    "station_name": "Knowledge Park - III, Greater Noida, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11300,
+    "aqi": "158",
+    "station_name": "NISE Gwal Pahari, Gurugram, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10126,
+    "aqi": "-",
+    "station_name": "Aya Nagar, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11266,
+    "aqi": "177",
+    "station_name": "Alipur, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11899,
+    "aqi": "175",
+    "station_name": "Sanjay Nagar, Ghaziabad, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 11865,
+    "aqi": "155",
+    "station_name": "Sector - 62, Noida, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 12890,
+    "aqi": "166",
+    "station_name": "Teri Gram, Gurugram, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 2553,
+    "aqi": "234",
+    "station_name": "Anand Vihar, Delhi, Delhi, India",
+    "latitude": 28.6508,
+    "longitude": 77.3152
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10117,
+    "aqi": "-",
+    "station_name": "Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10706,
+    "aqi": "185",
+    "station_name": "Narela, Delhi, Delhi, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 7024,
+    "aqi": "-",
+    "station_name": "New Delhi US Embassy, India (\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940 \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u0926\u0942\u0924\u093e\u0935\u093e\u0938)",
+    "latitude": 28.63576,
+    "longitude": 77.22445
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 8180,
+    "aqi": "-",
+    "station_name": "IHBAS, Delhi, Delhi, India",
+    "latitude": 28.68189167,
+    "longitude": 77.30485833
+  },
+  {
+    "seed_city": "Delhi",
+    "seed_country": "India",
+    "search_keyword": "delhi",
+    "waqi_uid": 10127,
+    "aqi": "-",
+    "station_name": "North Campus, Delhi, Delhi, India",
+    "latitude": 28.687716,
+    "longitude": 77.210232
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13708,
+    "aqi": "137",
+    "station_name": "Mulund West, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13714,
+    "aqi": "72",
+    "station_name": "Borivali East MPCB, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13803,
+    "aqi": "54",
+    "station_name": "Malad West, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12454,
+    "aqi": "74",
+    "station_name": "Kurla, Mumbai, India",
+    "latitude": 19.0863,
+    "longitude": 72.8888
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12456,
+    "aqi": "103",
+    "station_name": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai, India",
+    "latitude": 19.10078,
+    "longitude": 72.87462
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13711,
+    "aqi": "38",
+    "station_name": "Kandivali East, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12464,
+    "aqi": "94",
+    "station_name": "Sion, Mumbai, India",
+    "latitude": 19.047,
+    "longitude": 72.8746
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13712,
+    "aqi": "86",
+    "station_name": "Deonar, Mumbai, India",
+    "latitude": 19.04946,
+    "longitude": 72.923
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13710,
+    "aqi": "84",
+    "station_name": "Khindipada-Bhandup West, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12462,
+    "aqi": "-",
+    "station_name": "Khadakpada, Kalyan, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13709,
+    "aqi": "64",
+    "station_name": "Mazgaon, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 11898,
+    "aqi": "135",
+    "station_name": "Nerul, Navi Mumbai, India",
+    "latitude": 19.008751,
+    "longitude": 73.01662
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12455,
+    "aqi": "55",
+    "station_name": "Vile Parle West, Mumbai, India",
+    "latitude": 19.10861,
+    "longitude": 72.83622
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13713,
+    "aqi": "98",
+    "station_name": "Chakala-Andheri East, Mumbai, India",
+    "latitude": 19.11074,
+    "longitude": 72.86084
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12460,
+    "aqi": "101",
+    "station_name": "Borivali East, Mumbai, India",
+    "latitude": 19.23241,
+    "longitude": 72.86895
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 11962,
+    "aqi": "71",
+    "station_name": "Colaba, Mumbai, India",
+    "latitude": 18.91,
+    "longitude": 72.82
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13707,
+    "aqi": "92",
+    "station_name": "Navy Nagar-Colaba, Mumbai, India",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 11921,
+    "aqi": "53",
+    "station_name": "Worli, Mumbai, India",
+    "latitude": 18.9936162,
+    "longitude": 72.8128113
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12459,
+    "aqi": "103",
+    "station_name": "Powai, Mumbai, India",
+    "latitude": 19.1375,
+    "longitude": 72.915056
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12461,
+    "aqi": "147",
+    "station_name": "Mahape, Navi Mumbai, India",
+    "latitude": 19.1135051,
+    "longitude": 73.008978
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13715,
+    "aqi": "85",
+    "station_name": "Bandra Kurla Complex, Mumbai, India",
+    "latitude": 19.053536,
+    "longitude": 72.84643
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13706,
+    "aqi": "99",
+    "station_name": "Siddharth Nagar-Worli, Mumbai, India",
+    "latitude": 19.000083,
+    "longitude": 72.813993
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 7020,
+    "aqi": "-",
+    "station_name": "Mumbai US Consulate, India (\u092e\u0941\u0902\u092c\u0908 \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u0935\u093e\u0923\u093f\u091c\u094d\u092f \u0926\u0942\u0924\u093e\u0935\u093e\u0938)",
+    "latitude": 19.072830200195,
+    "longitude": 72.882606506348
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 8678,
+    "aqi": "-",
+    "station_name": "Bandra, Mumbai, India",
+    "latitude": 19.0627,
+    "longitude": 72.84614
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 12453,
+    "aqi": "-",
+    "station_name": "Vasai West, Mumbai, India",
+    "latitude": 19.3832,
+    "longitude": 72.8204
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 8183,
+    "aqi": "-",
+    "station_name": "NMMC Airoli, Mumbai, India",
+    "latitude": 19.1494,
+    "longitude": 72.9986
+  },
+  {
+    "seed_city": "Mumbai",
+    "seed_country": "India",
+    "search_keyword": "mumbai",
+    "waqi_uid": 13702,
+    "aqi": "-",
+    "station_name": "Sector-19A Nerul, Navi Mumbai, India",
+    "latitude": 19.044,
+    "longitude": 73.0325
+  },
+  {
+    "seed_city": "Dhaka",
+    "seed_country": "Bangladesh",
+    "search_keyword": "dhaka",
+    "waqi_uid": 8781,
+    "aqi": "-",
+    "station_name": "Dhaka US Consulate, Bangladesh",
+    "latitude": 23.796373,
+    "longitude": 90.424614
+  },
+  {
+    "seed_city": "Dhaka",
+    "seed_country": "Bangladesh",
+    "search_keyword": "dhaka",
+    "waqi_uid": 8294,
+    "aqi": "58",
+    "station_name": "dzhakarta; Kemayoran, Indonesia",
+    "latitude": -6.155,
+    "longitude": 106.846
+  },
+  {
+    "seed_city": "Dhaka",
+    "seed_country": "Bangladesh",
+    "search_keyword": "dhaka",
+    "waqi_uid": 8647,
+    "aqi": "-",
+    "station_name": "dzhakarta; Jakarta Central (US Consulate), Indonesia",
+    "latitude": -6.155,
+    "longitude": 106.846
+  },
+  {
+    "seed_city": "Dhaka",
+    "seed_country": "Bangladesh",
+    "search_keyword": "dhaka",
+    "waqi_uid": 8648,
+    "aqi": "-",
+    "station_name": "dzhakarta; Jakarta South (US Consulate), Indonesia",
+    "latitude": -6.236704,
+    "longitude": 106.79324
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 13328,
+    "aqi": "185",
+    "station_name": "\u5927\u5174\u65e7\u5bab, Beijing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 446,
+    "aqi": "187",
+    "station_name": "Dongcheng Dongsi, Beijing (\u4e1c\u57ce\u4e1c\u56db)",
+    "latitude": 39.929,
+    "longitude": 116.417
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 13338,
+    "aqi": "195",
+    "station_name": "\u901a\u5dde\u6c38\u987a, Beijing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 449,
+    "aqi": "189",
+    "station_name": "Wanshou Temple, Beijing (\u897f\u57ce\u4e07\u5bff\u897f\u5bab)",
+    "latitude": 39.878,
+    "longitude": 116.352
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 448,
+    "aqi": "179",
+    "station_name": "West Park officials, Beijing (\u897f\u57ce\u5b98\u56ed)",
+    "latitude": 39.929,
+    "longitude": 116.339
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 457,
+    "aqi": "165",
+    "station_name": "Shijingshan city, Beijing (\u77f3\u666f\u5c71\u53e4\u57ce)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 447,
+    "aqi": "185",
+    "station_name": "Temple of Heaven, Dongcheng, Beijing (\u4e1c\u57ce\u5929\u575b)",
+    "latitude": 39.886,
+    "longitude": 116.407
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 460,
+    "aqi": "194",
+    "station_name": "BDA, Beijing; BDA, Beijing (\u4ea6\u5e84\u5f00\u53d1\u533a)",
+    "latitude": 39.795,
+    "longitude": 116.506
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 13335,
+    "aqi": "165",
+    "station_name": "\u6d77\u6dc0\u56db\u5b63\u9752, Beijing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 462,
+    "aqi": "168",
+    "station_name": "Shunyi New Town , Beijing; Shunyi New Town , Beijing (\u987a\u4e49\u65b0\u57ce)",
+    "latitude": 40.127,
+    "longitude": 116.655
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 13337,
+    "aqi": "195",
+    "station_name": "\u901a\u5dde\u4e1c\u5173, Beijing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 452,
+    "aqi": "174",
+    "station_name": "Haidian Wanliu, Beijing; Haidian Wanliu, Beijing (\u6d77\u6dc0\u4e07\u67f3)",
+    "latitude": 39.987,
+    "longitude": 116.287
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 459,
+    "aqi": "188",
+    "station_name": "Huangcunzhen, Daxing, Beijing (\u5927\u5174\u9ec4\u6751\u9547)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 450,
+    "aqi": "182",
+    "station_name": "Chaoyang Olympic Sports Center, Beijing (\u671d\u9633\u5965\u4f53\u4e2d\u5fc3)",
+    "latitude": 39.982,
+    "longitude": 116.397
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 456,
+    "aqi": "168",
+    "station_name": "Fengtai Yungang, Beijing; Fengtai Yungang, Beijing (\u4e30\u53f0\u4e91\u5c97)",
+    "latitude": 39.824,
+    "longitude": 116.146
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 458,
+    "aqi": "184",
+    "station_name": "Fangshan, Liangxiang, Beijing (\u623f\u5c71\u826f\u4e61)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 13327,
+    "aqi": "171",
+    "station_name": "\u4e30\u53f0\u5c0f\u5c6f, Beijing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 13336,
+    "aqi": "169",
+    "station_name": "\u77f3\u666f\u5c71\u8001\u5c71, Beijing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 1451,
+    "aqi": "189",
+    "station_name": "Beijing (\u5317\u4eac)",
+    "latitude": 39.954592,
+    "longitude": 116.468117
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 451,
+    "aqi": "189",
+    "station_name": "Chaoyang Agricultural Exhibition Hall, Beijing (\u671d\u9633\u519c\u5c55\u9986)",
+    "latitude": 39.937,
+    "longitude": 116.461
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 3303,
+    "aqi": "108",
+    "station_name": "Beijing US Embassy, Beijing (\u5317\u4eac\u7f8e\u56fd\u5927\u4f7f\u9986)",
+    "latitude": 39.954592,
+    "longitude": 116.468117
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 9774,
+    "aqi": "-",
+    "station_name": "Beijing Jiaotong University Seaside College, Cangzhou; Beijing Jiaotong University Seaside College, Cangzhou (\u6ca7\u5dde\u5e02\u5317\u4eac\u4ea4\u901a\u5927\u5b66\u6d77\u6ee8\u5b66\u9662)",
+    "latitude": 38.385,
+    "longitude": 117.313
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 9724,
+    "aqi": "-",
+    "station_name": "Beijing Economic Management School Gu'an Campus, Langfang; Beijing Economic Management School Gu'an Campus, Langfang (\u5eca\u574a\u5e02\u5317\u4eac\u7ecf\u7ba1\u5b66\u6821\u56fa\u5b89\u6821\u533a)",
+    "latitude": 39.46,
+    "longitude": 116.308
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 9723,
+    "aqi": "-",
+    "station_name": "Beijing Bazhong Gu'an Branch, Langfang; Beijing Bazhong Gu'an Branch, Langfang (\u5eca\u574a\u5e02\u5317\u4eac\u516b\u4e2d\u56fa\u5b89\u5206\u6821)",
+    "latitude": 39.46,
+    "longitude": 116.28
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 885,
+    "aqi": "157",
+    "station_name": "Beijing South , Huai'an; Beijing South , Huai'an (\u6dee\u5b89\u5317\u4eac\u5357\u8def)",
+    "latitude": 33.578039,
+    "longitude": 119.007906
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 465,
+    "aqi": "154",
+    "station_name": "Pinggu town, Beijing; Pinggu town, Beijing (\u5e73\u8c37\u9547)",
+    "latitude": 40.143,
+    "longitude": 117.1
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 466,
+    "aqi": "159",
+    "station_name": "Huairou town, Beijing; Huairou town, Beijing (\u6000\u67d4\u9547)",
+    "latitude": 40.328,
+    "longitude": 116.628
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 468,
+    "aqi": "154",
+    "station_name": "Yanqing town, Beijing; Yanqing town, Beijing (\u5ef6\u5e86\u9547)",
+    "latitude": 40.453,
+    "longitude": 115.972
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 467,
+    "aqi": "156",
+    "station_name": "The town of Miyun, Beijing; The town of Miyun, Beijing (\u5bc6\u4e91\u9547)",
+    "latitude": 40.37,
+    "longitude": 116.832
+  },
+  {
+    "seed_city": "Beijing",
+    "seed_country": "China",
+    "search_keyword": "beijing",
+    "waqi_uid": 463,
+    "aqi": "160",
+    "station_name": "Changping Town, Beijing; Changping Town, Beijing (\u660c\u5e73\u9547)",
+    "latitude": 40.217,
+    "longitude": 116.23
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4541,
+    "aqi": "99",
+    "station_name": "Gyenamgongwon, Gyeonggi, South Korea (\uc1a1\ub0b4\ub300\ub85c(\uc911\ub3d9) \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4501,
+    "aqi": "95",
+    "station_name": "Baekhyeon-dong, Gyeonggi, South Korea (\ub300\uc655\ud310\uad50\ub85c(\ubc31\ud604\ub3d9) \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4498,
+    "aqi": "95",
+    "station_name": "Gil-dong, Seoul, South Korea (\ucc9c\ud638\ub300\ub85c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 11364,
+    "aqi": "76",
+    "station_name": "Byeolnae-dong, Gyeonggi, South Korea (\ubcc4\ub0b4\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1708,
+    "aqi": "109",
+    "station_name": "Anyang, Anyang-si, Gyeonggi, South Korea (\uc548\uc5912\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4486,
+    "aqi": "102",
+    "station_name": "Cheonggyecheon, Seoul, South Korea (\uccad\uacc4\ucc9c\ub85c \uc11c\uc6b8)",
+    "latitude": 37.56865,
+    "longitude": 126.998083
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1691,
+    "aqi": "87",
+    "station_name": "Jungnang-gu, Seoul, South Korea (\uc911\ub791\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1689,
+    "aqi": "99",
+    "station_name": "Jongno-gu, Seoul, South Korea (\uc885\ub85c\uad6c \uc11c\uc6b8)",
+    "latitude": 37.572025,
+    "longitude": 127.005028
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4539,
+    "aqi": "119",
+    "station_name": "Bupyeongyeok, Incheon, South Korea (\ubd80\ud3c9\uc5ed \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3933,
+    "aqi": "76",
+    "station_name": "Donggu-dong, Guri-si, Gyeonggi, South Korea (\ub3d9\uad6c\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1676,
+    "aqi": "87",
+    "station_name": "Dobong-gu, Seoul, South Korea (\ub3c4\ubd09\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1696,
+    "aqi": "95",
+    "station_name": "Gyeongan-dong, Gwangju-si, Gyeonggi, South Korea (\uacbd\uc548\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1679,
+    "aqi": "95",
+    "station_name": "Mapo-gu, Seoul, South Korea (\ub9c8\ud3ec\uad6c \uc11c\uc6b8)",
+    "latitude": 37.55561,
+    "longitude": 126.905457
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1693,
+    "aqi": "-",
+    "station_name": "Siksa-dong, Goyang-si, Gyeonggi, South Korea (\uc2dd\uc0ac\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3942,
+    "aqi": "97",
+    "station_name": "sangdaewon1-dong, Seongnam-si, Gyeonggi, South Korea (\uc0c1\ub300\uc6d0\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4496,
+    "aqi": "95",
+    "station_name": "Sinsa-dong, Seoul, South Korea (\ub3c4\uc0b0\ub300\ub85c \uc11c\uc6b8)",
+    "latitude": 37.516083,
+    "longitude": 127.019694
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1717,
+    "aqi": "122",
+    "station_name": "Geumchon-dong, Paju-si, Gyeonggi, South Korea (\uae08\ucd0c\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5508,
+    "aqi": "124",
+    "station_name": "Seoul (\uc11c\uc6b8)",
+    "latitude": 37.566535,
+    "longitude": 126.9779692
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1688,
+    "aqi": "91",
+    "station_name": "Bulgwang-dong, Eunpyeong-gu, Seoul, South Korea (\uc740\ud3c9\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1700,
+    "aqi": "82",
+    "station_name": "Geumgok-dong, Namnyangju-si, Gyeonggi, South Korea (\uae08\uace1\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1675,
+    "aqi": "87",
+    "station_name": "Nowon-gu, Seoul, South Korea (\ub178\uc6d0\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5509,
+    "aqi": "95",
+    "station_name": "Goyang (\uace0\uc591\uc2dc)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3931,
+    "aqi": "102",
+    "station_name": "Byeoryang-dong, Gwacheon-si, Gyeonggi, South Korea (\ubcc4\uc591\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5512,
+    "aqi": "99",
+    "station_name": "Seongnam (\uc131\ub0a8\uc2dc)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 12993,
+    "aqi": "97",
+    "station_name": "Mokgam-dong, Gyeonggi, South Korea (\ubaa9\uac10\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3975,
+    "aqi": "107",
+    "station_name": "Wondang, Seo-gu, Incheon, South Korea (\uc6d0\ub2f9 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1807,
+    "aqi": "78",
+    "station_name": "Uijeongbu, Uijeongbu-si, Gyeonggi, South Korea (\uc758\uc815\ubd80\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4488,
+    "aqi": "93",
+    "station_name": "Gangbyeonbukro, Seoul, South Korea (\uac15\ubcc0\ubd81\ub85c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3939,
+    "aqi": "142",
+    "station_name": "Nae-dong, Bucheon-si, Gyeonggi, South Korea (\ub0b4\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1699,
+    "aqi": "112",
+    "station_name": "Gochon-myeon, Gimpo-si, Gyeonggi, South Korea (\uace0\ucd0c\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5514,
+    "aqi": "127",
+    "station_name": "Siheung (\uc2e0\ud765\uc2dc)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1725,
+    "aqi": "124",
+    "station_name": "Gojan, Namdong-gu, Incheon, South Korea (\uace0\uc794 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13536,
+    "aqi": "122",
+    "station_name": "Seohaean-ro, Gyeonggi, South Korea (\uc11c\ud574\uc548\ub85c \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4502,
+    "aqi": "99",
+    "station_name": "Moranyeok, Gyeonggi, South Korea (\uc131\ub0a8\ub300\ub85c(\ubaa8\ub780\uc5ed) \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5516,
+    "aqi": "102",
+    "station_name": "Anyang-si (\uc548\uc591\uc2dc)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1683,
+    "aqi": "109",
+    "station_name": "Seongbuk-gu, Seoul, South Korea (\uc131\ubd81\uad6c \uc11c\uc6b8)",
+    "latitude": 37.606667,
+    "longitude": 127.027264
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1680,
+    "aqi": "97",
+    "station_name": "Seodaemun-gu, Seoul, South Korea (\uc11c\ub300\ubb38\uad6c \uc11c\uc6b8)",
+    "latitude": 37.593749,
+    "longitude": 126.949534
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3953,
+    "aqi": "93",
+    "station_name": "Bugok-dong, Ansan-si, Gyeonggi, South Korea (\ubd80\uace1\ub3d91 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1670,
+    "aqi": "104",
+    "station_name": "Gangseo-gu, Seoul, South Korea (\uac15\uc11c\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4538,
+    "aqi": "109",
+    "station_name": "Seokbawi, Incheon, South Korea (\uc11d\ubc14\uc704 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13534,
+    "aqi": "112",
+    "station_name": "Jinjeop-eup, Gyeonggi, South Korea (\uc9c4\uc811\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3963,
+    "aqi": "104",
+    "station_name": "Suji, Yongin-si, Gyeonggi, South Korea (\uc218\uc9c0 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1681,
+    "aqi": "109",
+    "station_name": "Seocho-gu, Seoul, South Korea (\uc11c\ucd08\uad6c \uc11c\uc6b8)",
+    "latitude": 37.504547,
+    "longitude": 126.994611
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13551,
+    "aqi": "109",
+    "station_name": "Seochang, Incheon, South Korea (\uc11c\ucc3d \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1729,
+    "aqi": "112",
+    "station_name": "Dongchun, Yeonsu-gu, Incheon, South Korea (\ub3d9\ucd98 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1695,
+    "aqi": "95",
+    "station_name": "Sohadong, Gwangmyeong-si, Gyeonggi, South Korea (\uc18c\ud558\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4503,
+    "aqi": "104",
+    "station_name": "Jungangro1, Gyeonggi, South Korea (\uc911\uc559\ub300\ub85c(\uace0\uc794\ub3d9) \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 12552,
+    "aqi": "97",
+    "station_name": "Samsan, Incheon, South Korea (\uc0bc\uc0b0 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3951,
+    "aqi": "127",
+    "station_name": "Daeya-dong, Siheung-si, Gyeonggi, South Korea (\ub300\uc57c\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5517,
+    "aqi": "114",
+    "station_name": "Incheon (\uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4504,
+    "aqi": "95",
+    "station_name": "Maduyeok, Gyeonggi, South Korea (\ubc31\ub9c8\ub85c(\ub9c8\ub450\uc5ed) \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1671,
+    "aqi": "91",
+    "station_name": "Gwanak-gu, Seoul, South Korea (\uad00\uc545\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1682,
+    "aqi": "104",
+    "station_name": "Seongdong-gu, Seoul, South Korea (\uc131\ub3d9\uad6c \uc11c\uc6b8)",
+    "latitude": 37.542036,
+    "longitude": 127.049685
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3950,
+    "aqi": "114",
+    "station_name": "Jeongwang-dong, Siheung-si, Gyeonggi, South Korea (\uc815\uc655\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1705,
+    "aqi": "129",
+    "station_name": "Sihwa, Siheung-si, Gyeonggi, South Korea (\uc2dc\ud654\uc0b0\ub2e8 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1686,
+    "aqi": "95",
+    "station_name": "Yeongdeungpo-gu, Seoul, South Korea (\uc601\ub4f1\ud3ec\uad6c \uc11c\uc6b8)",
+    "latitude": 37.525007,
+    "longitude": 126.89737
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 11343,
+    "aqi": "119",
+    "station_name": "Juyeop-dong, Gyeonggi, South Korea (\uc8fc\uc5fd\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1715,
+    "aqi": "85",
+    "station_name": "Gocheon-dong, Uiwang-si, Gyeonggi, South Korea (\uace0\ucc9c\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3964,
+    "aqi": "97",
+    "station_name": "Bugok, Uiwang-si, Gyeonggi, South Korea (\ubd80\uace13\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4490,
+    "aqi": "93",
+    "station_name": "Cheongryang-ri, Seoul, South Korea (\ud64d\ub989\ub85c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 8500,
+    "aqi": "97",
+    "station_name": "Yeongdeungpo-ro, Seoul, South Korea (\uc601\ub4f1\ud3ec\ub85c \uc11c\uc6b8)",
+    "latitude": 37.520222,
+    "longitude": 126.904967
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1703,
+    "aqi": "42",
+    "station_name": "Sunae-dong, Seongnam-si, Gyeonggi, South Korea (\uc218\ub0b4\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4495,
+    "aqi": "124",
+    "station_name": "Dongjakdaero Jungangcharo, Seoul, South Korea (\ub3d9\uc791\ub300\ub85c \uc911\uc559\ucc28\ub85c \uc11c\uc6b8)",
+    "latitude": 37.492107,
+    "longitude": 126.983245
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3932,
+    "aqi": "99",
+    "station_name": "Cheolsan-dong, Gwangmyeong-si, Gyeonggi, South Korea (\ucca0\uc0b0\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1685,
+    "aqi": "102",
+    "station_name": "Yangcheon-gu, Seoul, South Korea (\uc591\ucc9c\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 12994,
+    "aqi": "95",
+    "station_name": "Opo-eup, Gyeonggi, South Korea (\uc624\ud3ec1\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1677,
+    "aqi": "91",
+    "station_name": "Dongdaemun-gu, Seoul, South Korea (\ub3d9\ub300\ubb38\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5515,
+    "aqi": "89",
+    "station_name": "Ansan (\uc548\uc0b0\uc2dc)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4499,
+    "aqi": "104",
+    "station_name": "Taereung, Seoul, South Korea (\ud654\ub791\ub85c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 11889,
+    "aqi": "129",
+    "station_name": "Mohyeon-eup, Gyeonggi, South Korea (\ubaa8\ud604\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3934,
+    "aqi": "87",
+    "station_name": "Dang-dong, Gunpo-si, Gyeonggi, South Korea (\ub2f9\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1694,
+    "aqi": "93",
+    "station_name": "Gwacheon-dong, Gwacheon-si, Gyeonggi, South Korea (\uacfc\ucc9c\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4487,
+    "aqi": "102",
+    "station_name": "Jongro, Seoul, South Korea (\uc885\ub85c \uc11c\uc6b8)",
+    "latitude": 37.570633,
+    "longitude": 126.996783
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 14887,
+    "aqi": "112",
+    "station_name": "Hyoseong, Incheon, South Korea (\ud6a8\uc131 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13535,
+    "aqi": "87",
+    "station_name": "Misa, Gyeonggi, South Korea (\ubbf8\uc0ac \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1668,
+    "aqi": "99",
+    "station_name": "Gangdong-gu, Seoul, South Korea (\uac15\ub3d9\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1667,
+    "aqi": "112",
+    "station_name": "Gangnam-gu, Seoul, South Korea (\uac15\ub0a8\uad6c \uc11c\uc6b8)",
+    "latitude": 37.5175623,
+    "longitude": 127.0472893
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3965,
+    "aqi": "78",
+    "station_name": "Uijeongbu, Uijeongbu-si, Gyeonggi, South Korea (\uc758\uc815\ubd801\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3940,
+    "aqi": "99",
+    "station_name": "Jeongja, Seongnam-si, Gyeonggi, South Korea (\uc815\uc790\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1678,
+    "aqi": "93",
+    "station_name": "Dongjak-gu, Seoul, South Korea (\ub3d9\uc791\uad6c \uc11c\uc6b8)",
+    "latitude": 37.480989,
+    "longitude": 126.971547
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1673,
+    "aqi": "93",
+    "station_name": "Guro-gu, Seoul, South Korea (\uad6c\ub85c\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1709,
+    "aqi": "76",
+    "station_name": "Onam-eup, Yangju-si, Gyeonggi, South Korea (\uc624\ub0a8\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3961,
+    "aqi": "80",
+    "station_name": "Gwangjeok-myeon, Yangju-si, Gyeonggi, South Korea (\ubc31\uc11d\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13538,
+    "aqi": "91",
+    "station_name": "Wabu-eup, Gyeonggi, South Korea (\uc640\ubd80\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 12990,
+    "aqi": "95",
+    "station_name": "Gyeongchun-ro, Gyeonggi, South Korea (\uacbd\ucd98\ub85c \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1674,
+    "aqi": "109",
+    "station_name": "Geumcheon-gu, Seoul, South Korea (\uae08\ucc9c\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4493,
+    "aqi": "107",
+    "station_name": "Gonghangro, Seoul, South Korea (\uacf5\ud56d\ub300\ub85c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1687,
+    "aqi": "122",
+    "station_name": "Yongsan-gu, Seoul, South Korea (\uc6a9\uc0b0\uad6c \uc11c\uc6b8)",
+    "latitude": 37.540314,
+    "longitude": 127.005083
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3972,
+    "aqi": "99",
+    "station_name": "Nonhyeon, Namdong-gu, Incheon, South Korea (\ub17c\ud604 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1702,
+    "aqi": "99",
+    "station_name": "Wonjong-dong, Bucheon-si, Gyeonggi, South Korea (\uc624\uc815\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3943,
+    "aqi": "87",
+    "station_name": "Sangdaewon-dong, Seongnam-si, Gyeonggi, South Korea (\uc6b4\uc911\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3938,
+    "aqi": "99",
+    "station_name": "Simgok-dong, Bucheon-si, Gyeonggi, South Korea (\uc18c\uc0ac\ubcf8\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1723,
+    "aqi": "91",
+    "station_name": "Gyesan, Gyeyang-gu, Incheon, South Korea (\uacc4\uc0b0 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3936,
+    "aqi": "134",
+    "station_name": "Sau-dong, Gimpo-si, Gyeonggi, South Korea (\uc0ac\uc6b0\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1698,
+    "aqi": "89",
+    "station_name": "Sanbon-dong, Gunpo-si, Gyeonggi, South Korea (\uc0b0\ubcf8\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3958,
+    "aqi": "109",
+    "station_name": "Anyang-6dong, Anyang-si, Gyeonggi, South Korea (\uc548\uc5918\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13958,
+    "aqi": "104",
+    "station_name": "Baegot-dong, Gyeonggi, South Korea (\ubc30\uace7\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1727,
+    "aqi": "78",
+    "station_name": "Bupyeong, Bupyeong-gu, Incheon, South Korea (\ubd80\ud3c9 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3930,
+    "aqi": "107",
+    "station_name": "Haengsin-dong, Goyang-si, Gyeonggi, South Korea (\ud589\uc2e0\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4485,
+    "aqi": "95",
+    "station_name": "Seouryeok, Seoul, South Korea (\ud55c\uac15\ub300\ub85c \uc11c\uc6b8)",
+    "latitude": 37.549389,
+    "longitude": 126.971519
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3966,
+    "aqi": "147",
+    "station_name": ", Paju-si, Gyeonggi, South Korea (\uc6b4\uc815 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3941,
+    "aqi": "95",
+    "station_name": "Dandae-dong, Seongnam-si, Gyeonggi, South Korea (\ub2e8\ub300\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3937,
+    "aqi": "72",
+    "station_name": "Sang, Bucheon-si, Gyeonggi, South Korea (\uc9112\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 5511,
+    "aqi": "99",
+    "station_name": "Bucheon (\uc778\ucc9c\uc2dc)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 9543,
+    "aqi": "93",
+    "station_name": "Goyang-si Sinwon-dong, Gyeonggi, South Korea (\uc2e0\uc6d0\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3944,
+    "aqi": "91",
+    "station_name": "Bokjeong-dong, Seongnam-si, Gyeonggi, South Korea (\ubcf5\uc815\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1720,
+    "aqi": "74",
+    "station_name": "Sinjang-dong, Hanam-si, Gyeonggi, South Korea (\uc2e0\uc7a5\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1697,
+    "aqi": "78",
+    "station_name": "Gyomun-dong, Guri-si, Gyeonggi, South Korea (\uad50\ubb38\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4492,
+    "aqi": "95",
+    "station_name": "Sinchon, Seoul, South Korea (\uc2e0\ucd0c \uc11c\uc6b8)",
+    "latitude": 37.554936,
+    "longitude": 126.937619
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 10459,
+    "aqi": "80",
+    "station_name": "Go-eup, Gyeonggi, South Korea (\uace0\uc74d \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1672,
+    "aqi": "89",
+    "station_name": "Gwangjin-gu, Seoul, South Korea (\uad11\uc9c4\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 11359,
+    "aqi": "107",
+    "station_name": "Siheung-daero, Seoul, South Korea (\uc2dc\ud765\ub300\ub85c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 13537,
+    "aqi": "72",
+    "station_name": "Songsan3-dong, Gyeonggi, South Korea (\uc1a1\uc0b03\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3960,
+    "aqi": "122",
+    "station_name": "Hogye-dong, Anyang-si, Gyeonggi, South Korea (\ud638\uacc4\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1706,
+    "aqi": "107",
+    "station_name": "Wongok, Ansan-si, Gyeonggi, South Korea (\uc6d0\uace1\ub3d9 \uacbd\uae30)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1669,
+    "aqi": "87",
+    "station_name": "Gangbuk-gu, Seoul, South Korea (\uac15\ubd81\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 4497,
+    "aqi": "107",
+    "station_name": "Yangjaejungangcharo, Seoul, South Korea (\uac15\ub0a8\ub300\ub85c \uc11c\uc6b8)",
+    "latitude": 37.482867,
+    "longitude": 127.035621
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 12999,
+    "aqi": "134",
+    "station_name": "Nam-dong, Incheon, South Korea (\ub0a8\ub3d9 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 3971,
+    "aqi": "114",
+    "station_name": "Guwol, Namdong-gu, Incheon, South Korea (\uad6c\uc6d4\ub3d9 \uc778\ucc9c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1684,
+    "aqi": "129",
+    "station_name": "Songpa-gu, Seoul, South Korea (\uc1a1\ud30c\uad6c \uc11c\uc6b8)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 1690,
+    "aqi": "107",
+    "station_name": "Jung-gu, Seoul, South Korea (\uc911\uad6c \uc11c\uc6b8)",
+    "latitude": 37.564639,
+    "longitude": 126.975961
+  },
+  {
+    "seed_city": "Seoul",
+    "seed_country": "South Korea",
+    "search_keyword": "seoul",
+    "waqi_uid": 8499,
+    "aqi": "95",
+    "station_name": "Sinchon-ro, Seoul, South Korea (\uc2e0\ucd0c\ub85c \uc11c\uc6b8)",
+    "latitude": 37.554936,
+    "longitude": 126.937619
+  },
+  {
+    "seed_city": "Jakarta",
+    "seed_country": "Indonesia",
+    "search_keyword": "jakarta",
+    "waqi_uid": 8294,
+    "aqi": "58",
+    "station_name": "Kemayoran, Indonesia",
+    "latitude": -6.155,
+    "longitude": 106.846
+  },
+  {
+    "seed_city": "Jakarta",
+    "seed_country": "Indonesia",
+    "search_keyword": "jakarta",
+    "waqi_uid": 8647,
+    "aqi": "-",
+    "station_name": "Jakarta Central (US Consulate), Indonesia",
+    "latitude": -6.155,
+    "longitude": 106.846
+  },
+  {
+    "seed_city": "Jakarta",
+    "seed_country": "Indonesia",
+    "search_keyword": "jakarta",
+    "waqi_uid": 8648,
+    "aqi": "-",
+    "station_name": "Jakarta South (US Consulate), Indonesia",
+    "latitude": -6.236704,
+    "longitude": 106.79324
+  },
+  {
+    "seed_city": "Jakarta",
+    "seed_country": "Indonesia",
+    "search_keyword": "jakarta",
+    "waqi_uid": 13653,
+    "aqi": "58",
+    "station_name": "jokjakarta; Sleman, Indonesia",
+    "latitude": -7.731,
+    "longitude": 110.354
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1857,
+    "aqi": "79",
+    "station_name": "Chulalongkorn Hospital, Bangkok, Thailand (\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c)",
+    "latitude": 13.729852,
+    "longitude": 100.536501
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1834,
+    "aqi": "70",
+    "station_name": "Thai Meteorological Department Bangna,Bangkok, Thailand (\u0e01\u0e23\u0e21\u0e2d\u0e38\u0e15\u0e38\u0e19\u0e34\u0e22\u0e21\u0e27\u0e34\u0e17\u0e22\u0e32 (\u0e1a\u0e32\u0e07\u0e19\u0e32))",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1840,
+    "aqi": "57",
+    "station_name": "South Bangkok Power Plant, Samut Prakan, Thailand; South Bangkok Power Plant, Samut Prakan, Thailand (\u0e42\u0e23\u0e07\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e43\u0e15\u0e49)",
+    "latitude": 13.618,
+    "longitude": 100.5562
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1842,
+    "aqi": "91",
+    "station_name": "City Hall, Samut Prakan, Thailand (\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1861,
+    "aqi": "80",
+    "station_name": "National Housing Authority Dindaeng, Bangkok, Thailand (\u0e01\u0e32\u0e23\u0e40\u0e04\u0e2b\u0e30\u0e0a\u0e38\u0e21\u0e0a\u0e19\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07)",
+    "latitude": 13.76251667,
+    "longitude": 100.5502
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1814,
+    "aqi": "79",
+    "station_name": "Highway District, Samut Sakhon, Thailand (\u0e41\u0e02\u0e27\u0e07\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1841,
+    "aqi": "69",
+    "station_name": "Residence for Dept. of Primary Industries and Mines, Samut Prakan, Thailand (\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e31\u0e01\u0e01\u0e23\u0e21\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e23\u0e23\u0e21\u0e1e\u0e37\u0e49\u0e19\u0e10\u0e32\u0e19\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e07\u0e41\u0e23\u0e48)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1816,
+    "aqi": "73",
+    "station_name": "Sukhothai Thammathirat Open University, Nonthaburi, Thailand (\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22\u0e18\u0e23\u0e23\u0e21\u0e32\u0e18\u0e34\u0e23\u0e32\u0e0a)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1859,
+    "aqi": "76",
+    "station_name": "Thonburi Power Sub-Station, Bangkok, Thailand (\u0e42\u0e23\u0e07\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e22\u0e48\u0e2d\u0e22 \u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35)",
+    "latitude": 13.727622,
+    "longitude": 100.486568
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 5773,
+    "aqi": "76",
+    "station_name": "Bangkok",
+    "latitude": 13.7563309,
+    "longitude": 100.5017651
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1813,
+    "aqi": "70",
+    "station_name": "Nonsi Witthaya School, Bangkok, Thailand (\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e19\u0e19\u0e17\u0e23\u0e35\u0e27\u0e34\u0e17\u0e22\u0e32)",
+    "latitude": 13.70806667,
+    "longitude": 100.5473333
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1864,
+    "aqi": "61",
+    "station_name": "Bodindecha Sing Singhaseni School, Bangkok, Thailand (\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e1a\u0e14\u0e34\u0e19\u0e17\u0e23\u0e40\u0e14\u0e0a\u0e32 (\u0e2a\u0e34\u0e07\u0e2b\u0e4c \u0e2a\u0e34\u0e07\u0e2b\u0e40\u0e2a\u0e19\u0e35))",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1836,
+    "aqi": "72",
+    "station_name": "Prabadang Rehabiltation Center, Samut Prakan, Thailand (\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e1f\u0e37\u0e49\u0e19\u0e1f\u0e39\u0e2d\u0e32\u0e0a\u0e35\u0e1e\u0e04\u0e19\u0e1e\u0e34\u0e01\u0e32\u0e23\u0e41\u0e25\u0e30\u0e17\u0e38\u0e1e\u0e25\u0e20\u0e32\u0e1e \u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1812,
+    "aqi": "71",
+    "station_name": "Bansomdejchaopraya Rajabhat University, Bangkok, Thailand (\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e23\u0e32\u0e0a\u0e20\u0e31\u0e0f\u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08\u0e40\u0e08\u0e49\u0e32\u0e1e\u0e23\u0e30\u0e22\u0e32)",
+    "latitude": 13.732846,
+    "longitude": 100.487662
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1838,
+    "aqi": "59",
+    "station_name": "EGAT, Nonthaburi, Thailand (\u0e01\u0e32\u0e23\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e1d\u0e48\u0e32\u0e22\u0e1c\u0e25\u0e34\u0e15\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 (\u0e01\u0e1f\u0e1c.))",
+    "latitude": 13.8069333,
+    "longitude": 100.5355167
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1843,
+    "aqi": "71",
+    "station_name": "National Housing Authority Bangplee, Samut Prakan, Thailand (\u0e01\u0e32\u0e23\u0e40\u0e04\u0e2b\u0e30\u0e0a\u0e38\u0e21\u0e0a\u0e19\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e35)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1860,
+    "aqi": "54",
+    "station_name": "Chokchai Police Station, Bangkok, Thailand; Chokchai Police Station, Bangkok, Thailand (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25\u0e42\u0e0a\u0e04\u0e0a\u0e31\u0e22)",
+    "latitude": 13.7954248,
+    "longitude": 100.5930298
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1862,
+    "aqi": "62",
+    "station_name": "Public Relations Department, Bangkok, Thailand (\u0e01\u0e23\u0e21\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c)",
+    "latitude": 13.783185,
+    "longitude": 100.540489
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 12758,
+    "aqi": "72",
+    "station_name": "The Bhubing Palace Doi Buak Ha, Thailand (\u0e1e\u0e23\u0e30\u0e15\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e20\u0e39\u0e1e\u0e34\u0e07\u0e04\u0e23\u0e32\u0e0a\u0e19\u0e34\u0e40\u0e27\u0e28\u0e19\u0e4c)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1833,
+    "aqi": "75",
+    "station_name": "Ratburana Post Office, Bangkok, Thailand; Ratburana Post Office, Bangkok, Thailand (\u0e44\u0e1b\u0e23\u0e29\u0e13\u0e35\u0e22\u0e4c\u0e23\u0e32\u0e29\u0e0f\u0e23\u0e4c\u0e1a\u0e39\u0e23\u0e13\u0e30)",
+    "latitude": 13.636514,
+    "longitude": 100.414262
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 6814,
+    "aqi": "68",
+    "station_name": "Provincial Administrative Organization, Samut Sakhon, Thailand (\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e32\u0e23\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e2a\u0e48\u0e27\u0e19\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1837,
+    "aqi": "-",
+    "station_name": "National Housing Authority Huaykwang, Bangkok, Thailand (\u0e01\u0e32\u0e23\u0e40\u0e04\u0e2b\u0e30\u0e0a\u0e38\u0e21\u0e0a\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e02\u0e27\u0e32\u0e07)",
+    "latitude": 13.77553,
+    "longitude": 100.569195
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 11207,
+    "aqi": "-",
+    "station_name": "Saphan Khwai, BKK, Thailand (\u0e01\u0e23\u0e35\u0e19\u0e1e\u0e35\u0e0b\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f)",
+    "latitude": 13.788519,
+    "longitude": 100.547067
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1856,
+    "aqi": "-",
+    "station_name": "Department of Land Transport, Bangkok, Thailand (\u0e01\u0e23\u0e21\u0e01\u0e32\u0e23\u0e02\u0e19\u0e2a\u0e48\u0e07\u0e17\u0e32\u0e07\u0e1a\u0e01)",
+    "latitude": 13.797855,
+    "longitude": 100.551338
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1835,
+    "aqi": "-",
+    "station_name": "Chandrakasem Rajabhat University, Bangkok, Thailand (\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e23\u0e32\u0e0a\u0e20\u0e31\u0e0f\u0e08\u0e31\u0e19\u0e17\u0e23\u0e40\u0e01\u0e29\u0e21)",
+    "latitude": 13.819954734562,
+    "longitude": 100.57590480014
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 1839,
+    "aqi": "-",
+    "station_name": "Mathayomwatsing School, Bangkok, Thailand (\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e21\u0e31\u0e18\u0e22\u0e21\u0e27\u0e31\u0e14\u0e2a\u0e34\u0e07\u0e2b\u0e4c (\u0e2a\u0e34\u0e07\u0e2b\u0e23\u0e32\u0e0a\u0e1e\u0e34\u0e17\u0e22\u0e32\u0e04\u0e21))",
+    "latitude": 13.684229480854,
+    "longitude": 100.44598735492
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 11381,
+    "aqi": "-",
+    "station_name": "The Thailand Research Fund (TRF), Thailand (\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e04\u0e13\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e2a\u0e48\u0e07\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c \u0e27\u0e34\u0e08\u0e31\u0e22\u0e41\u0e25\u0e30\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21 (\u0e2a\u0e01\u0e2a\u0e27.))",
+    "latitude": 13.771031,
+    "longitude": 100.540961
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 11556,
+    "aqi": "-",
+    "station_name": "Hospital for Tropical Disease, BKK, Thailand (\u0e23\u0e1e. \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e40\u0e02\u0e15\u0e23\u0e49\u0e2d\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f)",
+    "latitude": 13.7657804,
+    "longitude": 100.5333703
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 11377,
+    "aqi": "-",
+    "station_name": "\u0e23\u0e1e.\u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e40\u0e02\u0e15\u0e23\u0e49\u0e2d\u0e19 Hospital for Tropical Disease, Thailand (\u0e23\u0e1e. \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e40\u0e02\u0e15\u0e23\u0e49\u0e2d\u0e19)",
+    "latitude": 13.7657804,
+    "longitude": 100.5333703
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 11380,
+    "aqi": "-",
+    "station_name": "Rama IV Expressway (FES), Thailand (\u0e14\u0e48\u0e32\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 \u0e54)",
+    "latitude": 13.722733,
+    "longitude": 100.552776
+  },
+  {
+    "seed_city": "Bangkok",
+    "seed_country": "Thailand",
+    "search_keyword": "bangkok",
+    "waqi_uid": 4693,
+    "aqi": "82",
+    "station_name": "Bangkok University Rangsit Campus, Pathum Thani, Thailand; Bangkok University Rangsit Campus, Pathum Thani, Thailand (\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e \u0e27\u0e34\u0e17\u0e22\u0e32\u0e40\u0e02\u0e15\u0e23\u0e31\u0e07\u0e2a\u0e34\u0e15)",
+    "latitude": 14.03742,
+    "longitude": 100.605216
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 9974,
+    "aqi": "68",
+    "station_name": "Dubai US Embassy, UAE",
+    "latitude": 25.25848,
+    "longitude": 55.309166
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8033,
+    "aqi": "-",
+    "station_name": "Dubai Shk. Mohd. Bin Zayed Road, UAE",
+    "latitude": 25.05773,
+    "longitude": 55.27089
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8032,
+    "aqi": "-",
+    "station_name": "Dubai Emirates Hills, UAE",
+    "latitude": 25.07435,
+    "longitude": 55.159542
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8370,
+    "aqi": "-",
+    "station_name": "Dubai Hatta, UAE",
+    "latitude": 24.817594,
+    "longitude": 56.131834
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8369,
+    "aqi": "-",
+    "station_name": "Dubai Dubai Airport, UAE",
+    "latitude": 25.247264,
+    "longitude": 55.386303
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8029,
+    "aqi": "-",
+    "station_name": "Dubai Deira Union Square, UAE",
+    "latitude": 25.26756,
+    "longitude": 55.313135
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8031,
+    "aqi": "-",
+    "station_name": "Dubai Zabeel Park, UAE",
+    "latitude": 25.23627,
+    "longitude": 55.298573
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8368,
+    "aqi": "-",
+    "station_name": "Dubai Jebel Ali Free Zone, UAE",
+    "latitude": 25.007709,
+    "longitude": 55.084386
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 8030,
+    "aqi": "-",
+    "station_name": "Dubai Mushrif Park, UAE",
+    "latitude": 25.219969,
+    "longitude": 55.45706
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 13274,
+    "aqi": "32",
+    "station_name": "ricardusbaia; CBD RBCAA-NAQI, King Cetshwayo, South Africa",
+    "latitude": -28.7447,
+    "longitude": 32.049242
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 13273,
+    "aqi": "0",
+    "station_name": "ricardusbaia; Brackenham - RBCAA, King Cetshwayo, South Africa",
+    "latitude": -28.787027,
+    "longitude": 32.021848
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 11579,
+    "aqi": "-",
+    "station_name": "ricardusbaia; Arboretum \u2013 Water Facility, King Cetshwayo, South Africa",
+    "latitude": -28.761003,
+    "longitude": 32.07862
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 6242,
+    "aqi": "-",
+    "station_name": "ricardusbaia; CBD, RichardsBay, South Africa",
+    "latitude": -28.756224,
+    "longitude": 32.049242
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 6241,
+    "aqi": "-",
+    "station_name": "ricardusbaia; Brackenham, RichardsBay, South Africa",
+    "latitude": -28.731297,
+    "longitude": 32.038988
+  },
+  {
+    "seed_city": "Dubai",
+    "seed_country": "United Arab Emirates",
+    "search_keyword": "dubai",
+    "waqi_uid": 11580,
+    "aqi": "-",
+    "station_name": "ricardusbaia; Brackenham - uMhlathuze, King Cetshwayo, South Africa",
+    "latitude": -28.729307,
+    "longitude": 32.035901
+  },
+  {
+    "seed_city": "Cairo",
+    "seed_country": "Egypt",
+    "search_keyword": "cairo",
+    "waqi_uid": 13842,
+    "aqi": "-",
+    "station_name": "Cairo US Embassy, Egypt",
+    "latitude": 30.0412457,
+    "longitude": 31.2332942
+  },
+  {
+    "seed_city": "Cairo",
+    "seed_country": "Egypt",
+    "search_keyword": "cairo",
+    "waqi_uid": 9424,
+    "aqi": "-",
+    "station_name": "V.Cairoli, Udine, Friuli Venezia Giulia, Italy",
+    "latitude": 46.06611716,
+    "longitude": 13.2406876
+  },
+  {
+    "seed_city": "Cairo",
+    "seed_country": "Egypt",
+    "search_keyword": "cairo",
+    "waqi_uid": 8183,
+    "aqi": "-",
+    "station_name": "NMMC Airoli, Mumbai, India",
+    "latitude": 19.1494,
+    "longitude": 72.9986
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 13282,
+    "aqi": "21",
+    "station_name": "Ivory Park, City of Johannesburg, South Africa",
+    "latitude": -25.992923,
+    "longitude": 28.203952
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 10754,
+    "aqi": "17",
+    "station_name": "Kliprivier, City of Johannesburg, South Africa",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 10784,
+    "aqi": "3",
+    "station_name": "Jabavu, Johannesburg Metro, South Africa; Jabavu-NAQI, City of Johannesburg, South Africa",
+    "latitude": -26.252611,
+    "longitude": 27.872139
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 12572,
+    "aqi": "29",
+    "station_name": "Alexandra, City of Johannesburg, South Africa; Alexandra-NAQI, City of Johannesburg, South Africa",
+    "latitude": -26.107035,
+    "longitude": 28.110264
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 12570,
+    "aqi": "26",
+    "station_name": "Buccleugh, City of Johannesburg, South Africa; Buccleugh-NAQI, City of Johannesburg, South Africa",
+    "latitude": -26.045,
+    "longitude": 28.098889
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 14860,
+    "aqi": "25",
+    "station_name": "Davidsonville, City of Johannesburg, South Africa",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 10752,
+    "aqi": "-",
+    "station_name": "Diepkloof, Johannesburg Metro, South Africa; Diepkloof-NAQI, City of Johannesburg, South Africa",
+    "latitude": -26.250733,
+    "longitude": 27.9564167
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 11833,
+    "aqi": "21",
+    "station_name": "Orange Farm, Johannesburg Metro, South Africa; Orange Farm, City of Johannesburg, South Africa",
+    "latitude": -26.479639,
+    "longitude": 27.867111
+  },
+  {
+    "seed_city": "Johannesburg",
+    "seed_country": "South Africa",
+    "search_keyword": "johannesburg",
+    "waqi_uid": 11672,
+    "aqi": "25",
+    "station_name": "Diepsloot, City of Johannesburg, South Africa",
+    "latitude": -25.921853,
+    "longitude": 28.018873
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 437,
+    "aqi": "59",
+    "station_name": "Talagante, Chile",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 14731,
+    "aqi": "34",
+    "station_name": "Cerrillos II, Chile",
+    "latitude": -33.495361139755,
+    "longitude": -70.704821317871
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 438,
+    "aqi": "26",
+    "station_name": "Quilicura, Chile",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 421,
+    "aqi": "46",
+    "station_name": "La Florida, Chile",
+    "latitude": -33.516630362266,
+    "longitude": -70.588123961971
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 431,
+    "aqi": "30",
+    "station_name": "Parque O'Higgins, Chile",
+    "latitude": -33.464142,
+    "longitude": -70.660797
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 432,
+    "aqi": "38",
+    "station_name": "Pudahuel, Chile",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 435,
+    "aqi": "63",
+    "station_name": "Cerro Navia, Chile",
+    "latitude": -33.433089610143,
+    "longitude": -70.732147868717
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 436,
+    "aqi": "36",
+    "station_name": "Puente Alto, Chile",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 433,
+    "aqi": "-",
+    "station_name": "Cerrillos, Chile",
+    "latitude": -33.495821530652,
+    "longitude": -70.704282224178
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 429,
+    "aqi": "-",
+    "station_name": "Independencia, Chile",
+    "latitude": -33.422301,
+    "longitude": -70.651162
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 13304,
+    "aqi": "61",
+    "station_name": "santiago; Centro de Salud, Apizaco, Tlaxcala, Mexico",
+    "latitude": 19.409853333333,
+    "longitude": -98.150011111111
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 9161,
+    "aqi": "74",
+    "station_name": "santiago; Tulancingo, Hidalgo, Mexico",
+    "latitude": 20.08525,
+    "longitude": -98.366638888889
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 5760,
+    "aqi": "71",
+    "station_name": "Campus, Santiago, Galicia, Spain",
+    "latitude": 42.876000000122,
+    "longitude": -8.5590999995625
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 5761,
+    "aqi": "65",
+    "station_name": "San Caetano, Santiago, Galicia, Spain",
+    "latitude": 42.88779999977,
+    "longitude": -8.5310999999416
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 10515,
+    "aqi": "15",
+    "station_name": "Santiago do Cac\u00e9m, Santiago do Cac\u00e9m, Portugal",
+    "latitude": 38.020000000072,
+    "longitude": -8.6975000002291
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 11773,
+    "aqi": "69",
+    "station_name": "Santiago Acahualtepec, M\u00e9xico, Mexico",
+    "latitude": 19.34561,
+    "longitude": -99.009381
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 10516,
+    "aqi": "11",
+    "station_name": "Sonega, Santiago do Cac\u00e9m, Portugal",
+    "latitude": 37.87111100027,
+    "longitude": -8.7238889998469
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 10514,
+    "aqi": "5",
+    "station_name": "Monte Velho, Santiago do Cac\u00e9m, Portugal",
+    "latitude": 38.07694400006,
+    "longitude": -8.7986109999273
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 382,
+    "aqi": "81",
+    "station_name": "Villa Maria Del Triunfo, Lima, Peru",
+    "latitude": -12.16639,
+    "longitude": -76.92
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 379,
+    "aqi": "74",
+    "station_name": "San Borja, Lima, Peru",
+    "latitude": -12.10859,
+    "longitude": -77.00769
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 380,
+    "aqi": "72",
+    "station_name": "Campo De Marte, Lima, Peru",
+    "latitude": -12.07054,
+    "longitude": -77.04322
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 8780,
+    "aqi": "-",
+    "station_name": "US Embassy, Lima, Peru",
+    "latitude": -12.1052081,
+    "longitude": -76.9709299
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 398,
+    "aqi": "69",
+    "station_name": "Villa de las Flores, M\u00e9xico, Mexico",
+    "latitude": 19.658223,
+    "longitude": -99.09659
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 400,
+    "aqi": "55",
+    "station_name": "Tultitlan, M\u00e9xico, Mexico",
+    "latitude": 19.601973592327,
+    "longitude": -99.176832931342
+  },
+  {
+    "seed_city": "Santiago",
+    "seed_country": "Chile",
+    "search_keyword": "santiago",
+    "waqi_uid": 5866,
+    "aqi": "47",
+    "station_name": "Cuautitl\u00e1n, M\u00e9xico, Mexico",
+    "latitude": 19.722186,
+    "longitude": -99.198602
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 367,
+    "aqi": "19",
+    "station_name": "S.Andr\u00e9-Capuava, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 370,
+    "aqi": "65",
+    "station_name": "Santo Amaro, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 369,
+    "aqi": "59",
+    "station_name": "Santana, S\u00e3o Paulo, Brazil",
+    "latitude": -23.505992722,
+    "longitude": -46.6289603
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 7971,
+    "aqi": "25",
+    "station_name": "S.Bernardo-Centro, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 355,
+    "aqi": "50",
+    "station_name": "Mooca, S\u00e3o Paulo, Brazil",
+    "latitude": -23.549734045,
+    "longitude": -46.600416645
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 335,
+    "aqi": "42",
+    "station_name": "Carapicu\u00edba, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 362,
+    "aqi": "50",
+    "station_name": "Pinheiros, S\u00e3o Paulo, Brazil",
+    "latitude": -23.561459895,
+    "longitude": -46.702016508
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 347,
+    "aqi": "55",
+    "station_name": "Itaim Paulista, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 10702,
+    "aqi": "16",
+    "station_name": "Pico do Jaragu\u00e1, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 344,
+    "aqi": "46",
+    "station_name": "Ibirapuera, S\u00e3o Paulo, Brazil",
+    "latitude": -23.59184199,
+    "longitude": -46.660687503
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 3578,
+    "aqi": "59",
+    "station_name": "Cid.Universit\u00e1ria-USP-Ipen, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 334,
+    "aqi": "12",
+    "station_name": "Cap\u00e3o Redondo, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 348,
+    "aqi": "-",
+    "station_name": "Itaquera, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 343,
+    "aqi": "42",
+    "station_name": "Guarulhos-Pa\u00e7o Municipal, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 8513,
+    "aqi": "38",
+    "station_name": "Guarulhos-Pimentas, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 354,
+    "aqi": "-",
+    "station_name": "Mau\u00e1, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 337,
+    "aqi": "50",
+    "station_name": "Cerqueira C\u00e9sar, S\u00e3o Paulo, Brazil",
+    "latitude": -23.553542562,
+    "longitude": -46.672704769
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 359,
+    "aqi": "28",
+    "station_name": "Parque D.Pedro II, S\u00e3o Paulo, Brazil",
+    "latitude": -23.544845659,
+    "longitude": -46.627675592
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 358,
+    "aqi": "42",
+    "station_name": "Parelheiros, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 342,
+    "aqi": "32",
+    "station_name": "Diadema, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 345,
+    "aqi": "55",
+    "station_name": "Interlagos, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 377,
+    "aqi": "53",
+    "station_name": "Tabo\u00e3o da Serra, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 352,
+    "aqi": "24",
+    "station_name": "Marg.Tiet\u00ea-Ponte dos Rem\u00e9dios, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 356,
+    "aqi": "63",
+    "station_name": "Nossa Senhora do \u00d3, S\u00e3o Paulo, Brazil",
+    "latitude": -23.480098706,
+    "longitude": -46.692051922
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 12576,
+    "aqi": "29",
+    "station_name": "Perus, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 357,
+    "aqi": "34",
+    "station_name": "Osasco, S\u00e3o Paulo, Brazil",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 338,
+    "aqi": "55",
+    "station_name": "Congonhas, S\u00e3o Paulo, Brazil",
+    "latitude": -23.616320079,
+    "longitude": -46.663465527
+  },
+  {
+    "seed_city": "Sao Paulo",
+    "seed_country": "Brazil",
+    "search_keyword": "sao paulo",
+    "waqi_uid": 14720,
+    "aqi": "-",
+    "station_name": "US Embassy, Sao Paulo, Brazil",
+    "latitude": -23.629158,
+    "longitude": -46.69656
+  }
+]

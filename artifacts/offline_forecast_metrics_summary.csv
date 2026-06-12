@@ -1,0 +1,5 @@
+pollutant,best_model_name,train_rows,test_rows,rows_used_best_model,mae,rmse,r2,mape,selected_station_config
+pm25,tree_ensemble_diverse,16595,4149,4149,10.649210612896663,16.27495189253721,0.771006906396092,,prophet_additive_short_horizon
+pm10,random_forest_benchmark,7168,1792,1792,8.321067978970364,12.137332112948267,,28.79120938847402,all_available_stations
+o3,random_forest_benchmark,7136,1785,1785,3.744914192457896,6.006207960403201,,48.58947908678493,all_available_stations
+no2,tree_ensemble_stress_mix,7169,1793,1793,5.387034841288191,7.756706639943821,,39.987103452542726,all_available_stations

@@ -1,0 +1,524 @@
+seed_city,seed_country,search_keyword,waqi_uid,aqi,station_name,latitude,longitude
+Istanbul,Turkey,istanbul,8159,53,"Istanbul Sirinevler, Turkey",41.00245,28.83866
+Istanbul,Turkey,istanbul,11611,61,"Istanbul Sultangazi, Turkey",41.10197,28.87202
+Istanbul,Turkey,istanbul,14845,61,"Sultangazi 1, Turkey",,
+Istanbul,Turkey,istanbul,8152,61,"Istanbul Basaksehir, Turkey",41.09552,28.78986
+Istanbul,Turkey,istanbul,9558,49,"Istanbul (Buyukada), Turkey",40.8578714,29.1209951
+Istanbul,Turkey,istanbul,9559,30,"Goztepe, Turkey",,
+Istanbul,Turkey,istanbul,8160,62,"Istanbul Umraniye, Turkey",,
+Istanbul,Turkey,istanbul,8154,69,"Istanbul Kagithane, Turkey",41.09233,28.97478
+Istanbul,Turkey,istanbul,14841,46,"Arnavutköy, Turkey",,
+Istanbul,Turkey,istanbul,9562,38,"Maslak, Turkey",,
+Istanbul,Turkey,istanbul,8156,52,"Istanbul Mecidiyekoy, Turkey",41.06596,28.99446
+Istanbul,Turkey,istanbul,8773,70,"Selimiye, Turkey",41.003818,29.026914
+Istanbul,Turkey,istanbul,9564,68,"Avcilar, Turkey",,
+Istanbul,Turkey,istanbul,4148,50,"Istanbul (Kartal), Turkey",40.89,29.2075
+Istanbul,Turkey,istanbul,4149,38,"Istanbul (Sariyer), Turkey",,
+Istanbul,Turkey,istanbul,8155,52,"Istanbul Kandilli, Turkey",,
+Istanbul,Turkey,istanbul,14842,53,"Bağcılar, Turkey",,
+Istanbul,Turkey,istanbul,4144,22,"Istanbul (Alibeykoy), Turkey",41.057672,28.945682
+Istanbul,Turkey,istanbul,14847,61,"Sultangazi 3, Turkey",,
+Istanbul,Turkey,istanbul,14844,52,"Sancaktepe, Turkey",,
+Istanbul,Turkey,istanbul,4150,52,"Istanbul (Umraniye), Turkey",41.013611,29.162222
+Istanbul,Turkey,istanbul,8772,62,"Catladikapi, Turkey",41.0025,28.975278
+Istanbul,Turkey,istanbul,4147,20,"Istanbul (Kadikoy), Turkey",40.991944,29.033611
+Istanbul,Turkey,istanbul,4151,30,"Istanbul (Uskudar), Turkey",41.015278,29.025
+Istanbul,Turkey,istanbul,9560,38,"Kandilli, Turkey",,
+Istanbul,Turkey,istanbul,4146,54,"Istanbul (Esenler), Turkey",41.038333,28.888056
+Istanbul,Turkey,istanbul,8161,30,"Istanbul Uskudar, Turkey",41.02705,29.02489
+Istanbul,Turkey,istanbul,4145,52,"Istanbul (Besiktas), Turkey",41.053889,29.01
+Istanbul,Turkey,istanbul,4143,55,"Istanbul (Aksaray), Turkey",41.014722,28.954722
+Istanbul,Turkey,istanbul,5382,61,"Istanbul (Kagithane), Turkey",41.087733,28.982773
+Istanbul,Turkey,istanbul,14843,38,"Mobil 2, Turkey",41.051663093475156,28.867944221876538
+Istanbul,Turkey,istanbul,4152,53,"Istanbul (Yenibosna), Turkey",40.998889,28.826667
+Istanbul,Turkey,istanbul,8157,55,"Istanbul Silivri, Turkey",41.089333,28.255444
+London,United Kingdom,london,3193,109,"London Marylebone Road, United Kingdom",51.52253,-0.154611
+London,United Kingdom,london,11653,105,"London Honor Oak Park, United Kingdom",,
+London,United Kingdom,london,11767,-,"Hounslow Chiswick, United Kingdom",,
+London,United Kingdom,london,14604,122,"Westminster - Oxford Street, United Kingdom",51.5139287404213,-0.152792701881935
+London,United Kingdom,london,3194,100,"London N. Kensington, United Kingdom",51.52105,-0.213492
+London,United Kingdom,london,7953,114,"Greenwich - A206 Burrage Grove, United Kingdom",,
+London,United Kingdom,london,3166,122,"Camden Kerbside, United Kingdom",51.54421,-0.175269
+London,United Kingdom,london,14612,102,"Wandsworth - Putney, United Kingdom",,
+London,United Kingdom,london,14627,-,"Richmond Upon Thames - Castelnau, United Kingdom",,
+London,United Kingdom,london,7948,-,"Tower Hamlets - Blackwall, United Kingdom",,
+London,United Kingdom,london,7945,93,"Camden - Euston Road, United Kingdom",51.5277066194645,-0.129053205282516
+London,United Kingdom,london,14596,105,"Islington - Arsenal, United Kingdom",51.557895,-0.106989
+London,United Kingdom,london,7944,119,"Brent - Ikea, United Kingdom",,
+London,United Kingdom,london,7955,39,"Greenwich - Woolwich Flyover, United Kingdom",,
+London,United Kingdom,london,10876,41,"Greenwich - John Harrison Way, United Kingdom",,
+London,United Kingdom,london,11766,8,"Hounslow Brentford, United Kingdom",,
+London,United Kingdom,london,14631,82,"Camden - Coopers Lane, United Kingdom",51.533238,-0.129594
+London,United Kingdom,london,12504,99,"Brent - Neasden Lane, United Kingdom",,
+London,United Kingdom,london,12503,107,"Brent - John Keble Primary School, United Kingdom",,
+London,United Kingdom,london,10874,109,"London Westminster, United Kingdom",51.49467,-0.131931
+London,United Kingdom,london,3195,100,"London Teddington Bushy Park, United Kingdom",,
+London,United Kingdom,london,14626,114,"Wandsworth - Tooting High Street, United Kingdom",51.429331,-0.166524
+London,United Kingdom,london,14614,89,"Lambeth - Brixton Road, United Kingdom",51.464113541162,-0.11458102695123
+London,United Kingdom,london,14638,82,"Westminster - Elizabeth Bridge, United Kingdom",51.4922482333024,-0.147114752900186
+London,United Kingdom,london,14610,-,"Richmond Upon Thames - Barnes Wetlands, United Kingdom",,
+London,United Kingdom,london,7954,106,"Greenwich - Plumstead High Street, United Kingdom",,
+London,United Kingdom,london,14616,33,"Greenwich - Fiveways Sidcup Rd A20, United Kingdom",,
+London,United Kingdom,london,14611,36,"Greenwich - Blackheath, United Kingdom",,
+London,United Kingdom,london,7957,105,"Greenwich - Westhorne Avenue, United Kingdom",,
+London,United Kingdom,london,10103,-,"Greenwich - Trafalgar Road (Hoskins St), United Kingdom",,
+London,United Kingdom,london,3189,99,"London Bloomsbury, United Kingdom",51.52229,-0.125889
+London,United Kingdom,london,3179,-,"Haringey Roadside, United Kingdom",,
+London,United Kingdom,london,14608,93,"Wandsworth - Battersea, United Kingdom",51.4794395281222,-0.141786953606306
+London,United Kingdom,london,14625,104,"Wandsworth - Lavender Hill (Clapham Jct), United Kingdom",51.4636903568111,-0.166713485994806
+London,United Kingdom,london,14618,95,"Merton - Merton Road, United Kingdom",,
+London,United Kingdom,london,11768,-,"Waltham Forest Dawlish Rd, United Kingdom",,
+London,United Kingdom,london,5724,100,London,51.5073509,-0.1277583
+London,United Kingdom,london,14597,102,"Islington - Holloway Road, United Kingdom",51.555378,-0.116146
+London,United Kingdom,london,14634,104,"Greenwich - Falconwood FDMS, United Kingdom",,
+London,United Kingdom,london,14617,21,"Lambeth - Streatham Green, United Kingdom",51.4282131429499,-0.13186863879576
+London,United Kingdom,london,14594,118,"Enfield - Bowes Primary School, United Kingdom",,
+London,United Kingdom,london,10875,122,"Brent - ARK Franklin Primary Academy, United Kingdom",,
+London,United Kingdom,london,14636,-,"Southwark - Tower Bridge Road, United Kingdom",51.5013906712066,-0.0782034373606952
+London,United Kingdom,london,14606,-,"Southwark - Elephant and Castle, United Kingdom",51.4931557048667,-0.101527038274853
+London,United Kingdom,london,14605,-,"Westminster - Horseferry Road, United Kingdom",51.494681,-0.131938
+London,United Kingdom,london,14607,-,"Lambeth - Bondway Interchange, United Kingdom",51.4854867739729,-0.124545234819213
+Paris,France,paris,3101,40,"Tremblay-en-france, Paris",,
+Paris,France,paris,3082,95,"Paris 18eme, Paris",48.8917,2.34563
+Paris,France,paris,3085,143,"Gennevilliers, Paris",48.9302,2.29421
+Paris,France,paris,3089,95,"Boulevard Haussmann, Paris",48.8733,2.32957
+Paris,France,paris,3092,49,"Place De Lopera, Paris",48.8704,2.33241
+Paris,France,paris,3091,53,"Place Victor Basch, Paris",48.8277,2.3267
+Paris,France,paris,12763,125,"Paris 1er Les Halles, Paris",48.8621,2.34462
+Paris,France,paris,3086,119,"Avenue Des Champs Elysees, Paris",48.8686,2.31166
+Paris,France,paris,3097,110,"La Defense, Paris",48.8913,2.24064
+Paris,France,paris,3102,51,"Nogent-sur-marne, Paris",,
+Paris,France,paris,6937,37,"Paris Stade Lenglen, Paris",48.8303,2.26972
+Paris,France,paris,3105,85,"Gonesse, Paris",48.9908,2.44461
+Paris,France,paris,3088,118,"Boulevard Peripherique Est, Paris",48.8386,2.41278
+Paris,France,paris,3098,123,"Autoroute A1 - Saint-denis, Paris",48.9251,2.35654
+Paris,France,paris,3099,143,"Bobigny, Paris",48.9024,2.45261
+Paris,France,paris,3103,111,"Vitry-sur-seine, Paris",48.7759,2.37577
+Paris,France,paris,5722,119,Paris,48.856614,2.3522219
+Paris,France,paris,3100,-,"Route Nationale 2 - Pantin, Paris",48.9022,2.3907
+Paris,France,paris,3090,-,"Paris Centre, Paris",48.8593,2.35101
+Paris,France,paris,10946,-,", Quai De Paris - Trafic, Rouen, France",49.4366914897979,1.09855494496119
+Paris,France,paris,3093,34,"Lognes, Paris",48.8403,2.63463
+Paris,France,paris,12762,99,"Rambouillet, Paris",48.6337,1.83043
+Paris,France,paris,3104,42,"Cergy-pontoise, Paris",49.0459,2.04104
+Berlin,Germany,berlin,6179,89,"berlin-buckow; Blankenfelde-Mahlow, Germany",52.349444444444,13.424166666667
+Berlin,Germany,berlin,13850,63,"Wildau, Germany",,
+Berlin,Germany,berlin,10036,82,"Neukölln-Silbersteinstr., Berlin, Germany",52.467534,13.441654
+Berlin,Germany,berlin,10033,59,"Buch, Berlin, Germany",52.644169,13.483079
+Berlin,Germany,berlin,10031,57,"Grunewald (3.5 m), Berlin, Germany",52.473192,13.225144
+Berlin,Germany,berlin,10034,87,"Friedrichshagen, Berlin, Germany",52.447697,13.64705
+Berlin,Germany,berlin,10040,91,"Mariendorf, Mariendorfer Damm, Berlin, Germany",52.438115,13.38772
+Berlin,Germany,berlin,10039,70,"Mitte, Brückenstraße, Berlin, Germany",52.513606,13.418833
+Berlin,Germany,berlin,10038,107,"Friedrichshain-Frankfurter Allee, Berlin, Germany",52.514072,13.469931
+Berlin,Germany,berlin,10035,76,"Steglitz-Schildhornstr., Berlin, Germany",52.463611,13.31825
+Berlin,Germany,berlin,10032,65,"Neukölln-Nansenstraße, Berlin, Germany",52.489451,13.430844
+Berlin,Germany,berlin,13851,76,"Karl-Marx-Straße, Berlin, Germany",52.483812,13.429672
+Berlin,Germany,berlin,6132,65,"Berlin, Germany",52.5200066,13.404954
+Berlin,Germany,berlin,6194,85,"Bernau, Lohmühlenstr. v, Germany",52.6775,13.582222222222
+Berlin,Germany,berlin,6200,70,"Schönefeld, Flughafen*, Germany",52.376666666667,13.5325
+Berlin,Germany,berlin,13852,82,"Leipziger Straße, Berlin, Germany",52.509813,13.382377
+Berlin,Germany,berlin,10030,63,"Wedding-Amrumer Str., Berlin, Germany",52.543041,13.349326
+Berlin,Germany,berlin,10037,-,"Neukölln-Karl-Marx-Str. 76, Berlin, Germany",52.481709,13.433967
+Berlin,Germany,berlin,7458,16,"berlin; Canton, Ohio, USA",40.800797,-81.372853
+Berlin,Germany,berlin,7373,-,"berlingtan; Burlington, Vermont, USA",44.476101,-73.210297
+Berlin,Germany,berlin,4,30,"berlington; Burlington, Ontario, Canada",43.315111,-79.802639
+Berlin,Germany,berlin,6188,65,"berlin-staaken; Potsdam, Groß Glienicke, Germany",52.484166666667,13.123611111111
+Milan,Italy,milan,9118,-,"Milano Senato, Lombardia, Italy",45.470501,9.19746075
+Milan,Italy,milan,9132,-,"Milano Pascal Città Studi, Lombardia, Italy",45.478347,9.231667
+Milan,Italy,milan,10044,-,"Sesto San Giovanni , Lombardia, Italy",45.53476819,9.23610903
+Milan,Italy,milan,11437,12,"milan; East Syracuse, New York, USA",43.052351,-76.059185
+Milan,Italy,milan,10803,-,"milandadeebeulo; Miranda de Ebro II, Burgos, Spain",42.688055550005,-2.9405555502216
+Milan,Italy,milan,11808,-,"milandadeebeulo; Miranda de Ebro I, Burgos, Spain",42.684444439738,-2.9175000000954
+Milan,Italy,milan,9128,-,"Monza Machiavelli, Lombardia, Italy",45.574117,9.263808
+Milan,Italy,milan,9119,-,"Saronno Santuario, Lombardia, Italy",45.626104,9.025004
+Milan,Italy,milan,2589,68,"Port Dickson, Negeri Sembilan, Malaysia",2.441383,101.866858
+Milan,Italy,milan,196,51,"Odessa Gonzales, Midland, Texas",31.8702534,-102.3347563
+Milan,Italy,milan,2588,65,"Nilai, Negeri Sembilan, Malaysia",2.821692,101.811486
+Milan,Italy,milan,3313,70,"Nezahualcóyotl, México, Mexico",19.393734,-99.028212
+Milan,Italy,milan,11773,69,"Santiago Acahualtepec, México, Mexico",19.34561,-99.009381
+Milan,Italy,milan,8529,46,"Estación de Monitoreo Cuernavaca Centro, Morelos, Mexico",18.90861,-99.21167
+Milan,Italy,milan,8606,-,"millan; Millau, France",44.10618169,3.072179407
+Milan,Italy,milan,14122,33,"miltan; Milton, Ontario, Canada",43.52965,-79.862449
+Milan,Italy,milan,12698,6,"moilana; Moheia vest, Mo i Rana, Norway",66.312191,14.149923
+Milan,Italy,milan,2645,-,"moilana; Moheia, Mo i Rana, Norway",66.3111229,14.1520537
+Milan,Italy,milan,10452,162,"milyang; Naeil-dong, Gyeongnam, South Korea (내일동 경남)",35.493678,128.754168
+Milan,Italy,milan,5912,29,amiltan; Hamilton,43.2500208,-79.8660914
+Los Angeles,United States,los angeles,243,74,Los Angeles-North Main Street,34.06653,-118.22676
+Los Angeles,United States,los angeles,9606,-,"Long Beach-Route 710 Near Road, Los Angeles, California",33.859444,-118.200278
+Los Angeles,United States,los angeles,245,76,"Reseda, Los Angeles",34.1992,-118.53275
+Los Angeles,United States,los angeles,13231,52,"North Hollywood, Los Angeles, California",34.18198,-118.36304
+Los Angeles,United States,los angeles,14727,63,"21 de mayo 2, Chile",-37.471182288689,-72.36146284977
+Los Angeles,United States,los angeles,444,30,"21 de mayo, Chile",-37.471182288689,-72.36146284977
+Los Angeles,United States,los angeles,8511,30,"Los Ángeles Oriente, Chile",-37.463035064801,-72.324575155457
+Los Angeles,United States,los angeles,247,-,"South Long Beach, Los Angeles, California",33.7924,-118.17525
+Los Angeles,United States,los angeles,13067,-,"Lancaster-Division Street, Los Angeles, California",34.66959,-118.13068
+Los Angeles,United States,los angeles,244,-,"North Long Beach (Long Beach), Los Angeles",33.82376,-118.18916
+Los Angeles,United States,los angeles,241,-,"Burbank, Los Angeles",34.17599,-118.31701
+Los Angeles,United States,los angeles,246,78,"Santa Clarita-Placerita, Los Angeles",34.38337,-118.52839
+Los Angeles,United States,los angeles,242,85,"Glendora-Laurel, Los Angeles",34.14437,-117.85038
+Los Angeles,United States,los angeles,11798,72,"puebla de los angeles; Velódromo, Puebla, Mexico",19.115858055556,-98.277487222222
+Mexico City,Mexico,mexico city,400,55,"Tultitlan, México, Mexico",,
+Mexico City,Mexico,mexico city,407,84,"Pedregal, México, Mexico",,
+Mexico City,Mexico,mexico city,410,54,"FES Acatlán, México, Mexico",,
+Mexico City,Mexico,mexico city,411,61,"Hospital General de México, México, Mexico",19.411617,-99.152207
+Mexico City,Mexico,mexico city,8528,53,"Tlalnepantla, México, Mexico",,
+Mexico City,Mexico,mexico city,8866,49,"Miguel Hidalgo, México, Mexico",19.40405,-99.202603
+Mexico City,Mexico,mexico city,3315,57,"UAM Xochimilco, México, Mexico",,
+Mexico City,Mexico,mexico city,406,78,"UAM Iztapalapa, México, Mexico",19.360794,-99.07388
+Mexico City,Mexico,mexico city,402,42,"Xalostoc, México, Mexico",,
+Mexico City,Mexico,mexico city,5867,37,"San Agustín, México, Mexico",,
+Mexico City,Mexico,mexico city,3312,57,"Camarones, México, Mexico",19.468404,-99.169794
+Mexico City,Mexico,mexico city,409,57,"Tlahuac, México, Mexico",,
+Mexico City,Mexico,mexico city,405,61,"Iztacalco, México, Mexico",19.384413,-99.117641
+Mexico City,Mexico,mexico city,398,69,"Villa de las Flores, México, Mexico",,
+Mexico City,Mexico,mexico city,8527,76,"Centro de Ciencias de la Atmosfera, México, Mexico",,
+Mexico City,Mexico,mexico city,8867,88,"Ajusco Medio, México, Mexico",,
+Mexico City,Mexico,mexico city,9156,47,"Benito Juárez, México, Mexico",19.371612,-99.158969
+Mexico City,Mexico,mexico city,404,65,"Merced, México, Mexico",19.42461,-99.119594
+Mexico City,Mexico,mexico city,10158,68,"Gustavo A. Madero, México, Mexico",19.4827,-99.094517
+Mexico City,Mexico,mexico city,413,-,"Coyoacán, México, Mexico",19.350258,-99.157101
+Mexico City,Mexico,mexico city,3314,-,"San Juan de Aragón, México, Mexico",19.452592,-99.086095
+Mexico City,Mexico,mexico city,11772,-,"FES Aragón, México, Mexico",19.473692,-99.046176
+Delhi,India,delhi,12452,192,"Loni, Ghaziabad, India",,
+Delhi,India,delhi,11267,-,"Pooth Khurd, Bawana, Delhi, Delhi, India",,
+Delhi,India,delhi,11856,177,"Vasundhara, Ghaziabad, India",,
+Delhi,India,delhi,12435,182,"Indirapuram, Ghaziabad, India",,
+Delhi,India,delhi,12463,240,"Knowledge Park - V, Greater Noida, India",,
+Delhi,India,delhi,8685,177,"Vikas Sadan Gurgaon, Gurgaon, India",,
+Delhi,India,delhi,10705,172,"Jawaharlal Nehru Stadium, Delhi, Delhi, India",28.582846,77.234366
+Delhi,India,delhi,10124,132,"Pusa, Delhi, Delhi, India",28.636997,77.172248
+Delhi,India,delhi,9290,173,"DTU, Delhi, Delhi, India",,
+Delhi,India,delhi,10110,159,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",,
+Delhi,India,delhi,10704,142,"Mother Dairy Plant, Parparganj, Delhi, Delhi, India",28.620171,77.287705
+Delhi,India,delhi,2556,122,"R.K. Puram, Delhi, Delhi, India",28.5648,77.1744
+Delhi,India,delhi,10122,161,"Lodhi Road, Delhi, Delhi, India",28.589701,77.221917
+Delhi,India,delhi,10113,170,"ITI Jahangirpuri, Delhi, Delhi, India",28.733016,77.17197
+Delhi,India,delhi,10708,411,"Mundka, Delhi, Delhi, India",,
+Delhi,India,delhi,3715,161,"ITO, Delhi, Delhi, India",28.628577,77.241036
+Delhi,India,delhi,10121,237,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",28.710066,77.24622
+Delhi,India,delhi,12465,211,"Sector-116, Noida, India",,
+Delhi,India,delhi,12814,4,"Sector 30, Faridabad, India",,
+Delhi,India,delhi,12889,167,"New Industrial Town, Faridabad, India",,
+Delhi,India,delhi,10116,-,"DITE Okhla, Delhi, Delhi, India",,
+Delhi,India,delhi,10707,-,"Sri Auribindo Marg, Delhi, Delhi, India",,
+Delhi,India,delhi,10112,151,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",28.566827,77.251418
+Delhi,India,delhi,10114,144,"Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",28.700505,77.165603
+Delhi,India,delhi,10120,-,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",,
+Delhi,India,delhi,12447,-,"Arya Nagar, Bahadurgarh, India",,
+Delhi,India,delhi,12816,210,"Sector-51, Gurugram, India",,
+Delhi,India,delhi,12466,200,"Sector-1, Noida, India",28.5898,77.3101
+Delhi,India,delhi,10111,167,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.612498,77.237388
+Delhi,India,delhi,8179,171,"Shadipur, Delhi, Delhi, India",28.65155278,77.15804167
+Delhi,India,delhi,10119,-,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",,
+Delhi,India,delhi,10118,273,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",28.672114,77.313832
+Delhi,India,delhi,2554,182,"Mandir Marg, Delhi, Delhi, India",28.6341,77.2005
+Delhi,India,delhi,10115,129,"Satyawati College, Delhi, Delhi, India",28.69572,77.181295
+Delhi,India,delhi,10125,170,"Burari Crossing, Delhi, Delhi, India",28.725646,77.203384
+Delhi,India,delhi,12813,814,"Sector 11, Faridabad, India",,
+Delhi,India,delhi,10123,166,"CRRI Mathura Road, Delhi, Delhi, India",,
+Delhi,India,delhi,11863,306,"Sector - 125, Noida, India",,
+Delhi,India,delhi,2555,175,"Punjabi Bagh, Delhi, Delhi, India",,
+Delhi,India,delhi,11278,176,"Knowledge Park - III, Greater Noida, India",,
+Delhi,India,delhi,11300,158,"NISE Gwal Pahari, Gurugram, India",,
+Delhi,India,delhi,10126,-,"Aya Nagar, Delhi, Delhi, India",,
+Delhi,India,delhi,11266,177,"Alipur, Delhi, Delhi, India",,
+Delhi,India,delhi,11899,175,"Sanjay Nagar, Ghaziabad, India",,
+Delhi,India,delhi,11865,155,"Sector - 62, Noida, India",,
+Delhi,India,delhi,12890,166,"Teri Gram, Gurugram, India",,
+Delhi,India,delhi,2553,234,"Anand Vihar, Delhi, Delhi, India",28.6508,77.3152
+Delhi,India,delhi,10117,-,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",,
+Delhi,India,delhi,10706,185,"Narela, Delhi, Delhi, India",,
+Delhi,India,delhi,7024,-,"New Delhi US Embassy, India (नई दिल्ली अमेरिकी दूतावास)",28.63576,77.22445
+Delhi,India,delhi,8180,-,"IHBAS, Delhi, Delhi, India",28.68189167,77.30485833
+Delhi,India,delhi,10127,-,"North Campus, Delhi, Delhi, India",28.687716,77.210232
+Mumbai,India,mumbai,13708,137,"Mulund West, Mumbai, India",,
+Mumbai,India,mumbai,13714,72,"Borivali East MPCB, Mumbai, India",,
+Mumbai,India,mumbai,13803,54,"Malad West, Mumbai, India",,
+Mumbai,India,mumbai,12454,74,"Kurla, Mumbai, India",19.0863,72.8888
+Mumbai,India,mumbai,12456,103,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai, India",19.10078,72.87462
+Mumbai,India,mumbai,13711,38,"Kandivali East, Mumbai, India",,
+Mumbai,India,mumbai,12464,94,"Sion, Mumbai, India",19.047,72.8746
+Mumbai,India,mumbai,13712,86,"Deonar, Mumbai, India",19.04946,72.923
+Mumbai,India,mumbai,13710,84,"Khindipada-Bhandup West, Mumbai, India",,
+Mumbai,India,mumbai,12462,-,"Khadakpada, Kalyan, India",,
+Mumbai,India,mumbai,13709,64,"Mazgaon, Mumbai, India",,
+Mumbai,India,mumbai,11898,135,"Nerul, Navi Mumbai, India",19.008751,73.01662
+Mumbai,India,mumbai,12455,55,"Vile Parle West, Mumbai, India",19.10861,72.83622
+Mumbai,India,mumbai,13713,98,"Chakala-Andheri East, Mumbai, India",19.11074,72.86084
+Mumbai,India,mumbai,12460,101,"Borivali East, Mumbai, India",19.23241,72.86895
+Mumbai,India,mumbai,11962,71,"Colaba, Mumbai, India",18.91,72.82
+Mumbai,India,mumbai,13707,92,"Navy Nagar-Colaba, Mumbai, India",,
+Mumbai,India,mumbai,11921,53,"Worli, Mumbai, India",18.9936162,72.8128113
+Mumbai,India,mumbai,12459,103,"Powai, Mumbai, India",19.1375,72.915056
+Mumbai,India,mumbai,12461,147,"Mahape, Navi Mumbai, India",19.1135051,73.008978
+Mumbai,India,mumbai,13715,85,"Bandra Kurla Complex, Mumbai, India",19.053536,72.84643
+Mumbai,India,mumbai,13706,99,"Siddharth Nagar-Worli, Mumbai, India",19.000083,72.813993
+Mumbai,India,mumbai,7020,-,"Mumbai US Consulate, India (मुंबई अमेरिकी वाणिज्य दूतावास)",19.072830200195,72.882606506348
+Mumbai,India,mumbai,8678,-,"Bandra, Mumbai, India",19.0627,72.84614
+Mumbai,India,mumbai,12453,-,"Vasai West, Mumbai, India",19.3832,72.8204
+Mumbai,India,mumbai,8183,-,"NMMC Airoli, Mumbai, India",19.1494,72.9986
+Mumbai,India,mumbai,13702,-,"Sector-19A Nerul, Navi Mumbai, India",19.044,73.0325
+Dhaka,Bangladesh,dhaka,8781,-,"Dhaka US Consulate, Bangladesh",23.796373,90.424614
+Dhaka,Bangladesh,dhaka,8294,58,"dzhakarta; Kemayoran, Indonesia",-6.155,106.846
+Dhaka,Bangladesh,dhaka,8647,-,"dzhakarta; Jakarta Central (US Consulate), Indonesia",-6.155,106.846
+Dhaka,Bangladesh,dhaka,8648,-,"dzhakarta; Jakarta South (US Consulate), Indonesia",-6.236704,106.79324
+Beijing,China,beijing,13328,185,"大兴旧宫, Beijing",,
+Beijing,China,beijing,446,187,"Dongcheng Dongsi, Beijing (东城东四)",39.929,116.417
+Beijing,China,beijing,13338,195,"通州永顺, Beijing",,
+Beijing,China,beijing,449,189,"Wanshou Temple, Beijing (西城万寿西宫)",39.878,116.352
+Beijing,China,beijing,448,179,"West Park officials, Beijing (西城官园)",39.929,116.339
+Beijing,China,beijing,457,165,"Shijingshan city, Beijing (石景山古城)",,
+Beijing,China,beijing,447,185,"Temple of Heaven, Dongcheng, Beijing (东城天坛)",39.886,116.407
+Beijing,China,beijing,460,194,"BDA, Beijing; BDA, Beijing (亦庄开发区)",39.795,116.506
+Beijing,China,beijing,13335,165,"海淀四季青, Beijing",,
+Beijing,China,beijing,462,168,"Shunyi New Town , Beijing; Shunyi New Town , Beijing (顺义新城)",40.127,116.655
+Beijing,China,beijing,13337,195,"通州东关, Beijing",,
+Beijing,China,beijing,452,174,"Haidian Wanliu, Beijing; Haidian Wanliu, Beijing (海淀万柳)",39.987,116.287
+Beijing,China,beijing,459,188,"Huangcunzhen, Daxing, Beijing (大兴黄村镇)",,
+Beijing,China,beijing,450,182,"Chaoyang Olympic Sports Center, Beijing (朝阳奥体中心)",39.982,116.397
+Beijing,China,beijing,456,168,"Fengtai Yungang, Beijing; Fengtai Yungang, Beijing (丰台云岗)",39.824,116.146
+Beijing,China,beijing,458,184,"Fangshan, Liangxiang, Beijing (房山良乡)",,
+Beijing,China,beijing,13327,171,"丰台小屯, Beijing",,
+Beijing,China,beijing,13336,169,"石景山老山, Beijing",,
+Beijing,China,beijing,1451,189,Beijing (北京),39.954592,116.468117
+Beijing,China,beijing,451,189,"Chaoyang Agricultural Exhibition Hall, Beijing (朝阳农展馆)",39.937,116.461
+Beijing,China,beijing,3303,108,"Beijing US Embassy, Beijing (北京美国大使馆)",39.954592,116.468117
+Beijing,China,beijing,9774,-,"Beijing Jiaotong University Seaside College, Cangzhou; Beijing Jiaotong University Seaside College, Cangzhou (沧州市北京交通大学海滨学院)",38.385,117.313
+Beijing,China,beijing,9724,-,"Beijing Economic Management School Gu'an Campus, Langfang; Beijing Economic Management School Gu'an Campus, Langfang (廊坊市北京经管学校固安校区)",39.46,116.308
+Beijing,China,beijing,9723,-,"Beijing Bazhong Gu'an Branch, Langfang; Beijing Bazhong Gu'an Branch, Langfang (廊坊市北京八中固安分校)",39.46,116.28
+Beijing,China,beijing,885,157,"Beijing South , Huai'an; Beijing South , Huai'an (淮安北京南路)",33.578039,119.007906
+Beijing,China,beijing,465,154,"Pinggu town, Beijing; Pinggu town, Beijing (平谷镇)",40.143,117.1
+Beijing,China,beijing,466,159,"Huairou town, Beijing; Huairou town, Beijing (怀柔镇)",40.328,116.628
+Beijing,China,beijing,468,154,"Yanqing town, Beijing; Yanqing town, Beijing (延庆镇)",40.453,115.972
+Beijing,China,beijing,467,156,"The town of Miyun, Beijing; The town of Miyun, Beijing (密云镇)",40.37,116.832
+Beijing,China,beijing,463,160,"Changping Town, Beijing; Changping Town, Beijing (昌平镇)",40.217,116.23
+Seoul,South Korea,seoul,4541,99,"Gyenamgongwon, Gyeonggi, South Korea (송내대로(중동) 경기)",,
+Seoul,South Korea,seoul,4501,95,"Baekhyeon-dong, Gyeonggi, South Korea (대왕판교로(백현동) 경기)",,
+Seoul,South Korea,seoul,4498,95,"Gil-dong, Seoul, South Korea (천호대로 서울)",,
+Seoul,South Korea,seoul,11364,76,"Byeolnae-dong, Gyeonggi, South Korea (별내동 경기)",,
+Seoul,South Korea,seoul,1708,109,"Anyang, Anyang-si, Gyeonggi, South Korea (안양2동 경기)",,
+Seoul,South Korea,seoul,4486,102,"Cheonggyecheon, Seoul, South Korea (청계천로 서울)",37.56865,126.998083
+Seoul,South Korea,seoul,1691,87,"Jungnang-gu, Seoul, South Korea (중랑구 서울)",,
+Seoul,South Korea,seoul,1689,99,"Jongno-gu, Seoul, South Korea (종로구 서울)",37.572025,127.005028
+Seoul,South Korea,seoul,4539,119,"Bupyeongyeok, Incheon, South Korea (부평역 인천)",,
+Seoul,South Korea,seoul,3933,76,"Donggu-dong, Guri-si, Gyeonggi, South Korea (동구동 경기)",,
+Seoul,South Korea,seoul,1676,87,"Dobong-gu, Seoul, South Korea (도봉구 서울)",,
+Seoul,South Korea,seoul,1696,95,"Gyeongan-dong, Gwangju-si, Gyeonggi, South Korea (경안동 경기)",,
+Seoul,South Korea,seoul,1679,95,"Mapo-gu, Seoul, South Korea (마포구 서울)",37.55561,126.905457
+Seoul,South Korea,seoul,1693,-,"Siksa-dong, Goyang-si, Gyeonggi, South Korea (식사동 경기)",,
+Seoul,South Korea,seoul,3942,97,"sangdaewon1-dong, Seongnam-si, Gyeonggi, South Korea (상대원동 경기)",,
+Seoul,South Korea,seoul,4496,95,"Sinsa-dong, Seoul, South Korea (도산대로 서울)",37.516083,127.019694
+Seoul,South Korea,seoul,1717,122,"Geumchon-dong, Paju-si, Gyeonggi, South Korea (금촌동 경기)",,
+Seoul,South Korea,seoul,5508,124,Seoul (서울),37.566535,126.9779692
+Seoul,South Korea,seoul,1688,91,"Bulgwang-dong, Eunpyeong-gu, Seoul, South Korea (은평구 서울)",,
+Seoul,South Korea,seoul,1700,82,"Geumgok-dong, Namnyangju-si, Gyeonggi, South Korea (금곡동 경기)",,
+Seoul,South Korea,seoul,1675,87,"Nowon-gu, Seoul, South Korea (노원구 서울)",,
+Seoul,South Korea,seoul,5509,95,Goyang (고양시),,
+Seoul,South Korea,seoul,3931,102,"Byeoryang-dong, Gwacheon-si, Gyeonggi, South Korea (별양동 경기)",,
+Seoul,South Korea,seoul,5512,99,Seongnam (성남시),,
+Seoul,South Korea,seoul,12993,97,"Mokgam-dong, Gyeonggi, South Korea (목감동 경기)",,
+Seoul,South Korea,seoul,3975,107,"Wondang, Seo-gu, Incheon, South Korea (원당 인천)",,
+Seoul,South Korea,seoul,1807,78,"Uijeongbu, Uijeongbu-si, Gyeonggi, South Korea (의정부동 경기)",,
+Seoul,South Korea,seoul,4488,93,"Gangbyeonbukro, Seoul, South Korea (강변북로 서울)",,
+Seoul,South Korea,seoul,3939,142,"Nae-dong, Bucheon-si, Gyeonggi, South Korea (내동 경기)",,
+Seoul,South Korea,seoul,1699,112,"Gochon-myeon, Gimpo-si, Gyeonggi, South Korea (고촌읍 경기)",,
+Seoul,South Korea,seoul,5514,127,Siheung (신흥시),,
+Seoul,South Korea,seoul,1725,124,"Gojan, Namdong-gu, Incheon, South Korea (고잔 인천)",,
+Seoul,South Korea,seoul,13536,122,"Seohaean-ro, Gyeonggi, South Korea (서해안로 경기)",,
+Seoul,South Korea,seoul,4502,99,"Moranyeok, Gyeonggi, South Korea (성남대로(모란역) 경기)",,
+Seoul,South Korea,seoul,5516,102,Anyang-si (안양시),,
+Seoul,South Korea,seoul,1683,109,"Seongbuk-gu, Seoul, South Korea (성북구 서울)",37.606667,127.027264
+Seoul,South Korea,seoul,1680,97,"Seodaemun-gu, Seoul, South Korea (서대문구 서울)",37.593749,126.949534
+Seoul,South Korea,seoul,3953,93,"Bugok-dong, Ansan-si, Gyeonggi, South Korea (부곡동1 경기)",,
+Seoul,South Korea,seoul,1670,104,"Gangseo-gu, Seoul, South Korea (강서구 서울)",,
+Seoul,South Korea,seoul,4538,109,"Seokbawi, Incheon, South Korea (석바위 인천)",,
+Seoul,South Korea,seoul,13534,112,"Jinjeop-eup, Gyeonggi, South Korea (진접읍 경기)",,
+Seoul,South Korea,seoul,3963,104,"Suji, Yongin-si, Gyeonggi, South Korea (수지 경기)",,
+Seoul,South Korea,seoul,1681,109,"Seocho-gu, Seoul, South Korea (서초구 서울)",37.504547,126.994611
+Seoul,South Korea,seoul,13551,109,"Seochang, Incheon, South Korea (서창 인천)",,
+Seoul,South Korea,seoul,1729,112,"Dongchun, Yeonsu-gu, Incheon, South Korea (동춘 인천)",,
+Seoul,South Korea,seoul,1695,95,"Sohadong, Gwangmyeong-si, Gyeonggi, South Korea (소하동 경기)",,
+Seoul,South Korea,seoul,4503,104,"Jungangro1, Gyeonggi, South Korea (중앙대로(고잔동) 경기)",,
+Seoul,South Korea,seoul,12552,97,"Samsan, Incheon, South Korea (삼산 인천)",,
+Seoul,South Korea,seoul,3951,127,"Daeya-dong, Siheung-si, Gyeonggi, South Korea (대야동 경기)",,
+Seoul,South Korea,seoul,5517,114,Incheon (인천),,
+Seoul,South Korea,seoul,4504,95,"Maduyeok, Gyeonggi, South Korea (백마로(마두역) 경기)",,
+Seoul,South Korea,seoul,1671,91,"Gwanak-gu, Seoul, South Korea (관악구 서울)",,
+Seoul,South Korea,seoul,1682,104,"Seongdong-gu, Seoul, South Korea (성동구 서울)",37.542036,127.049685
+Seoul,South Korea,seoul,3950,114,"Jeongwang-dong, Siheung-si, Gyeonggi, South Korea (정왕동 경기)",,
+Seoul,South Korea,seoul,1705,129,"Sihwa, Siheung-si, Gyeonggi, South Korea (시화산단 경기)",,
+Seoul,South Korea,seoul,1686,95,"Yeongdeungpo-gu, Seoul, South Korea (영등포구 서울)",37.525007,126.89737
+Seoul,South Korea,seoul,11343,119,"Juyeop-dong, Gyeonggi, South Korea (주엽동 경기)",,
+Seoul,South Korea,seoul,1715,85,"Gocheon-dong, Uiwang-si, Gyeonggi, South Korea (고천동 경기)",,
+Seoul,South Korea,seoul,3964,97,"Bugok, Uiwang-si, Gyeonggi, South Korea (부곡3동 경기)",,
+Seoul,South Korea,seoul,4490,93,"Cheongryang-ri, Seoul, South Korea (홍릉로 서울)",,
+Seoul,South Korea,seoul,8500,97,"Yeongdeungpo-ro, Seoul, South Korea (영등포로 서울)",37.520222,126.904967
+Seoul,South Korea,seoul,1703,42,"Sunae-dong, Seongnam-si, Gyeonggi, South Korea (수내동 경기)",,
+Seoul,South Korea,seoul,4495,124,"Dongjakdaero Jungangcharo, Seoul, South Korea (동작대로 중앙차로 서울)",37.492107,126.983245
+Seoul,South Korea,seoul,3932,99,"Cheolsan-dong, Gwangmyeong-si, Gyeonggi, South Korea (철산동 경기)",,
+Seoul,South Korea,seoul,1685,102,"Yangcheon-gu, Seoul, South Korea (양천구 서울)",,
+Seoul,South Korea,seoul,12994,95,"Opo-eup, Gyeonggi, South Korea (오포1동 경기)",,
+Seoul,South Korea,seoul,1677,91,"Dongdaemun-gu, Seoul, South Korea (동대문구 서울)",,
+Seoul,South Korea,seoul,5515,89,Ansan (안산시),,
+Seoul,South Korea,seoul,4499,104,"Taereung, Seoul, South Korea (화랑로 서울)",,
+Seoul,South Korea,seoul,11889,129,"Mohyeon-eup, Gyeonggi, South Korea (모현읍 경기)",,
+Seoul,South Korea,seoul,3934,87,"Dang-dong, Gunpo-si, Gyeonggi, South Korea (당동 경기)",,
+Seoul,South Korea,seoul,1694,93,"Gwacheon-dong, Gwacheon-si, Gyeonggi, South Korea (과천동 경기)",,
+Seoul,South Korea,seoul,4487,102,"Jongro, Seoul, South Korea (종로 서울)",37.570633,126.996783
+Seoul,South Korea,seoul,14887,112,"Hyoseong, Incheon, South Korea (효성 인천)",,
+Seoul,South Korea,seoul,13535,87,"Misa, Gyeonggi, South Korea (미사 경기)",,
+Seoul,South Korea,seoul,1668,99,"Gangdong-gu, Seoul, South Korea (강동구 서울)",,
+Seoul,South Korea,seoul,1667,112,"Gangnam-gu, Seoul, South Korea (강남구 서울)",37.5175623,127.0472893
+Seoul,South Korea,seoul,3965,78,"Uijeongbu, Uijeongbu-si, Gyeonggi, South Korea (의정부1동 경기)",,
+Seoul,South Korea,seoul,3940,99,"Jeongja, Seongnam-si, Gyeonggi, South Korea (정자동 경기)",,
+Seoul,South Korea,seoul,1678,93,"Dongjak-gu, Seoul, South Korea (동작구 서울)",37.480989,126.971547
+Seoul,South Korea,seoul,1673,93,"Guro-gu, Seoul, South Korea (구로구 서울)",,
+Seoul,South Korea,seoul,1709,76,"Onam-eup, Yangju-si, Gyeonggi, South Korea (오남읍 경기)",,
+Seoul,South Korea,seoul,3961,80,"Gwangjeok-myeon, Yangju-si, Gyeonggi, South Korea (백석읍 경기)",,
+Seoul,South Korea,seoul,13538,91,"Wabu-eup, Gyeonggi, South Korea (와부읍 경기)",,
+Seoul,South Korea,seoul,12990,95,"Gyeongchun-ro, Gyeonggi, South Korea (경춘로 경기)",,
+Seoul,South Korea,seoul,1674,109,"Geumcheon-gu, Seoul, South Korea (금천구 서울)",,
+Seoul,South Korea,seoul,4493,107,"Gonghangro, Seoul, South Korea (공항대로 서울)",,
+Seoul,South Korea,seoul,1687,122,"Yongsan-gu, Seoul, South Korea (용산구 서울)",37.540314,127.005083
+Seoul,South Korea,seoul,3972,99,"Nonhyeon, Namdong-gu, Incheon, South Korea (논현 인천)",,
+Seoul,South Korea,seoul,1702,99,"Wonjong-dong, Bucheon-si, Gyeonggi, South Korea (오정동 경기)",,
+Seoul,South Korea,seoul,3943,87,"Sangdaewon-dong, Seongnam-si, Gyeonggi, South Korea (운중동 경기)",,
+Seoul,South Korea,seoul,3938,99,"Simgok-dong, Bucheon-si, Gyeonggi, South Korea (소사본동 경기)",,
+Seoul,South Korea,seoul,1723,91,"Gyesan, Gyeyang-gu, Incheon, South Korea (계산 인천)",,
+Seoul,South Korea,seoul,3936,134,"Sau-dong, Gimpo-si, Gyeonggi, South Korea (사우동 경기)",,
+Seoul,South Korea,seoul,1698,89,"Sanbon-dong, Gunpo-si, Gyeonggi, South Korea (산본동 경기)",,
+Seoul,South Korea,seoul,3958,109,"Anyang-6dong, Anyang-si, Gyeonggi, South Korea (안양8동 경기)",,
+Seoul,South Korea,seoul,13958,104,"Baegot-dong, Gyeonggi, South Korea (배곧동 경기)",,
+Seoul,South Korea,seoul,1727,78,"Bupyeong, Bupyeong-gu, Incheon, South Korea (부평 인천)",,
+Seoul,South Korea,seoul,3930,107,"Haengsin-dong, Goyang-si, Gyeonggi, South Korea (행신동 경기)",,
+Seoul,South Korea,seoul,4485,95,"Seouryeok, Seoul, South Korea (한강대로 서울)",37.549389,126.971519
+Seoul,South Korea,seoul,3966,147,", Paju-si, Gyeonggi, South Korea (운정 경기)",,
+Seoul,South Korea,seoul,3941,95,"Dandae-dong, Seongnam-si, Gyeonggi, South Korea (단대동 경기)",,
+Seoul,South Korea,seoul,3937,72,"Sang, Bucheon-si, Gyeonggi, South Korea (중2동 경기)",,
+Seoul,South Korea,seoul,5511,99,Bucheon (인천시),,
+Seoul,South Korea,seoul,9543,93,"Goyang-si Sinwon-dong, Gyeonggi, South Korea (신원동 경기)",,
+Seoul,South Korea,seoul,3944,91,"Bokjeong-dong, Seongnam-si, Gyeonggi, South Korea (복정동 경기)",,
+Seoul,South Korea,seoul,1720,74,"Sinjang-dong, Hanam-si, Gyeonggi, South Korea (신장동 경기)",,
+Seoul,South Korea,seoul,1697,78,"Gyomun-dong, Guri-si, Gyeonggi, South Korea (교문동 경기)",,
+Seoul,South Korea,seoul,4492,95,"Sinchon, Seoul, South Korea (신촌 서울)",37.554936,126.937619
+Seoul,South Korea,seoul,10459,80,"Go-eup, Gyeonggi, South Korea (고읍 경기)",,
+Seoul,South Korea,seoul,1672,89,"Gwangjin-gu, Seoul, South Korea (광진구 서울)",,
+Seoul,South Korea,seoul,11359,107,"Siheung-daero, Seoul, South Korea (시흥대로 서울)",,
+Seoul,South Korea,seoul,13537,72,"Songsan3-dong, Gyeonggi, South Korea (송산3동 경기)",,
+Seoul,South Korea,seoul,3960,122,"Hogye-dong, Anyang-si, Gyeonggi, South Korea (호계동 경기)",,
+Seoul,South Korea,seoul,1706,107,"Wongok, Ansan-si, Gyeonggi, South Korea (원곡동 경기)",,
+Seoul,South Korea,seoul,1669,87,"Gangbuk-gu, Seoul, South Korea (강북구 서울)",,
+Seoul,South Korea,seoul,4497,107,"Yangjaejungangcharo, Seoul, South Korea (강남대로 서울)",37.482867,127.035621
+Seoul,South Korea,seoul,12999,134,"Nam-dong, Incheon, South Korea (남동 인천)",,
+Seoul,South Korea,seoul,3971,114,"Guwol, Namdong-gu, Incheon, South Korea (구월동 인천)",,
+Seoul,South Korea,seoul,1684,129,"Songpa-gu, Seoul, South Korea (송파구 서울)",,
+Seoul,South Korea,seoul,1690,107,"Jung-gu, Seoul, South Korea (중구 서울)",37.564639,126.975961
+Seoul,South Korea,seoul,8499,95,"Sinchon-ro, Seoul, South Korea (신촌로 서울)",37.554936,126.937619
+Jakarta,Indonesia,jakarta,13653,58,"jokjakarta; Sleman, Indonesia",-7.731,110.354
+Bangkok,Thailand,bangkok,1857,79,"Chulalongkorn Hospital, Bangkok, Thailand (โรงพยาบาลจุฬาลงกรณ์)",13.729852,100.536501
+Bangkok,Thailand,bangkok,1834,70,"Thai Meteorological Department Bangna,Bangkok, Thailand (กรมอุตุนิยมวิทยา (บางนา))",,
+Bangkok,Thailand,bangkok,1840,57,"South Bangkok Power Plant, Samut Prakan, Thailand; South Bangkok Power Plant, Samut Prakan, Thailand (โรงไฟฟ้าพระนครใต้)",13.618,100.5562
+Bangkok,Thailand,bangkok,1842,91,"City Hall, Samut Prakan, Thailand (ศาลากลางจังหวัดสมุทรปราการ)",,
+Bangkok,Thailand,bangkok,1861,80,"National Housing Authority Dindaeng, Bangkok, Thailand (การเคหะชุมชนดินแดง)",13.76251667,100.5502
+Bangkok,Thailand,bangkok,1814,79,"Highway District, Samut Sakhon, Thailand (แขวงการทางสมุทรสาคร)",,
+Bangkok,Thailand,bangkok,1841,69,"Residence for Dept. of Primary Industries and Mines, Samut Prakan, Thailand (บ้านพักกรมอุตสาหกรรมพื้นฐานและการเหมืองแร่)",,
+Bangkok,Thailand,bangkok,1816,73,"Sukhothai Thammathirat Open University, Nonthaburi, Thailand (มหาวิทยาลัยสุโขทัยธรรมาธิราช)",,
+Bangkok,Thailand,bangkok,1859,76,"Thonburi Power Sub-Station, Bangkok, Thailand (โรงไฟฟ้าย่อย ธนบุรี)",13.727622,100.486568
+Bangkok,Thailand,bangkok,5773,76,Bangkok,13.7563309,100.5017651
+Bangkok,Thailand,bangkok,1813,70,"Nonsi Witthaya School, Bangkok, Thailand (โรงเรียนนนทรีวิทยา)",13.70806667,100.5473333
+Bangkok,Thailand,bangkok,1864,61,"Bodindecha Sing Singhaseni School, Bangkok, Thailand (โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี))",,
+Bangkok,Thailand,bangkok,1836,72,"Prabadang Rehabiltation Center, Samut Prakan, Thailand (ศูนย์ฟื้นฟูอาชีพคนพิการและทุพลภาพ สมุทรปราการ)",,
+Bangkok,Thailand,bangkok,1812,71,"Bansomdejchaopraya Rajabhat University, Bangkok, Thailand (มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา)",13.732846,100.487662
+Bangkok,Thailand,bangkok,1838,59,"EGAT, Nonthaburi, Thailand (การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.))",13.8069333,100.5355167
+Bangkok,Thailand,bangkok,1843,71,"National Housing Authority Bangplee, Samut Prakan, Thailand (การเคหะชุมชนบางพลี)",,
+Bangkok,Thailand,bangkok,1860,54,"Chokchai Police Station, Bangkok, Thailand; Chokchai Police Station, Bangkok, Thailand (สถานีตำรวจนครบาลโชคชัย)",13.7954248,100.5930298
+Bangkok,Thailand,bangkok,1862,62,"Public Relations Department, Bangkok, Thailand (กรมประชาสัมพันธ์)",13.783185,100.540489
+Bangkok,Thailand,bangkok,12758,72,"The Bhubing Palace Doi Buak Ha, Thailand (พระตำหนักภูพิงคราชนิเวศน์)",,
+Bangkok,Thailand,bangkok,1833,75,"Ratburana Post Office, Bangkok, Thailand; Ratburana Post Office, Bangkok, Thailand (ไปรษณีย์ราษฏร์บูรณะ)",13.636514,100.414262
+Bangkok,Thailand,bangkok,6814,68,"Provincial Administrative Organization, Samut Sakhon, Thailand (องค์การบริหารส่วนจังหวัดสมุทรสาคร)",,
+Bangkok,Thailand,bangkok,1837,-,"National Housing Authority Huaykwang, Bangkok, Thailand (การเคหะชุมชนห้วยขวาง)",13.77553,100.569195
+Bangkok,Thailand,bangkok,11207,-,"Saphan Khwai, BKK, Thailand (กรีนพีซประเทศไทย กรุงเทพฯ)",13.788519,100.547067
+Bangkok,Thailand,bangkok,1856,-,"Department of Land Transport, Bangkok, Thailand (กรมการขนส่งทางบก)",13.797855,100.551338
+Bangkok,Thailand,bangkok,1835,-,"Chandrakasem Rajabhat University, Bangkok, Thailand (มหาวิทยาลัยราชภัฏจันทรเกษม)",13.819954734562,100.57590480014
+Bangkok,Thailand,bangkok,1839,-,"Mathayomwatsing School, Bangkok, Thailand (โรงเรียนมัธยมวัดสิงห์ (สิงหราชพิทยาคม))",13.684229480854,100.44598735492
+Bangkok,Thailand,bangkok,11381,-,"The Thailand Research Fund (TRF), Thailand (สำนักงานคณะกรรมการส่งเสริมวิทยาศาสตร์ วิจัยและนวัตกรรม (สกสว.))",13.771031,100.540961
+Bangkok,Thailand,bangkok,11556,-,"Hospital for Tropical Disease, BKK, Thailand (รพ. เวชศาสตร์เขตร้อน กรุงเทพฯ)",13.7657804,100.5333703
+Bangkok,Thailand,bangkok,11377,-,"รพ.เวชศาสตร์เขตร้อน Hospital for Tropical Disease, Thailand (รพ. เวชศาสตร์เขตร้อน)",13.7657804,100.5333703
+Bangkok,Thailand,bangkok,11380,-,"Rama IV Expressway (FES), Thailand (ด่านพระราม ๔)",13.722733,100.552776
+Bangkok,Thailand,bangkok,4693,82,"Bangkok University Rangsit Campus, Pathum Thani, Thailand; Bangkok University Rangsit Campus, Pathum Thani, Thailand (มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต)",14.03742,100.605216
+Dubai,United Arab Emirates,dubai,9974,68,"Dubai US Embassy, UAE",25.25848,55.309166
+Dubai,United Arab Emirates,dubai,8033,-,"Dubai Shk. Mohd. Bin Zayed Road, UAE",25.05773,55.27089
+Dubai,United Arab Emirates,dubai,8032,-,"Dubai Emirates Hills, UAE",25.07435,55.159542
+Dubai,United Arab Emirates,dubai,8370,-,"Dubai Hatta, UAE",24.817594,56.131834
+Dubai,United Arab Emirates,dubai,8369,-,"Dubai Dubai Airport, UAE",25.247264,55.386303
+Dubai,United Arab Emirates,dubai,8029,-,"Dubai Deira Union Square, UAE",25.26756,55.313135
+Dubai,United Arab Emirates,dubai,8031,-,"Dubai Zabeel Park, UAE",25.23627,55.298573
+Dubai,United Arab Emirates,dubai,8368,-,"Dubai Jebel Ali Free Zone, UAE",25.007709,55.084386
+Dubai,United Arab Emirates,dubai,8030,-,"Dubai Mushrif Park, UAE",25.219969,55.45706
+Dubai,United Arab Emirates,dubai,13274,32,"ricardusbaia; CBD RBCAA-NAQI, King Cetshwayo, South Africa",-28.7447,32.049242
+Dubai,United Arab Emirates,dubai,13273,0,"ricardusbaia; Brackenham - RBCAA, King Cetshwayo, South Africa",-28.787027,32.021848
+Dubai,United Arab Emirates,dubai,11579,-,"ricardusbaia; Arboretum – Water Facility, King Cetshwayo, South Africa",-28.761003,32.07862
+Dubai,United Arab Emirates,dubai,6242,-,"ricardusbaia; CBD, RichardsBay, South Africa",-28.756224,32.049242
+Dubai,United Arab Emirates,dubai,6241,-,"ricardusbaia; Brackenham, RichardsBay, South Africa",-28.731297,32.038988
+Dubai,United Arab Emirates,dubai,11580,-,"ricardusbaia; Brackenham - uMhlathuze, King Cetshwayo, South Africa",-28.729307,32.035901
+Cairo,Egypt,cairo,13842,-,"Cairo US Embassy, Egypt",30.0412457,31.2332942
+Cairo,Egypt,cairo,9424,-,"V.Cairoli, Udine, Friuli Venezia Giulia, Italy",46.06611716,13.2406876
+Johannesburg,South Africa,johannesburg,13282,21,"Ivory Park, City of Johannesburg, South Africa",-25.992923,28.203952
+Johannesburg,South Africa,johannesburg,10754,17,"Kliprivier, City of Johannesburg, South Africa",,
+Johannesburg,South Africa,johannesburg,10784,3,"Jabavu, Johannesburg Metro, South Africa; Jabavu-NAQI, City of Johannesburg, South Africa",-26.252611,27.872139
+Johannesburg,South Africa,johannesburg,12572,29,"Alexandra, City of Johannesburg, South Africa; Alexandra-NAQI, City of Johannesburg, South Africa",-26.107035,28.110264
+Johannesburg,South Africa,johannesburg,12570,26,"Buccleugh, City of Johannesburg, South Africa; Buccleugh-NAQI, City of Johannesburg, South Africa",-26.045,28.098889
+Johannesburg,South Africa,johannesburg,14860,25,"Davidsonville, City of Johannesburg, South Africa",,
+Johannesburg,South Africa,johannesburg,10752,-,"Diepkloof, Johannesburg Metro, South Africa; Diepkloof-NAQI, City of Johannesburg, South Africa",-26.250733,27.9564167
+Johannesburg,South Africa,johannesburg,11833,21,"Orange Farm, Johannesburg Metro, South Africa; Orange Farm, City of Johannesburg, South Africa",-26.479639,27.867111
+Johannesburg,South Africa,johannesburg,11672,25,"Diepsloot, City of Johannesburg, South Africa",-25.921853,28.018873
+Santiago,Chile,santiago,437,59,"Talagante, Chile",,
+Santiago,Chile,santiago,14731,34,"Cerrillos II, Chile",-33.495361139755,-70.704821317871
+Santiago,Chile,santiago,438,26,"Quilicura, Chile",,
+Santiago,Chile,santiago,421,46,"La Florida, Chile",-33.516630362266,-70.588123961971
+Santiago,Chile,santiago,431,30,"Parque O'Higgins, Chile",-33.464142,-70.660797
+Santiago,Chile,santiago,432,38,"Pudahuel, Chile",,
+Santiago,Chile,santiago,435,63,"Cerro Navia, Chile",-33.433089610143,-70.732147868717
+Santiago,Chile,santiago,436,36,"Puente Alto, Chile",,
+Santiago,Chile,santiago,433,-,"Cerrillos, Chile",-33.495821530652,-70.704282224178
+Santiago,Chile,santiago,429,-,"Independencia, Chile",-33.422301,-70.651162
+Santiago,Chile,santiago,13304,61,"santiago; Centro de Salud, Apizaco, Tlaxcala, Mexico",19.409853333333,-98.150011111111
+Santiago,Chile,santiago,9161,74,"santiago; Tulancingo, Hidalgo, Mexico",20.08525,-98.366638888889
+Santiago,Chile,santiago,5760,71,"Campus, Santiago, Galicia, Spain",42.876000000122,-8.5590999995625
+Santiago,Chile,santiago,5761,65,"San Caetano, Santiago, Galicia, Spain",42.88779999977,-8.5310999999416
+Santiago,Chile,santiago,10515,15,"Santiago do Cacém, Santiago do Cacém, Portugal",38.020000000072,-8.6975000002291
+Santiago,Chile,santiago,10516,11,"Sonega, Santiago do Cacém, Portugal",37.87111100027,-8.7238889998469
+Santiago,Chile,santiago,10514,5,"Monte Velho, Santiago do Cacém, Portugal",38.07694400006,-8.7986109999273
+Santiago,Chile,santiago,382,81,"Villa Maria Del Triunfo, Lima, Peru",-12.16639,-76.92
+Santiago,Chile,santiago,379,74,"San Borja, Lima, Peru",-12.10859,-77.00769
+Santiago,Chile,santiago,380,72,"Campo De Marte, Lima, Peru",-12.07054,-77.04322
+Santiago,Chile,santiago,8780,-,"US Embassy, Lima, Peru",-12.1052081,-76.9709299
+Santiago,Chile,santiago,5866,47,"Cuautitlán, México, Mexico",19.722186,-99.198602
+Sao Paulo,Brazil,sao paulo,367,19,"S.André-Capuava, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,370,65,"Santo Amaro, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,369,59,"Santana, São Paulo, Brazil",-23.505992722,-46.6289603
+Sao Paulo,Brazil,sao paulo,7971,25,"S.Bernardo-Centro, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,355,50,"Mooca, São Paulo, Brazil",-23.549734045,-46.600416645
+Sao Paulo,Brazil,sao paulo,335,42,"Carapicuíba, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,362,50,"Pinheiros, São Paulo, Brazil",-23.561459895,-46.702016508
+Sao Paulo,Brazil,sao paulo,347,55,"Itaim Paulista, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,10702,16,"Pico do Jaraguá, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,344,46,"Ibirapuera, São Paulo, Brazil",-23.59184199,-46.660687503
+Sao Paulo,Brazil,sao paulo,3578,59,"Cid.Universitária-USP-Ipen, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,334,12,"Capão Redondo, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,348,-,"Itaquera, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,343,42,"Guarulhos-Paço Municipal, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,8513,38,"Guarulhos-Pimentas, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,354,-,"Mauá, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,337,50,"Cerqueira César, São Paulo, Brazil",-23.553542562,-46.672704769
+Sao Paulo,Brazil,sao paulo,359,28,"Parque D.Pedro II, São Paulo, Brazil",-23.544845659,-46.627675592
+Sao Paulo,Brazil,sao paulo,358,42,"Parelheiros, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,342,32,"Diadema, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,345,55,"Interlagos, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,377,53,"Taboão da Serra, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,352,24,"Marg.Tietê-Ponte dos Remédios, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,356,63,"Nossa Senhora do Ó, São Paulo, Brazil",-23.480098706,-46.692051922
+Sao Paulo,Brazil,sao paulo,12576,29,"Perus, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,357,34,"Osasco, São Paulo, Brazil",,
+Sao Paulo,Brazil,sao paulo,338,55,"Congonhas, São Paulo, Brazil",-23.616320079,-46.663465527
+Sao Paulo,Brazil,sao paulo,14720,-,"US Embassy, Sao Paulo, Brazil",-23.629158,-46.69656

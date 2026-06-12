@@ -1,0 +1,326 @@
+station_key,station_name,waqi_uid,latitude,longitude,seed_city,seed_country,source,last_updated
+a10westamsterdam,"A10-west, Amsterdam",3716,52.339498,4.841021,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+a7sudlyonnaisfrance,"A7 Sud Lyonnais, France",3023,45.720081538692,4.818158942139,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+agiasofiagreece,"Agia Sofia, Greece",12413,40.6337738,22.9452877,Thessaloniki,GR,waqi_search,2026-03-25T18:33:27.110440
+alejakrasiskiegokrakwmaopolskapoland,"Aleja Krasińskiego, Kraków, Małopolska, Poland",3402,50.057678,19.926189,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+alphonsarienstraatschiedam,"Alphons Arienstraat, Schiedam",5285,51.92139,4.40139,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+altonaelbhanghamburggermany,"Altona-Elbhang, Hamburg, Germany",6126,53.545245,9.94489,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+amsterdam,Amsterdam,5771,52.3702157,4.8951679,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+anandvihardelhidelhiindia,"Anand Vihar, Delhi, Delhi, India",2553,28.6508,77.3152,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+ankarabahcelievlerturkey,"Ankara (Bahcelievler), Turkey",4094,39.91832282586664,32.82290472883654,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+ankarademetevlerturkey,"Ankara (Demetevler), Turkey",4096,39.96773888667552,32.79566972883605,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+ankarakayasturkey,"Ankara (Kayas), Turkey",4098,39.92538091031405,32.92676420975321,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+antalyaturkey,"Antalya, Turkey",4045,36.914883,30.700425,Antalya,TR,waqi_search,2026-03-25T18:32:09.995501
+arenularomalazioitaly,"Arenula, Roma, Lazio, Italy",9352,41.8932669,12.4753855,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+aristotelousgreece,"Aristotelous, Greece",12414,37.988028,23.727628,Athens,GR,waqi_search,2026-03-25T18:33:24.971499
+arnoldwestmissouriusa,"Arnold West, Missouri, USA",12853,38.448581,-90.398436,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+arraizbilbaopasvascospain,"Arraiz, Bilbao, País Vasco, Spain",6734,43.245553729819,-2.960475856567,Bilbao,ES,waqi_search,2026-03-25T18:32:54.251608
+athensbouldercucoloradousa,"Athens, Boulder-CU, Colorado, USA",6313,40.012969,-105.267212,Athens,GR,waqi_search,2026-03-25T18:33:24.971499
+athensgeorgiausa,"Athens, Georgia, USA",3905,33.918067,-83.344495,Athens,GR,waqi_search,2026-03-25T18:33:24.971499
+athenstennesseeusa,"Athens, Tennessee, USA",7495,35.4511,-84.5992,Athens,GR,waqi_search,2026-03-25T18:33:24.971499
+autoroutea1saintdenisparis,"Autoroute A1 - Saint-denis, Paris",3098,48.9251,2.35654,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+avdfranciavalnciavalenciaspain,"Avd. Francia, València, Valencia, Spain",6639,39.457500000203,-0.34277776989531,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+avenuedeschampselyseesparis,"Avenue Des Champs Elysees, Paris",3086,48.8686,2.31166,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+bandrakurlacomplexmumbaiindia,"Bandra Kurla Complex, Mumbai, India",13715,19.053536,72.84643,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+bangkok,Bangkok,5773,13.7563309,100.5017651,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+bankplassenlillehammernorway,"Bankplassen, Lillehammer, Norway",2643,61.11295,10.46487,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+bansomdejchaoprayarajabhatuniversitybangkokthailand,"Bansomdejchaopraya Rajabhat University, Bangkok, Thailand (มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา)",1812,13.732846,100.487662,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+bapujinagarbengaluruindia,"Bapuji Nagar, Bengaluru, India",11312,12.951913,77.539784,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+baracaldobarakaldopasvascospain,"Baracaldo, Barakaldo, País Vasco, Spain",6730,43.298400000106,-2.9870999995635,Bilbao,ES,waqi_search,2026-03-25T18:32:54.250654
+barcelonacatalunyaspain,"Barcelona, Catalunya, Spain",11762,41.41843,2.1238973,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+barcelonaeixamplecatalunyaspain,"Barcelona (Eixample), Catalunya, Spain",6669,41.385343283956,2.1538219595817,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+barcelonagrciastgervasicatalunyaspain,"Barcelona (Gràcia-St.Gervasi), Catalunya, Spain",11758,41.398743250747,2.1533851241303,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+barcelonapalaureialcatalunyaspain,"Barcelona (Palau Reial), Catalunya, Spain",10532,41.387484639908,2.1151496662634,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+barcelonapoblenoucatalunyaspain,"Barcelona (Poblenou), Catalunya, Spain",10534,41.403881851089,2.204522593943,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+basauripasvascospain,"Basauri, País Vasco, Spain",6731,43.241099999998,-2.8836999999949,Bilbao,ES,waqi_search,2026-03-25T18:32:54.250654
+bentinckpleinrotterdam,"Bentinckplein, Rotterdam",4582,51.92711,4.46134,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+berlingermany,"Berlin, Germany",6132,52.5200066,13.404954,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+birmingham,Birmingham,5723,52.486243,-1.890401,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+birminghama4540roadsideunitedkingdom,"Birmingham A4540 Roadside, United Kingdom",10101,52.47609,-1.875024,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+birminghamacocksgreenunitedkingdom,"Birmingham Acocks Green, United Kingdom",3161,52.437165,-1.829999,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+birminghamladywoodunitedkingdom,"Birmingham Ladywood, United Kingdom",11652,52.481346,-1.918235,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+birminghamtyburnroadsideunitedkingdom,"Birmingham Tyburn Roadside, United Kingdom",3163,52.512194,-1.830861,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+birminghamtyburnunitedkingdom,"Birmingham Tyburn, United Kingdom",3162,52.511722,-1.830583,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+blagnacaroportctpistesfrance,"Blagnac Aéroport Côté Pistes, France",3830,43.62530339,1.377245933,Toulouse,FR,waqi_search,2026-03-25T18:32:32.182503
+blagnacaroportcttraficfrance,"Blagnac Aéroport Côté Trafic, France",3835,43.63347292,1.375719756,Toulouse,FR,waqi_search,2026-03-25T18:32:32.182503
+boulevardhaussmannparis,"Boulevard Haussmann, Paris",3089,48.8733,2.32957,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+boulevardperipheriqueestparis,"Boulevard Peripherique Est, Paris",3088,48.8386,2.41278,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+brnoarboretumjihomoravskyczechrepublic,"Brno-Arboretum, Jihomoravsky, Czech Republic",2775,49.216087222222,16.613836388889,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnodetskanemocnicejihomoravskyczechrepublic,"Brno - Detska nemocnice, Jihomoravsky, Czech Republic",5737,49.202724444444,16.616287222222,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnolanyjihomoravskyczechrepublic,"Brno-Lany, Jihomoravsky, Czech Republic",2776,49.165260277778,16.5808125,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnolisenjihomoravskyczechrepublic,"Brno-Lisen, Jihomoravsky, Czech Republic",8708,49.213211111111,16.678024166667,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnomasnajihomoravskyczechrepublic,"Brno-Masna, Jihomoravsky, Czech Republic",7990,49.188831388889,16.627000833333,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnosvatoplukovajihomoravskyczechrepublic,"Brno-Svatoplukova, Jihomoravsky, Czech Republic",2777,49.208160277778,16.642517222222,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnouvozjihomoravskyczechrepublic,"Brno-Uvoz, Jihomoravsky, Czech Republic",2781,49.198089722222,16.593643055556,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+brnovystavistejihomoravskyczechrepublic,"Brno-Vystaviste, Jihomoravsky, Czech Republic",2778,49.189620833333,16.569538055556,Brno,CZ,waqi_search,2026-03-25T18:33:22.745696
+broadwaysouthmissouriusa,"BROADWAY (South), Missouri, USA",7349,38.5425,-90.263611,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+btmbangaloreindia,"BTM, Bangalore, India",8190,12.9135218,77.5950804,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+burosadobrossardsecteurduparcsorbonnequebeccanada,"burosado; Brossard - secteur du parc Sorbonne, Quebec, Canada",10134,45.4478313,-73.4803865,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+burosadomontreal,burosado; Montreal,5922,45.5086699,-73.5539925,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+bursabeyazitcadturkey,"Bursa Beyazit Cad., Turkey",8144,40.18565,29.08049,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+bursainegolturkey,"Bursa Inegol, Turkey",8145,40.08089,29.50024,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+bursakestelturkey,"Bursa Kestel, Turkey",8146,40.19542,29.2054,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+bursakulturparkturkey,"Bursa Kultur Park, Turkey",11609,40.19572,29.04588,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+bursaturkey,"Bursa, Turkey",4139,40.23443602578625,29.038061364418013,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+bursauludagunivturkey,"Bursa Uludag Univ., Turkey",8147,40.22337,28.87154,Bursa,TR,waqi_search,2026-03-25T18:32:07.816269
+buryprestwichunitedkingdom,"Bury Prestwich, United Kingdom",9045,53.52515502,-2.27901456,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+bwssbkadabesanahallibengaluruindia,"BWSSB Kadabesanahalli, Bengaluru, India",12441,12.9352049,77.6814488,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+bydgoszczwarszawskapoland,"Bydgoszcz-Warszawska, Poland",6524,53.133888888889,17.995555555556,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+caleavictorieicerculmilitarromania,"Calea Victoriei, Cercul Militar, Romania",7657,44.435029,26.098609,Bucharest,RO,waqi_search,2026-03-25T18:33:29.336360
+camdenkerbsideunitedkingdom,"Camden Kerbside, United Kingdom",3166,51.54421,-0.175269,London,GB,waqi_search,2026-03-25T18:32:56.441767
+casadecampomadridspain,"Casa De Campo, Madrid, Spain",3228,40.420000000103,-3.749166660087,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+casoriascuolapalizzicamcasoriacampaniaitaly,"Casoria Scuola Palizzi (CAM), Casoria, Campania, Italy",10927,40.91463,14.29866,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+castellanamadridspain,"Castellana, Madrid, Spain",3231,40.439722219953,-3.6902777696215,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+castrejanabarakaldopasvascospain,"Castrejana, Barakaldo, País Vasco, Spain",6729,43.258109999697,-2.9734399999609,Bilbao,ES,waqi_search,2026-03-25T18:32:54.251608
+catladikapiturkey,"Catladikapi, Turkey",8772,41.0025,28.975278,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+chakalaandherieastmumbaiindia,"Chakala-Andheri East, Mumbai, India",13713,19.11074,72.86084,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+chhatrapatishivajiintlairportt2mumbaiindia,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai, India",12456,19.10078,72.87462,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+chulalongkornhospitalbangkokthailand,"Chulalongkorn Hospital, Bangkok, Thailand (โรงพยาบาลจุฬาลงกรณ์)",1857,13.729852,100.536501,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+cinecittaromalazioitaly,"Cinecitta', Roma, Lazio, Italy",9343,41.8482263,12.5759027,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+ciproromalazioitaly,"Cipro, Roma, Lazio, Italy",9348,41.9071831,12.4466876,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+cityrailwaystationbangaloreindia,"City Railway Station, Bangalore, India",8686,12.9756843,77.5660749,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+colognekolnclevischerringgermany,"cologne; Köln Clevischer Ring, Germany",6098,50.962838,7.004605,Cologne,DE,waqi_search,2026-03-25T18:32:18.830180
+colognekolnrodenkirchengermany,"cologne; Köln-Rodenkirchen, Germany",6101,50.889871,6.985074,Cologne,DE,waqi_search,2026-03-25T18:32:18.830180
+colognekolnturinerstraegermany,"cologne; Köln Turiner Straße, Germany",6099,50.947268,6.957649,Cologne,DE,waqi_search,2026-03-25T18:32:18.830180
+cuatrocaminosmadridspain,"Cuatro Caminos, Madrid, Spain",3229,40.445277769821,-3.706388879969,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+dejongwegutrecht,"de Jongweg, Utrecht",4584,52.105031,5.124464,Utrecht,NL,waqi_search,2026-03-25T18:33:18.281861
+delhiinstituteoftoolengineeringwazirpurdelhidelhiindia,"Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",10114,28.700505,77.165603,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+deonarmumbaiindia,"Deonar, Mumbai, India",13712,19.04946,72.923,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+druzhbasofiabulgaria,"Druzhba, Sofia, Bulgaria (Дружба, Столична)",8084,42.6483638,23.4011233,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+eastdunbartonshirebishopbriggsunitedkingdom,"East Dunbartonshire Bishopbriggs, United Kingdom",5979,55.904167,-4.225,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+egatnonthaburithailand,"EGAT, Nonthaburi, Thailand (การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.))",1838,13.8069333,100.5355167,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+egitimistasyonuturkey,"Eğitim İstasyonu, Turkey",14851,38.422,27.19986,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+einsteinwegamsterdam,"Einsteinweg, Amsterdam",2673,52.381331,4.845233,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+enteferrovienapolicampaniaitaly,"Ente Ferrovie, Napoli, Campania, Italy",10939,40.85361,14.27167,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+erandiopasvascospain,"Erandio, País Vasco, Spain",6743,43.30268000005,-2.9772400002752,Bilbao,ES,waqi_search,2026-03-25T18:32:54.250654
+erzeijstraatutrecht,"Erzeijstraat, Utrecht",4585,52.067748,5.120507,Utrecht,NL,waqi_search,2026-03-25T18:33:18.281861
+escuelasaguirremadridspain,"Escuelas Aguirre, Madrid, Spain",3227,40.421666659956,-3.6822222198376,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+etlikturkey,"Etlik, Turkey",14797,39.973704,32.823266,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+europabilbaopasvascospain,"Europa, Bilbao, País Vasco, Spain",6733,43.25490000014,-2.9022999997366,Bilbao,ES,waqi_search,2026-03-25T18:32:54.250654
+feyzinzisudlyonnaisfrance,"Feyzin ZI, Sud Lyonnais , France",3031,45.663940304773,4.845836036043,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+frankfurthochstgermany,"Frankfurt-Höchst, Germany",10841,50.101666666667,8.5425,Frankfurt,DE,waqi_search,2026-03-25T18:32:20.975295
+frankfurtodergermany,"Frankfurt (Oder), Germany",6184,52.334444444444,14.525833333333,Frankfurt,DE,waqi_search,2026-03-25T18:32:20.975295
+frankfurtoleipzigerstrvgermany,"Frankfurt(O), Leipziger Str. v, Germany",13848,52.337335999816,14.538594999554,Frankfurt,DE,waqi_search,2026-03-25T18:32:20.975295
+frankfurtostgermany,"Frankfurt-Ost, Germany",10855,50.126666666667,8.7483333333333,Frankfurt,DE,waqi_search,2026-03-25T18:32:20.975295
+frankfurtschwanheimgermany,"Frankfurt-Schwanheim, Germany",10842,50.075464,8.576305,Frankfurt,DE,waqi_search,2026-03-25T18:32:20.975295
+friedbergerlandstrfrankfurtgermany,"Friedberger Landstr., Frankfurt, Germany",10854,50.125555555556,8.6927777777778,Frankfurt,DE,waqi_search,2026-03-25T18:32:20.975295
+friedrichshainfrankfurteralleeberlingermany,"Friedrichshain-Frankfurter Allee, Berlin, Germany",10038,52.514072,13.469931,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+gangbyeonbukroseoulsouthkorea,"Gangbyeonbukro, Seoul, South Korea (강변북로 서울)",4488,37.539283,127.040943,Seoul,KR,waqi_search,2026-03-25T18:33:46.956739
+giardinimargheritaemiliaromagnaitaly,"Giardini Margherita, Emilia Romagna, Italy",9419,44.483628,11.355035,Bologna,IT,waqi_search,2026-03-25T18:32:43.268426
+glasgowanderstonunitedkingdom,"Glasgow Anderston, United Kingdom",6341,55.861667,-4.271389,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+glasgowburgherstunitedkingdom,"Glasgow Burgher St., United Kingdom",5998,55.851071,-4.19714,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+glasgowhighstreetunitedkingdom,"Glasgow High Street, United Kingdom",8050,55.860936,-4.238214,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+glasgowkerbsideunitedkingdom,"Glasgow Kerbside, United Kingdom",6001,55.85917,-4.258889,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+glasgowtownheadunitedkingdom,"Glasgow Townhead, United Kingdom",4904,55.865782,-4.243631,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+griftparkutrecht,"Griftpark, Utrecht",6332,52.101308,5.128183,Utrecht,NL,waqi_search,2026-03-25T18:33:18.281861
+guidoromalazioitaly,"Guido, Roma, Lazio, Italy",9346,41.9248746,12.4934413,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+habichtstraehamburggermany,"Habichtstraße, Hamburg, Germany",10833,53.59235,10.053724,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+hebbalbengaluruindia,"Hebbal, Bengaluru, India",11428,13.029152,77.585901,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+hipodrumasofiabulgaria,"Hipodruma, Sofia, Bulgaria (Хиподрума, Столична)",10091,42.673888888889,23.282791666667,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+hombegowdanagarbengaluruindia,"Hombegowda Nagar, Bengaluru, India",11270,12.938539,77.5901,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+inowroclawairpinowrocawpoland,"inowroclaw; airp. Inowrocław, Poland",6528,52.793055555556,18.240833333333,Wroclaw,PL,waqi_search,2026-03-25T18:33:11.631898
+islingtonarsenalunitedkingdom,"Islington - Arsenal, United Kingdom",14596,51.557895,-0.106989,London,GB,waqi_search,2026-03-25T18:32:56.441767
+istanbulaksarayturkey,"Istanbul (Aksaray), Turkey",4143,41.014722,28.954722,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+istanbulbesiktasturkey,"Istanbul (Besiktas), Turkey",4145,41.053889,29.01,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+istanbulkadikoyturkey,"Istanbul (Kadikoy), Turkey",4147,40.991944,29.033611,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+istanbulkagithaneturkey,"Istanbul (Kagithane), Turkey",5382,41.087733,28.982773,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+itijahangirpuridelhidelhiindia,"ITI Jahangirpuri, Delhi, Delhi, India",10113,28.733016,77.17197,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+itisarginenapolicampaniaitaly,"I.t.i.s. Argine, Napoli, Campania, Italy",10940,40.86427,14.34108,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+itishahdrajhilmilindustrialareadelhidelhiindia,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",10118,28.672114,77.313832,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+itodelhidelhiindia,"ITO, Delhi, Delhi, India",3715,28.628577,77.241036,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+izmiralsancakturkey,"Izmir (Alsancak), Turkey",4070,38.432222,27.144444,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+izmirbayrakliturkey,"Izmir (Bayrakli), Turkey",4071,38.462222,27.166667,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+izmirguzelyaliturkey,"Izmir (Guzelyali), Turkey",4075,38.395833,27.082778,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+izmirkarsiyakaturkey,"Izmir (Karsiyaka), Turkey",4076,38.455845,27.109213,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+izmirsirinyerturkey,"Izmir (Sirinyer), Turkey",4077,38.3825,27.148333,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+janvangalenstraatamsterdam,"Jan van Galenstraat, Amsterdam",7934,52.374786,4.860319,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+jawaharlalnehrustadiumdelhidelhiindia,"Jawaharlal Nehru Stadium, Delhi, Delhi, India",10705,28.582846,77.234366,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+jayanagar5thblockbengaluruindia,"Jayanagar 5th Block, Bengaluru, India",11276,12.920984,77.584908,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+johanneskirchenmunchengermany,"Johanneskirchen, München, Germany",6041,48.169444,11.65,Munich,DE,waqi_search,2026-03-25T18:32:14.506121
+jongnoguseoulsouthkorea,"Jongno-gu, Seoul, South Korea (종로구 서울)",1689,37.572025,127.005028,Seoul,KR,waqi_search,2026-03-25T18:33:46.957246
+jongroseoulsouthkorea,"Jongro, Seoul, South Korea (종로 서울)",4487,37.570633,126.996783,Seoul,KR,waqi_search,2026-03-25T18:33:46.957246
+jungguseoulsouthkorea,"Jung-gu, Seoul, South Korea (중구 서울)",1690,37.564639,126.975961,Seoul,KR,waqi_search,2026-03-25T18:33:46.956739
+karabaglarturkey,"Karabağlar, Turkey",14923,38.38233,27.10673,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+karlmarxstraeberlingermany,"Karl-Marx-Straße, Berlin, Germany",13851,52.483812,13.429672,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+keciorenfatihterimturkey,"Keçiören Fatih Terim, Turkey",12524,39.99922,32.85564,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+kielerstraehamburggermany,"Kieler Straße, Hamburg, Germany",10834,53.56437,9.944616,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+klgrasbrookhafenhamburggermany,"Kl. Grasbrook, Hafen, Hamburg, Germany",10028,53.529159,9.981624,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+komunikacyjnawarszawamazowieckiepoland,"Komunikacyjna, Warszawa, Mazowieckie, Poland",3398,52.219339,21.0047,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+konakturkey,"Konak, Turkey",13951,38.400618,27.150843,Izmir,TR,waqi_search,2026-03-25T18:32:05.577526
+kopitotosofiabulgariakopitotosofiabulgariako,"Kopitoto, Sofia, Bulgaria; Kopitoto, Sofia, Bulgaria (Koпитото, Столична)",8087,42.6310777,23.2376786,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+krakwospiastwmaopolskapoland,"Kraków, os. Piastów, Małopolska, Poland",9039,50.099361,20.018317,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+krakwosswoszowicemaopolskapoland,"Kraków, os. Swoszowice, Małopolska, Poland",14683,49.991242,19.936117,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+krakwuldietlamaopolskapoland,"Kraków-ul. Dietla, Małopolska, Poland",8689,50.057447,19.946008,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+krakwultelimenymaopolskapoland,"Kraków, ul. Telimeny, Małopolska, Poland",10042,50.0192,20.016803,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+krakwulzotyrgmaopolskapoland,"Kraków, ul. Złoty Róg, Małopolska, Poland",8691,50.081197,19.895358,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+krasnoselosofiabulgaria,"Krasno Selo, Sofia, Bulgaria",8085,42.678333,23.284444,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+kurdwanwkrakwmaopolskapoland,"Kurdwanów, Kraków, Małopolska, Poland",3407,50.010575,19.949189,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+kurlamumbaiindia,"Kurla, Mumbai, India",12454,19.0863,72.8888,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+lambethstreathamgreenunitedkingdom,"Lambeth - Streatham Green, United Kingdom",14617,51.4282131429499,-0.13186863879576,London,GB,waqi_search,2026-03-25T18:32:56.441767
+landshuteralleemunchengermany,"Landshuter Allee, München, Germany",6042,48.1552945,11.5367712,Munich,DE,waqi_search,2026-03-25T18:32:14.506121
+leedsalabamausa,"Leeds, Alabama, USA",9520,33.5453,-86.5492,Leeds,GB,waqi_search,2026-03-25T18:33:03.026530
+leedscentreunitedkingdom,"Leeds Centre, United Kingdom",3184,53.80378,-1.546472,Leeds,GB,waqi_search,2026-03-25T18:33:03.026530
+leedsheadingleykerbsideunitedkingdom,"Leeds Headingley Kerbside, United Kingdom",3185,53.819972,-1.576361,Leeds,GB,waqi_search,2026-03-25T18:33:03.026530
+leipzigerstraeberlingermany,"Leipziger Straße, Berlin, Germany",13852,52.509813,13.382377,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+lhospitaletdellobregatcatalunyaspain,"l'Hospitalet de Llobregat, Catalunya, Spain",6681,41.370504107909,2.114973081733,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+lillefivesnordpasdecalaisfrance,"Lille Fives, Nord-Pas-de-Calais, France",6260,50.62804999999971,3.0903137581845357,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+lillehammerbarnehagelillehammernorway,"Lillehammer barnehage, Lillehammer, Norway",2644,61.12087,10.46563,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+lilleleedsnordpasdecalaisfrance,"Lille Leeds, Nord-Pas-de-Calais, France",10084,50.640794444443976,3.074772222222191,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+lingottotorinopiemonteitaly,"Lingotto, Torino, Piemonte, Italy",9360,45.0314278,7.6517438,Turin,IT,waqi_search,2026-03-25T18:32:38.891652
+london,London,5724,51.5073509,-0.1277583,London,GB,waqi_search,2026-03-25T18:32:56.440719
+londonbloomsburyunitedkingdom,"London Bloomsbury, United Kingdom",3189,51.52229,-0.125889,London,GB,waqi_search,2026-03-25T18:32:56.441767
+londonmaryleboneroadunitedkingdom,"London Marylebone Road, United Kingdom",3193,51.52253,-0.154611,London,GB,waqi_search,2026-03-25T18:32:56.441767
+londonnkensingtonunitedkingdom,"London N. Kensington, United Kingdom",3194,51.52105,-0.213492,London,GB,waqi_search,2026-03-25T18:32:56.441767
+londonwestminsterunitedkingdom,"London Westminster, United Kingdom",10874,51.49467,-0.131931,London,GB,waqi_search,2026-03-25T18:32:56.441767
+lothstraemunchengermany,"Lothstraße, München, Germany",6043,48.1542256,11.5537444,Munich,DE,waqi_search,2026-03-25T18:32:14.506121
+lyoncentrefrance,"Lyon Centre, France",3028,45.75779318439,4.854217317644,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+lyongerlandfrance,"Lyon Gerland, France",3029,45.735351083786,4.829801108221,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+lyonperipheriquefrance,"Lyon Peripherique, France",7744,45.7747254,4.8986121,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+lyontraficjaursfrance,"Lyon Trafic Jaurès, France",10050,45.74972628,4.84439392,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+lyontunnelcroixroussesortierhonefrance,"Lyon - Tunnel Croix-Rousse - Sortie Rhone, France",3027,45.772507,4.836879,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+madrid,Madrid,5725,40.4167754,-3.7037902,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+manchestermsicmathscienceinnovationcenterrichmondusa,"manchester; MSIC (MathScience Innovation Center), Richmond, USA",5357,37.55652,-77.40027,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+manchesteroxfordroadunitedkingdom,"Manchester Oxford Road, United Kingdom",9047,53.471802,-2.237572,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+manchesterpiccadillyunitedkingdom,"Manchester Piccadilly, United Kingdom",3196,53.48152,-2.237881,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+manchestersouthso2unitedkingdom,"Manchester South SO2, United Kingdom",9081,53.368889,-2.243333,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+marcqenbaroeulnordpasdecalaisfrance,"Marcq-en-Baroeul, Nord-Pas-de-Calais, France",8613,50.67003055555521,3.0765610522280102,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+mariendorfmariendorferdammberlingermany,"Mariendorf, Mariendorfer Damm, Berlin, Germany",10040,52.438115,13.38772,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+marseille5avenuespacafrance,"Marseille 5 Avenues, PACA, France",6882,43.305287,5.394716,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+marseillel2benaussepacafrance,"Marseille_L2_Benausse, PACA, France",11229,43.32979,5.39758,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+marseillel2timonepacafrance,"Marseille_L2_Timone, PACA, France",10548,43.28778,5.40056,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+marseilleplaceverneuilpacafrance,"Marseille_PlaceVerneuil, PACA, France",14082,43.30885,5.36788,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+marseillerabataupacafrance,"Marseille Rabatau, PACA, France",6883,43.276451,5.39736,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+marseillestlouispacafrance,"Marseille St Louis, PACA, France",6884,43.348048,5.360119,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+marszakowskawarszawamazowieckiepoland,"Marszałkowska, Warszawa, Mazowieckie, Poland",3399,52.225171,21.014783,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+maxbraueralleeiihamburggermany,"Max-Brauer-Allee II, Hamburg, Germany",10835,53.555726,9.943065,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+mazarredobilbaopasvascospain,"Mazarredo, Bilbao, País Vasco, Spain",6732,43.267499999946,-2.9352000002119,Bilbao,ES,waqi_search,2026-03-25T18:32:54.250654
+mdiazharobilbaopasvascospain,"Mª Diaz Haro, Bilbao, País Vasco, Spain",8651,43.258830000142,-2.9456500004024,Bilbao,ES,waqi_search,2026-03-25T18:32:54.250654
+mendezalvaromadridspain,"Mendez Alvaro, Madrid, Spain",3230,40.398055550188,-3.6866666598586,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+milandadeebeulomirandadeebroiburgosspain,"milandadeebeulo; Miranda de Ebro I, Burgos, Spain",11808,42.684444439738,-2.9175000000954,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+milandadeebeulomirandadeebroiiburgosspain,"milandadeebeulo; Miranda de Ebro II, Burgos, Spain",10803,42.688055550005,-2.9405555502216,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+milaneastsyracusenewyorkusa,"milan; East Syracuse, New York, USA",11437,43.052351,-76.059185,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+milanopascalcittstudilombardiaitaly,"Milano Pascal Città Studi, Lombardia, Italy",9132,45.478347,9.231667,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+milanosenatolombardiaitaly,"Milano Senato, Lombardia, Italy",9118,45.470501,9.19746075,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+mladostsofiabulgaria,"Mladost, Sofia, Bulgaria (Младост, Столична)",10090,42.6413301,23.373074,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+mobil2turkey,"Mobil 2, Turkey",14843,41.051663093475156,28.867944221876538,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+moldelsolvalnciavalenciaspain,"Molí del Sol, València, Valencia, Spain",6638,39.481100000079,-0.4083000000818,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+montcadaireixaccansantjoancatalunyaspain,"Montcada i Reixac (Can Sant Joan), Catalunya, Spain",6674,41.469800554828,2.1842334883793,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+monzamachiavellilombardiaitaly,"Monza Machiavelli, Lombardia, Italy",9128,45.574117,9.263808,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+munich,Munich,6037,48.1351253,11.5819806,Munich,DE,waqi_search,2026-03-25T18:32:14.506121
+muratpasaturkey,"Muratpaşa, Turkey",14801,36.89235541945547,30.733422748542896,Antalya,TR,waqi_search,2026-03-25T18:32:09.995501
+museonazionalenapolicampaniaitaly,"Museo Nazionale, Napoli, Campania, Italy",10933,40.85419,14.25133,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+nadezhdasofiabulgariaaea,"Nadezhda, Sofia, Bulgaria (Нaдeждa, Столична)",8088,42.7325,23.298611,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+nationalhousingauthoritydindaengbangkokthailand,"National Housing Authority Dindaeng, Bangkok, Thailand (การเคหะชุมชนดินแดง)",1861,13.76251667,100.5502,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+neukollnnansenstraeberlingermany,"Neukölln-Nansenstraße, Berlin, Germany",10032,52.489451,13.430844,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+neukollnsilbersteinstrberlingermany,"Neukölln-Silbersteinstr., Berlin, Germany",10036,52.467534,13.441654,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+nobhamalabamausa,"No. Bham, Alabama, USA",7320,33.5531,-86.815,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+nonsiwitthayaschoolbangkokthailand,"Nonsi Witthaya School, Bangkok, Thailand (โรงเรียนนนทรีวิทยา)",1813,13.70806667,100.5473333,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+oostsidelingea13rotterdam,"Oost Sidelinge A13, Rotterdam",5294,51.93858,4.4307,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+ospedalesantobononapolicampaniaitaly,"Ospedale Santobono, Napoli, Campania, Italy",10941,40.84936,14.23111,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+osservatorioastronomiconapolicampaniaitaly,"Osservatorio Astronomico, Napoli, Campania, Italy",10942,40.86369,14.25451,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+paris,Paris,5722,48.856614,2.3522219,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+paris18emeparis,"Paris 18eme, Paris",3082,48.8917,2.34563,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+paris1erleshallesparis,"Paris 1er Les Halles, Paris",12763,48.8621,2.34462,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+pavlovosofiabulgaria,"Pavlovo, Sofia, Bulgaria (Павлово, Столична)",8086,42.6656601,23.2702013,Sofia,BG,waqi_search,2026-03-25T18:33:33.789509
+pha10vrsovicepragueczechrepublic,"Pha10-Vrsovice, Prague, Czech Republic",2708,50.06643,14.446152,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha2legerovapragueczechrepublic,"Pha2-Legerova, Prague, Czech Republic",2704,50.072388,14.430673,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha2riegrovysadypragueczechrepublic,"Pha2-Riegrovy sady, Prague, Czech Republic",2706,50.081483,14.442692,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha4libuspragueczechrepublic,"Pha4-Libus, Prague, Czech Republic",2712,50.007304,14.445933,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha6suchdolpragueczechrepublic,"Pha6-Suchdol, Prague, Czech Republic",2714,50.126528,14.384639,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha8karlinpragueczechrepublic,"Pha8-Karlin, Prague, Czech Republic",2703,50.094238,14.442049,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha8kobylisypragueczechrepublic,"Pha8-Kobylisy, Prague, Czech Republic",2711,50.122189,14.467578,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+pha9vysocanypragueczechrepublic,"Pha9-Vysocany, Prague, Czech Republic",2709,50.111082,14.503096,Prague,CZ,waqi_search,2026-03-25T18:33:20.484389
+piotrkwulkrakowskieprzedmiecie13poland,"Piotrków, ul. Krakowskie Przedmieście 13, Poland",6487,51.404406,19.696956,Krakow,PL,waqi_search,2026-03-25T18:33:09.482839
+pireaus1greece,"Pireaus-1, Greece",12529,37.9432869,23.64751053,Athens,GR,waqi_search,2026-03-25T18:33:24.971499
+pistadesillavalnciavalenciaspain,"Pista de Silla, València, Valencia, Spain",6637,39.456111109894,-0.37583332983165,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+plazadecastillamadridspain,"Plaza De Castilla, Madrid, Spain",3232,40.465833329675,-3.6883333302564,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+pleinwegrotterdam,"Pleinweg, Rotterdam",7942,51.89113,4.48066,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+pleinwegrotterdamzuid,"Pleinweg, Rotterdam Zuid",5292,51.89113,4.48066,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+plovdivkamenitsabulgaria,"Plovdiv - Kamenitsa, Bulgaria",10564,42.142889,24.765239,Plovdiv,BG,waqi_search,2026-03-25T18:33:35.962726
+plovdivzhktrakiabulgaria,"Plovdiv - zh.k. Trakia, Bulgaria",10571,42.141186,24.787952,Plovdiv,BG,waqi_search,2026-03-25T18:33:35.962726
+pnhhemkade,PNH Hemkade,5386,52.42023,4.83206,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+politcnicvalnciavalenciaspain,"Politècnic, València, Valencia, Spain",6640,39.480299999924,-0.33639999997433,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+portasanfeliceemiliaromagnaitaly,"Porta San Felice, Emilia Romagna, Italy",9403,44.500017,11.328501,Bologna,IT,waqi_search,2026-03-25T18:32:43.268426
+porticiparcoreggiaporticicampaniaitaly,"Portici parco reggia, Portici, Campania, Italy",10920,40.81588,14.34927,Naples,IT,waqi_search,2026-03-25T18:32:41.048502
+powaimumbaiindia,"Powai, Mumbai, India",12459,19.1375,72.915056,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+priphriquefrance,"Périphérique, France",3842,43.57397376,1.449603885,Toulouse,FR,waqi_search,2026-03-25T18:32:32.183501
+publicrelationsdepartmentbangkokthailand,"Public Relations Department, Bangkok, Thailand (กรมประชาสัมพันธ์)",1862,13.783185,100.540489,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+quartdepobletvalenciaspain,"Quart de Poblet, Valencia, Spain",6644,39.481111110328,-0.44722221998349,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+rebaudengotorinopiemonteitaly,"Rebaudengo, Torino, Piemonte, Italy",9359,45.104332,7.6964231,Turin,IT,waqi_search,2026-03-25T18:32:38.891652
+rkpuramdelhidelhiindia,"R.K. Puram, Delhi, Delhi, India",2556,28.5648,77.1744,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+romeaurorahillsvisitorcenternorthernvirginiausa,"rome; Aurora Hills Visitor Center, Northern Virginia, USA",5336,38.8577,-77.05922,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+romegeorgiausa,"Rome, Georgia, USA",3911,34.26054,-85.32333,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+romelomeusembassytogo,"rome; Lome US Embassy, Togo",14919,6.185167,1.214166,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+rosevillensunriseaveplacercalifornia,"Roseville-N Sunrise Ave, Placer, California",300,38.74643,-121.26498,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+rotterdam,Rotterdam,5772,51.930833,4.479167,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+rubinotorinopiemonteitaly,"Rubino, Torino, Piemonte, Italy",9364,45.0402149,7.6227648,Turin,IT,waqi_search,2026-03-25T18:32:38.891652
+saleistormanchestersalfordecclesunitedkingdom,"sale i stor-manchester; Salford Eccles, United Kingdom",3208,53.48481,-2.334139,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+sanchinarromadridspain,"Sanchinarro, Madrid, Spain",14157,40.494166660137,-3.6602777698353,Madrid,ES,waqi_search,2026-03-25T18:32:45.435092
+sanlazzaroemiliaromagnaitaly,"San Lazzaro, Emilia Romagna, Italy",9406,44.467189,11.416601,Bologna,IT,waqi_search,2026-03-25T18:32:43.268426
+santaclaritaplaceritalosangeles,"Santa Clarita-Placerita, Los Angeles",246,34.38337,-118.52839,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+santadridebesscatalunyaspain,"Sant Adrià de Besòs, Catalunya, Spain",6677,41.425600000198,2.2221999996334,Barcelona,ES,waqi_search,2026-03-25T18:32:47.672590
+saronnosantuariolombardiaitaly,"Saronno Santuario, Lombardia, Italy",9119,45.626104,9.025004,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+schiedamsevestrotterdam,"Schiedamsevest, Rotterdam",4572,51.914233,4.479923,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971
+selimiyeturkey,"Selimiye, Turkey",8773,41.003818,29.026914,Istanbul,TR,waqi_search,2026-03-25T18:32:01.189315
+seochoguseoulsouthkorea,"Seocho-gu, Seoul, South Korea (서초구 서울)",1681,37.504547,126.994611,Seoul,KR,waqi_search,2026-03-25T18:33:46.956739
+seodaemunguseoulsouthkorea,"Seodaemun-gu, Seoul, South Korea (서대문구 서울)",1680,37.593749,126.949534,Seoul,KR,waqi_search,2026-03-25T18:33:46.957246
+seoul,Seoul (서울),5508,37.566535,126.9779692,Seoul,KR,waqi_search,2026-03-25T18:33:46.956739
+sestosangiovannilombardiaitaly,"Sesto San Giovanni , Lombardia, Italy",10044,45.53476819,9.23610903,Milan,IT,waqi_search,2026-03-25T18:32:36.641003
+sevillealjarafemairenadelaljarafespain,"seville; Aljarafe, Mairena Del Aljarafe, Spain",8494,37.340750000325,-6.0424599996521,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+sevillebermejalessevillaspain,"seville; Bermejales, Sevilla, Spain",8495,37.347189999685,-5.9796299997109,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+sevilleprincipessevillaspain,"seville; Principes, Sevilla, Spain",8491,37.375249999914,-6.0055799998359,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+sevilleranillasevillaspain,"seville; Ranilla, Sevilla, Spain",14177,37.384250000217,-5.9596199998077,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+sevillesantaclarasevillaspain,"seville; Santa Clara, Sevilla, Spain",8493,37.398310000075,-5.9516500001816,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+sevilletorneosevillaspain,"seville; Torneo, Sevilla, Spain",8492,37.39451999983,-6.0031000001698,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+shadipurdelhidelhiindia,"Shadipur, Delhi, Delhi, India",8179,28.65155278,77.15804167,Delhi,IN,waqi_search,2026-03-25T18:33:38.155216
+shuttlesworthalabamausa,"Shuttlesworth, Alabama, USA",8884,33.565278,-86.796389,Birmingham,GB,waqi_search,2026-03-25T18:33:00.822766
+siddharthnagarworlimumbaiindia,"Siddharth Nagar-Worli, Mumbai, India",13706,19.000083,72.813993,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+sihhiyeturkey,"Sıhhıye, Turkey",13910,39.92706513272927,32.86001400920846,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+silkboardbengaluruindia,"Silk Board, Bengaluru, India",11293,12.917348,77.622813,Bengaluru,IN,waqi_search,2026-03-25T18:33:42.568672
+sinchonseoulsouthkorea,"Sinchon, Seoul, South Korea (신촌 서울)",4492,37.554936,126.937619,Seoul,KR,waqi_search,2026-03-25T18:33:46.957246
+sionmumbaiindia,"Sion, Mumbai, India",12464,19.047,72.8746,Mumbai,IN,waqi_search,2026-03-25T18:33:40.378746
+sitelerturkey,"Siteler, Turkey",12521,39.96458,32.90718,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+sodertljeturingegatansweden,"Södertälje Turingegatan, Sweden",7969,59.1981152683593,17.6210840050353,Turin,IT,waqi_search,2026-03-25T18:32:38.891652
+southlanarkshirerutherglenunitedkingdom,"South Lanarkshire Rutherglen, United Kingdom",8052,55.828408,-4.218786,Glasgow,GB,waqi_search,2026-03-25T18:33:05.178675
+stachusmunchengermany,"Stachus, München, Germany",6044,48.1390293,11.5655578,Munich,DE,waqi_search,2026-03-25T18:32:14.506121
+stadhouderskadeamsterdam,"Stadhouderskade, Amsterdam",2675,52.358039,4.8997,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+stationmobilel2pacafrance,"Station Mobile - L2, PACA, France",9073,43.308489,5.425306,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+stationmobilemeyreuilpacafrance,"Station Mobile Meyreuil, PACA, France",10549,43.28778,5.400556,Marseille,FR,waqi_search,2026-03-25T18:32:27.518648
+sternschanzehamburggermany,"Sternschanze, Hamburg, Germany",6125,53.564486,9.96834,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+stpaulpaynephalenminnesotausa,"St. Paul Payne - Phalen, Minnesota, USA",7933,44.971539,-93.082984,Seville,ES,waqi_search,2026-03-25T18:32:52.058740
+straurelvlaicuclujnapocaromania,"Str. Aurel Vlaicu, Cluj-Napoca, Romania",8591,46.7805322,23.6265208,Cluj-Napoca,RO,waqi_search,2026-03-25T18:33:31.553675
+strdamboviteiclujnapocaromania,"Str. Dambovitei, Cluj-Napoca, Romania",7659,46.7817793,23.626916,Cluj-Napoca,RO,waqi_search,2026-03-25T18:33:31.553675
+strdrumultabereidrumultabereiromania,"Str. Drumul Taberei, Drumul Taberei, Romania",7656,44.4258997,26.0544366,Bucharest,RO,waqi_search,2026-03-25T18:33:29.336360
+stresemannstraehamburggermany,"Stresemannstraße, Hamburg, Germany",10836,53.560862,9.957387,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+strlaculmoriilaculmoriiromania,"Str. Lacul Morii, Lacul Morii, Romania",7655,44.4556327,26.0251529,Bucharest,RO,waqi_search,2026-03-25T18:33:29.336360
+strrotundatitanromania,"Str. Rotunda, Titan, Romania",8590,44.4185543,26.1615982,Bucharest,RO,waqi_search,2026-03-25T18:33:29.336360
+sturlingashburnbroadrunhighschoolnorthernvirginiausa,"sturling; Ashburn - Broad Run High School, Northern Virginia, USA",5337,39.02473,-77.48925,Turin,IT,waqi_search,2026-03-25T18:32:38.891652
+sturlingstirlingcraigsroundaboutunitedkingdom,"sturling; Stirling Craig's Roundabout, United Kingdom",6024,56.11472,-3.932178,Turin,IT,waqi_search,2026-03-25T18:32:38.891652
+targwekwarszawamazowieckiepoland,"Targówek, Warszawa, Mazowieckie, Poland",3391,52.290915,21.042459,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+thonburipowersubstationbangkokthailand,"Thonburi Power Sub-Station, Bangkok, Thailand (โรงไฟฟ้าย่อย ธนบุรี)",1859,13.727622,100.486568,Bangkok,TH,waqi_search,2026-03-25T18:33:44.769409
+tostojawarszawamazowieckiepoland,"Tołstoja, Warszawa, Mazowieckie, Poland",9576,52.285141,20.933098,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+toulouseberthelotfrance,"Toulouse Berthelot, France",3828,43.5873309,1.444026232,Toulouse,FR,waqi_search,2026-03-25T18:32:32.182503
+toulousejacquierfrance,"Toulouse Jacquier, France",3836,43.57570439,1.418072093,Toulouse,FR,waqi_search,2026-03-25T18:32:32.183501
+toulousemazadesfrance,"Toulouse Mazades, France",3827,43.62358041,1.438546479,Toulouse,FR,waqi_search,2026-03-25T18:32:32.182503
+toulouseportdelembouchurefrance,"Toulouse Port De L Embouchure, France",12683,43.610386000053,1.4152000002637,Toulouse,FR,waqi_search,2026-03-25T18:32:32.182503
+toulousertedalbifrance,"Toulouse-Rte D'Albi, France",3829,43.64305339,1.46765185,Toulouse,FR,waqi_search,2026-03-25T18:32:32.182503
+trafforda56unitedkingdom,"Trafford A56, United Kingdom",9051,53.4424622,-2.31132399,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+traffordunitedkingdom,"Trafford, United Kingdom",9044,53.44853081,-2.32097439,Manchester,GB,waqi_search,2026-03-25T18:32:58.619153
+trafikturkey,"Trafik, Turkey",13915,36.888724419047335,30.683573384124877,Antalya,TR,waqi_search,2026-03-25T18:32:09.995501
+ulustrafikturkey,"Ulus Trafik, Turkey",13912,39.94008354805686,32.84989974854291,Ankara,TR,waqi_search,2026-03-25T18:32:03.389275
+ursynwwarszawamazowieckiepoland,"Ursynów, Warszawa, Mazowieckie, Poland",3392,52.160838,21.033815,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+valenciavalencesudfrance,"valencia; Valence Sud, France",3054,44.87030041894,4.876288924175,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+valenciavalenceurbaincentrefrance,"valencia; Valence Urbain Centre, France",3055,44.93357319309,4.893482678713,Valencia,ES,waqi_search,2026-03-25T18:32:49.853867
+vandiemenstraatamsterdam,"Van Diemenstraat, Amsterdam",2676,52.389983,4.887811,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+vaulxenvelinestlyonnaisfrance,"Vaulx en Velin, Est Lyonnais , France",3026,45.778966990895,4.924923713657,Lyon,FR,waqi_search,2026-03-25T18:32:25.327764
+veddelhamburggermany,"Veddel, Hamburg, Germany",6128,53.522906,10.021966,Hamburg,DE,waqi_search,2026-03-25T18:32:16.664799
+viachiariniemiliaromagnaitaly,"Via Chiarini, Emilia Romagna, Italy",9402,44.500093,11.286065,Bologna,IT,waqi_search,2026-03-25T18:32:43.268426
+vigerneslillestromnorway,"Vigernes, Lillestrom, Norway",12700,59.955477,11.073983,Lille,FR,waqi_search,2026-03-25T18:32:29.962098
+villaadaromalazioitaly,"Villa ada, Roma, Lazio, Italy",9345,41.9328321,12.5012473,Rome,IT,waqi_search,2026-03-25T18:32:34.375902
+vitrysurseineparis,"Vitry-sur-seine, Paris",3103,48.7759,2.37577,Paris,FR,waqi_search,2026-03-25T18:32:23.151014
+vondelparkamsterdam,"Vondelpark, Amsterdam",2670,52.359714,4.866208,Amsterdam,NL,waqi_search,2026-03-25T18:33:13.905205
+warszawaursuspuaskiegopiastwmazowieckiepoland,"warszawa-ursus; Pułaskiego, Piastów, Mazowieckie, Poland",8280,52.191789,20.837494,Warsaw,PL,waqi_search,2026-03-25T18:33:07.337653
+weddingamrumerstrberlingermany,"Wedding-Amrumer Str., Berlin, Germany",10030,52.543041,13.349326,Berlin,DE,waqi_search,2026-03-25T18:32:12.272158
+wroclawwrocawkorzeniowskiegopoland,"wroclaw; Wrocław - Korzeniowskiego, Poland",8128,51.129378,17.02925,Wroclaw,PL,waqi_search,2026-03-25T18:33:11.631898
+wroclawwrocawwiniowapoland,"wroclaw; Wrocław - Wiśniowa, Poland",8129,51.086225,17.012689,Wroclaw,PL,waqi_search,2026-03-25T18:33:11.631898
+zwartewaalstraatrotterdamzuid,"Zwartewaalstraat, Rotterdam Zuid",5284,51.89361,4.48759,Rotterdam,NL,waqi_search,2026-03-25T18:33:16.084971

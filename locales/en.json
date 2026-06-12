@@ -1,0 +1,119 @@
+{
+  "app": {
+    "page_title": "AirPulse Global | Air Quality Intelligence",
+    "brand": "AirPulse",
+    "tagline": "Global Intelligence"
+  },
+  "lang": {
+    "label": "Language",
+    "en": "English",
+    "tr": "Turkish"
+  },
+  "common": {
+    "live": "LIVE",
+    "data_refreshed": "Data refreshed: {value}",
+    "views": "{count} views",
+    "source": "Source",
+    "global_city_search": "Global City Search",
+    "date_generated": "Generated: {value}",
+    "not_available": "Not available"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "stations_map": "Stations Map",
+    "forecast": "Forecast",
+    "take_action": "Take Action",
+    "analytics": "Analytics",
+    "reports": "Reports",
+    "about": "About"
+  },
+  "sidebar": {
+    "waqi": "WAQI",
+    "wind": "Wind",
+    "station": "Station"
+  },
+  "aqi": {
+    "good": {
+      "name": "Good",
+      "desc": "Air quality is satisfactory; little or no risk."
+    },
+    "moderate": {
+      "name": "Moderate",
+      "desc": "Acceptable; sensitive individuals should limit prolonged outdoor exertion."
+    },
+    "sensitive": {
+      "name": "Unhealthy for Sensitive Groups",
+      "desc": "Sensitive groups may experience effects. The general public is less likely to be affected."
+    },
+    "unhealthy": {
+      "name": "Unhealthy",
+      "desc": "Everyone may begin to experience effects. Sensitive groups may be more seriously affected."
+    },
+    "very_unhealthy": {
+      "name": "Very Unhealthy",
+      "desc": "Health warnings of emergency conditions. The entire population is more likely to be affected."
+    },
+    "hazardous": {
+      "name": "Hazardous",
+      "desc": "Health alert: everyone may experience serious effects. Avoid outdoor activities."
+    }
+  },
+  "forecast": {
+    "title": "Forecast",
+    "subtitle": "Pollutant trend and predictive analysis",
+    "guide": "What this page does: It loads real historical pollutant data from Open-Meteo for the last 90 days for the city you enter, then extends it with a forward-looking forecast, confidence band, and model-accuracy context.",
+    "enter_city": "Enter a city to forecast",
+    "pollutant": "Pollutant",
+    "horizon": "Forecast horizon (days)",
+    "latest_observed": "Latest Observed",
+    "forecast_mean": "Forecast Mean",
+    "peak_risk": "Peak Risk",
+    "who_breach_days": "WHO Breach Days",
+    "model_accuracy": "Model Accuracy",
+    "waiting_actuals": "Waiting for actual data to validate",
+    "interpretation": "Forecast Interpretation",
+    "computed": "How is this forecast computed?",
+    "prophet_title": "Prophet + Open-Meteo Weather Regressors",
+    "waqi_title": "WAQI Native Forecast",
+    "fallback_title": "Holt-Winters / Synthetic Fallback",
+    "within": "within the WHO guideline ({who} {unit})",
+    "exceeding": "exceeding the WHO guideline ({who} {unit})",
+    "what_used": "What This Forecast Used"
+  },
+  "analytics": {
+    "title": "Analytics Lab",
+    "subtitle": "From descriptive to diagnostic air-quality intelligence",
+    "guide": "What this page shows: Temporal patterns, geographic spillover, model accuracy, cross-city comparison, and anomaly detection for the selected city. Each analysis lens loads only when needed.",
+    "primary_city": "Primary city",
+    "compare_against": "Compare against",
+    "pollutant_focus": "Pollutant focus",
+    "analysis_lens": "Analysis lens",
+    "temporal_patterns": "Temporal Patterns",
+    "geospatial_correlation": "Geospatial Correlation",
+    "forecast_accuracy": "Forecast Accuracy",
+    "comparative_analysis": "Comparative Analysis",
+    "anomaly_detection": "Anomaly Detection",
+    "current_aqi": "Current AQI",
+    "region_mean": "Region Mean",
+    "normalized_aqi": "Normalized AQI",
+    "regional_rank": "Regional Rank",
+    "wind_dispersion": "Wind-driven dispersion",
+    "neighbor_lag": "Neighbor lag response",
+    "station_correlation": "Station correlation matrix",
+    "forecast_dashboard": "Forecast validation dashboard",
+    "comparison": "Two-city comparison",
+    "anomaly_title": "AQI anomaly detection",
+    "fallback_note": "Archive data was not available for this pollutant, so the dashboard is showing a historical backtest fallback."
+  },
+  "reports": {
+    "title": "Reports",
+    "subtitle": "Professional export · any city · personal carbon footprint",
+    "report_city": "Report City",
+    "downloads": "Downloads",
+    "share": "Share Your Report",
+    "pdf": "Download PDF Report (A4)",
+    "jpeg": "Download Social Card (JPEG)",
+    "csv": "Download Full Data CSV",
+    "share_text": "Air quality snapshot for {city}: AQI {aqi} ({level}), PM2.5 {pm25:.1f} ug/m3, monthly carbon footprint {footprint:.2f} t CO2. Created with AirPulse Global. #CleanAir #AirPulseGlobal #ClimateAction"
+  }
+}
