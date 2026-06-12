@@ -305,7 +305,16 @@ html, body, [class*="css"] {
   hyphens: none;
 }
 .main { background: var(--bg); }
-.main .block-container { padding: 1.6rem 2.15rem 4.2rem; max-width: min(1900px, 96vw); }
+.main .block-container {
+  padding: 1.6rem clamp(1rem, 2vw, 2.4rem) 4.2rem;
+  max-width: min(1840px, 98vw);
+  width: 100%;
+}
+[data-testid="stMainBlockContainer"] {
+  padding: 1.6rem clamp(1rem, 2vw, 2.4rem) 4.2rem !important;
+  max-width: min(1840px, 98vw) !important;
+  width: 100% !important;
+}
 
 /* ── SIDEBAR ─────────────────────────────────────── */
 [data-testid="stSidebar"] {
@@ -404,22 +413,34 @@ html, body, [class*="css"] {
   content:''; position:absolute; top:0; left:0; right:0; height:4px;
   background:var(--wcolor,var(--green));
 }
-.w-head  { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:.75rem; }
-.w-city  { font-size:1rem; font-weight:700; color:var(--text); }
+.city-monitor-grid {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.15rem;
+  align-items:start;
+  margin-top:.25rem;
+}
+.city-monitor-grid .aqi-widget {
+  height:100%;
+  min-height: 292px;
+}
+.w-head  { display:flex; justify-content:space-between; align-items:flex-start; gap:.75rem; margin-bottom:.75rem; }
+.w-city  { font-size:1rem; font-weight:700; color:var(--text); line-height:1.25; overflow-wrap:normal; }
 .w-badge {
-  padding:3px 10px; border-radius:10px; font-size:.65rem; font-weight:700;
+  padding:4px 9px; border-radius:10px; font-size:.58rem; font-weight:700;
   text-transform:uppercase; background:var(--wbg,#e8f5e9); color:var(--wtext,#1b5e20);
+  line-height:1.2; text-align:center; max-width:48%; flex:0 0 auto;
 }
 .w-aqi   { font-size:3.2rem; font-weight:900; color:var(--wcolor,var(--green)); line-height:1; }
 .w-desc  { font-size:.8rem; color:#555; margin:.5rem 0 1rem; min-height:36px; line-height:1.45; }
 .pols    { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; padding-top:.9rem; border-top:1px solid var(--border); }
-.pol-box { text-align:center; }
+.pol-box { text-align:center; min-width:0; }
 .pol-lbl { font-size:.6rem; color:var(--gray); font-weight:700; letter-spacing:.06em; text-transform:uppercase; }
-.pol-val { font-size:.95rem; font-weight:800; color:var(--text); margin-top:2px; }
+.pol-val { font-size:clamp(.82rem, 1.2vw, .95rem); font-weight:800; color:var(--text); margin-top:2px; }
 .wind-row{
   display:flex; align-items:center; justify-content:center; gap:6px;
   margin-top:.75rem; padding-top:.75rem; border-top:1px solid var(--border);
-  font-size:.8rem; color:#555;
+  font-size:.8rem; color:#555; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
 }
 
 /* ── METRIC GRID ──────────────────────────────────── */
@@ -876,7 +897,16 @@ def inject_runtime_styles() -> None:
           overflow-wrap: break-word !important;
           hyphens: none !important;
         }
-        .main .block-container { padding: 1.5rem 2.1rem 4rem; max-width: min(1900px, 96vw); }
+        .main .block-container {
+          padding: 1.5rem clamp(1rem, 2vw, 2.4rem) 4rem;
+          max-width: min(1840px, 98vw);
+          width: 100%;
+        }
+        [data-testid="stMainBlockContainer"] {
+          padding: 1.5rem clamp(1rem, 2vw, 2.4rem) 4rem !important;
+          max-width: min(1840px, 98vw) !important;
+          width: 100% !important;
+        }
         .hero {
           background:
             radial-gradient(circle at top left, rgba(255,255,255,.12), transparent 26%),
@@ -959,6 +989,17 @@ def inject_runtime_styles() -> None:
         }
         .metric-grid .mcard { height:100%; margin-bottom:0; }
         .metric-grid .m-value { font-size: clamp(1.55rem, 3vw, 2.1rem); }
+        .city-monitor-grid {
+          display:grid;
+          grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+          gap: 1.15rem;
+          align-items:start;
+          margin-top:.25rem;
+        }
+        .city-monitor-grid .aqi-widget {
+          height:100%;
+          min-height:292px;
+        }
         .action-card-grid {
           display:grid;
           grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -994,21 +1035,22 @@ def inject_runtime_styles() -> None:
           background:var(--wcolor,#34C759);
         }
         .w-head { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:.75rem; gap:.75rem; }
-        .w-city { font-size:1rem; font-weight:700; color:#1D1D1F; }
+        .w-city { font-size:1rem; font-weight:700; color:#1D1D1F; line-height:1.25; overflow-wrap:normal; }
         .w-badge {
-          padding:3px 10px; border-radius:10px; font-size:.65rem; font-weight:700;
+          padding:4px 9px; border-radius:10px; font-size:.58rem; font-weight:700;
           text-transform:uppercase; background:var(--wbg,#e8f5e9); color:var(--wtext,#1b5e20);
+          line-height:1.2; text-align:center; max-width:48%; flex:0 0 auto;
         }
         .w-aqi { font-size:3rem; font-weight:900; color:var(--wcolor,#34C759); line-height:1; }
         .w-desc { font-size:.84rem; color:#555; margin:.55rem 0 1rem; min-height:52px; line-height:1.55; }
         .pols { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; padding-top:.9rem; border-top:1px solid rgba(0,0,0,.07); }
         .pol-box { text-align:center; min-width:0; }
         .pol-lbl { font-size:.6rem; color:#8E8E93; font-weight:700; letter-spacing:.06em; text-transform:uppercase; }
-        .pol-val { font-size:.95rem; font-weight:800; color:#1D1D1F; margin-top:2px; }
+        .pol-val { font-size:clamp(.82rem, 1.2vw, .95rem); font-weight:800; color:#1D1D1F; margin-top:2px; }
         .wind-row {
           display:flex; align-items:center; justify-content:center; gap:6px;
           margin-top:.75rem; padding-top:.75rem; border-top:1px solid rgba(0,0,0,.07);
-          font-size:.8rem; color:#555;
+          font-size:.8rem; color:#555; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
         }
         .action-hero {
           border-radius:24px; padding:2rem 2.2rem; margin-bottom:1.6rem;
@@ -2561,6 +2603,38 @@ def page_dashboard():
     )
     if featured_sel and not df_global.empty:
         df_feat = df_global[df_global["city"].isin(featured_sel)].copy()
+        if not df_feat.empty:
+            city_cards = []
+            for _, row_f in df_feat.iterrows():
+                inf_f = aqi_info(row_f["aqi"])
+                city_name = str(row_f["city"]).split(",")[0]
+                comm_f = _aqi_commentary_short(row_f["aqi"], city_name)
+                badge_name = str(inf_f["name"])
+                if "Sensitive" in badge_name:
+                    badge_name = "Sensitive"
+                elif badge_name == "Very Unhealthy":
+                    badge_name = "Very High"
+                city_cards.append(f"""
+                <div class="aqi-widget" style="--wcolor:{inf_f['color']};--wbg:{inf_f['bg']};--wtext:{inf_f['text']}">
+                  <div class="w-head">
+                    <span class="w-city">{html.escape(city_name)}</span>
+                    <span class="w-badge">{html.escape(badge_name)}</span>
+                  </div>
+                  <div style="display:flex;align-items:baseline;gap:8px">
+                    <span class="w-aqi">{int(row_f['aqi'])}</span>
+                    <span style="font-size:1.4rem">{inf_f['icon']}</span>
+                  </div>
+                  <div class="w-desc" style="font-size:.78rem">{html.escape(comm_f)}</div>
+                  <div class="pols">
+                    <div class="pol-box"><div class="pol-lbl">PM2.5</div><div class="pol-val">{row_f["pm25"]:.1f}</div></div>
+                    <div class="pol-box"><div class="pol-lbl">PM10</div><div class="pol-val">{row_f["pm10"]:.1f}</div></div>
+                    <div class="pol-box"><div class="pol-lbl">O3</div><div class="pol-val">{row_f["o3"]:.1f}</div></div>
+                  </div>
+                  <div class="wind-row">Wind {row_f["wind_speed"]:.1f} m/s {wind_icon(row_f["wind_dir"])}</div>
+                </div>
+                """)
+            st.markdown(f"<div class='city-monitor-grid'>{''.join(city_cards)}</div>", unsafe_allow_html=True)
+            df_feat = pd.DataFrame()
         if not df_feat.empty:
             cols_w = st.columns(min(4, len(df_feat)))
             for i, (_, row_f) in enumerate(df_feat.iterrows()):
