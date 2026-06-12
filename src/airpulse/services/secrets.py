@@ -77,9 +77,9 @@ def get_waqi_key():
 
 def get_tomorrow_key():
     return read_api_key(
-        secret_keys=("TOMORROW_IO_API_KEY", "tomorrow_io_api_key", "api.TOMORROW_IO_API_KEY"),
-        env_keys=("TOMORROW_IO_API_KEY", "WIND_API_KEY"),
-        file_paths=("wind_api.txt", "./wind_api.txt"),
+        secret_keys=("TOMORROW_IO_API_KEY", "tomorrow_io_api_key", "tomorrow_api", "api.TOMORROW_IO_API_KEY", "api.tomorrow_api"),
+        env_keys=("TOMORROW_IO_API_KEY", "TOMORROW_API", "WIND_API_KEY"),
+        file_paths=("tomorrow_api.txt", "./tomorrow_api.txt", "tomorrow_api", "./tomorrow_api", "wind_api.txt", "./wind_api.txt"),
         default=None,
     )
 
@@ -97,4 +97,3 @@ def render_secret_warnings(waqi_key: str | None, tomorrow_key: str | None) -> No
         st.warning("WAQI API key is not configured. The app is running with limited demo access, so some live station data may be incomplete.")
     if not tomorrow_key:
         st.info("Tomorrow.io API key is not configured. Wind features will stay in fallback mode where possible.")
-

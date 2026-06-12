@@ -11,6 +11,8 @@ artifacts/*.pkl
 artifacts/*.json
 api_token.txt
 wind_api.txt
+tomorrow_api
+tomorrow_api.txt
 .streamlit/secrets.toml
 .streamlit/*.local.toml
 .env.local
