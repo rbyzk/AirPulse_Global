@@ -1,29 +1,61 @@
 # AirPulse Global
 
-AirPulse Global is a Streamlit-based air quality intelligence application for live city monitoring, station exploration, wind-aware analytics, pollutant forecasting, action guidance, and export-ready reporting.
+AirPulse Global is an interactive Streamlit application for live air-quality intelligence, station exploration, pollutant forecasting, wind-aware analytics, and clean-air action guidance.
 
-The project combines WAQI / AQICN live air-quality feeds, optional Tomorrow.io wind data, cached historical inputs, lightweight forecasting helpers, and a single shared application layer for the deployed user experience.
+The project combines WAQI / AQICN live air-quality feeds, optional Tomorrow.io wind context, local station-history datasets, forecasting helpers, analytics views, and export-ready reporting tools in one deployable dashboard.
+
+## Live Demo
+
+Streamlit app: Coming soon  
+Kaggle notebook: Coming soon
+
+## Repository Description
+
+Interactive air-quality intelligence app with live WAQI data, station maps, wind context, forecasting, and clean-air action guidance.
 
 ## Highlights
 
 - Live AQI, PM2.5, PM10, O3, NO2, SO2, and CO monitoring
 - WAQI-powered global station map and nearby station exploration
-- Wind-aware dashboard and analytics views
-- Forecast page with WAQI native daily forecast when available
-- Conservative fallback forecasting for incomplete upstream forecast coverage
-- Analytics views for temporal patterns, wind dispersion, forecast validation, comparative analysis, and anomaly detection
+- Wind-aware dashboard views with optional Tomorrow.io integration
+- Forecast page using WAQI native daily forecasts when available
+- Conservative fallback forecasting when upstream forecast data is incomplete
+- Analytics for temporal patterns, pollutant behavior, wind dispersion, forecast validation, and anomaly detection
+- Action guidance that translates air-quality signals into clean-air recommendations
 - PDF and image export support for reporting workflows
+- Turkish and English interface resources
 
-## Current Forecasting Approach
+## What This Project Does
 
-The production app currently prioritizes stability and source transparency:
+AirPulse Global helps users move from raw air-quality readings to decision-ready environmental insight.
 
-1. Load live city air-quality data from WAQI / AQICN
-2. Use the official WAQI daily forecast feed when available
-3. Fall back to a conservative Holt-Winters time-series forecast when upstream forecast data is missing
-4. Surface forecast diagnostics clearly in the UI so users know whether they are seeing provider data or fallback estimates
+The application is designed around a practical workflow:
 
-This keeps the deployed app aligned with live provider data while preserving forecast continuity.
+1. Search or select a city
+2. Review live AQI and pollutant conditions
+3. Explore nearby monitoring stations
+4. Add wind and weather context
+5. Review forecast signals and uncertainty
+6. Compare cities, pollutants, and station behavior
+7. Generate action-oriented recommendations
+
+The project is intended for portfolio demonstration, environmental analytics, data-product design, and air-quality decision-support experimentation. It should not be used as official public-health, regulatory, or emergency guidance.
+
+## Tech Stack
+
+- Python
+- Streamlit
+- pandas
+- NumPy
+- Plotly
+- Matplotlib
+- scikit-learn
+- Prophet / cmdstanpy
+- Folium and streamlit-folium
+- ReportLab
+- PyArrow
+- WAQI / AQICN API
+- Tomorrow.io API, optional
 
 ## Project Structure
 
@@ -35,8 +67,14 @@ AirPulse_Global/
 |-- DESIGN_SYSTEM.md
 |-- stations.csv
 |-- .streamlit/
+|   |-- config.toml
+|   |-- secrets.toml.example
+|   `-- secrets.toml.template
 |-- artifacts/
 |-- data/
+|   |-- raw/
+|   `-- external/
+|-- locales/
 |-- notebooks/
 |-- scripts/
 `-- src/
@@ -47,114 +85,61 @@ AirPulse_Global/
         |-- action_engine.py
         |-- analytics_engine.py
         |-- config.py
-        |-- constants.py
         |-- forecasting.py
         |-- i18n.py
         |-- legacy_app.py
         |-- storage.py
         |-- utils.py
         |-- visitor.py
-        |-- weather_integration.py
-        `-- __init__.py
+        `-- weather_integration.py
 ```
 
-## Architecture Overview
+## Core Application Files
 
-The repository is organized into three practical layers:
+- `app.py`  
+  Streamlit entrypoint for the deployed application.
 
-1. Runtime application layer  
-   The deployed Streamlit product that users interact with.
-2. Supporting data and experimentation layer  
-   Local data, artifacts, notebooks, and helper scripts that support analysis and content generation around the app.
-3. Shared support layer  
-   Configuration, exports, secrets, storage, translations, and shared utilities.
+- `src/airpulse/legacy_app.py`  
+  Main multi-page Streamlit interface, dashboard composition, station views, analytics rendering, reporting actions, and forecast page wiring.
 
-## Runtime Application Files
+- `src/airpulse/forecasting.py`  
+  Forecast bundle generation, WAQI-native forecast handling, conservative fallback forecasting, and forecast diagnostics.
 
-- [app.py](./app.py)  
-  Streamlit entrypoint.
+- `src/airpulse/analytics_engine.py`  
+  Analytics computations for temporal trends, pollutant behavior, wind dispersion, comparative analysis, and anomaly detection.
 
-- [src/airpulse/legacy_app.py](./src/airpulse/legacy_app.py)  
-  Main multi-page Streamlit application, page composition, dashboard logic, analytics rendering, station views, report exports, and forecast page wiring.
+- `src/airpulse/action_engine.py`  
+  Clean-air action suggestions, sustainability prompts, checklist scoring, and recommendation logic.
 
-- [src/airpulse/forecasting.py](./src/airpulse/forecasting.py)  
-  Forecast bundle generation, WAQI-native forecast handling, and conservative fallback forecasting.
+- `src/airpulse/services/secrets.py`  
+  Secret-loading helpers for Streamlit secrets, environment variables, and local fallback files.
 
-- [src/airpulse/analytics_engine.py](./src/airpulse/analytics_engine.py)  
-  Analytics computations for temporal patterns, wind dispersion, forecast validation, comparative analysis, and anomaly detection.
-
-- [src/airpulse/action_engine.py](./src/airpulse/action_engine.py)  
-  Action suggestions, sustainability prompts, and checklist scoring logic.
-
-- [src/airpulse/i18n.py](./src/airpulse/i18n.py)  
-  Translation and label helpers used by the UI.
-
-- [src/airpulse/visitor.py](./src/airpulse/visitor.py)  
-  Lightweight persistent visitor counter helpers.
-
-- [src/airpulse/pages/about.py](./src/airpulse/pages/about.py)  
-  Dedicated About page content.
-
-- [src/airpulse/components/maps.py](./src/airpulse/components/maps.py)  
-  Active map builders used by station and geographic views.
-
-- [src/airpulse/services/secrets.py](./src/airpulse/services/secrets.py)  
-  Secret loading helpers for Streamlit secrets, environment variables, and local fallback files.
-
-- [src/airpulse/services/reporting.py](./src/airpulse/services/reporting.py)  
+- `src/airpulse/services/reporting.py`  
   PDF and image export helpers for reporting workflows.
 
-## Shared Support Files
+## Data Sources
 
-- [src/airpulse/storage.py](./src/airpulse/storage.py)  
-  Loads and normalizes raw and processed station histories used by the app.
+The application can use:
 
-- [src/airpulse/weather_integration.py](./src/airpulse/weather_integration.py)  
-  Weather and historical context integration used by forecast and analytics helpers.
+- WAQI / AQICN live air-quality data
+- WAQI station search and map tiles
+- WAQI native forecast feeds when available
+- Optional Tomorrow.io wind data
+- Local historical station CSV files
+- Cached external station snapshots for development and demonstration
 
-- [src/airpulse/utils.py](./src/airpulse/utils.py)  
-  Shared low-level helpers used across forecasting and analytics code.
+Some data in this repository is included for local development and portfolio demonstration. Live deployment requires valid API credentials for the full experience.
 
-## Package and Support Files
+## Forecasting Approach
 
-- [src/airpulse/config.py](./src/airpulse/config.py)  
-  Central paths, cache TTLs, and forecasting defaults.
+The production app prioritizes stability and source transparency:
 
-- [src/airpulse/constants.py](./src/airpulse/constants.py)  
-  Shared project constants still used by reporting and some domain helpers.
+1. Load live city air-quality data from WAQI / AQICN
+2. Use the official WAQI daily forecast feed when available
+3. Fall back to a conservative time-series forecast when upstream forecast data is missing
+4. Clearly label whether users are seeing provider data or fallback estimates
 
-- [src/airpulse/__init__.py](./src/airpulse/__init__.py)  
-  Minimal package marker for the application modules.
-
-## Cleanup Notes
-
-During cleanup, these modules were removed because they were no longer used by the active application runtime:
-
-- `src/airpulse/components/air_quality.py`
-- `src/airpulse/components/ui.py`
-- `src/airpulse/services/air_quality.py`
-- `src/airpulse/dataset_builder.py`
-- `src/airpulse/forecast_evaluation.py`
-- `src/airpulse/station_expansion.py`
-- `src/airpulse/station_experiment.py`
-- `src/airpulse/station_selection.py`
-- `src/airpulse/waqi_integration.py`
-
-The current `src/airpulse` package is now focused on the deployed Streamlit app and its directly used helpers.
-
-## Data and Artifacts
-
-- [data/raw](./data/raw)  
-  Local raw station history CSV files.
-
-- [data/processed](./data/processed)  
-  Cached and processed outputs used by the app and helper workflows.
-
-- [artifacts](./artifacts)  
-  Offline model metrics, forecast summaries, and related outputs.
-
-- [notebooks](./notebooks)  
-  Project notebooks kept as reference material and exploratory workspace.
+This approach keeps the deployed app understandable while preserving continuity when external forecast coverage is incomplete.
 
 ## Local Setup
 
@@ -173,20 +158,24 @@ pip install -r requirements.txt
 
 ### 3. Configure secrets
 
-Copy the template and create your local secrets file:
+Copy the template:
 
 ```powershell
 Copy-Item .streamlit\secrets.toml.template .streamlit\secrets.toml
 ```
 
-Then set your keys in `.streamlit/secrets.toml`:
+Then add your local credentials:
 
 ```toml
 WAQI_TOKEN = "your-waqi-token"
-TOMORROW_IO_API_KEY = "your-tomorrow-key"
+TOMORROW_IO_API_KEY = "your-tomorrow-io-api-key"
+DEBUG = false
+
+[app]
+default_city = "Istanbul, TR"
 ```
 
-Optional local fallback files are also supported, but `st.secrets` is the preferred production path.
+`TOMORROW_IO_API_KEY` is optional. Without it, wind-specific features use fallback behavior where possible.
 
 ### 4. Run the app
 
@@ -194,43 +183,80 @@ Optional local fallback files are also supported, but `st.secrets` is the prefer
 python -m streamlit run app.py
 ```
 
-## Secrets and GitHub Safety
+## Streamlit Community Cloud Deployment
 
-The repository is already configured so local secrets do not need to be committed:
+Use the following settings when deploying from GitHub:
+
+- Repository: `AirPulse_Global`
+- Branch: `main`
+- Main file path: `app.py`
+- Python dependencies: `requirements.txt`
+
+Add the following values in the Streamlit app Secrets panel:
+
+```toml
+WAQI_TOKEN = "your-waqi-token"
+TOMORROW_IO_API_KEY = "your-tomorrow-io-api-key"
+DEBUG = false
+```
+
+Do not commit `.streamlit/secrets.toml` to GitHub.
+
+## GitHub Safety
+
+The repository is configured to keep local secrets and runtime files out of version control:
 
 - `.streamlit/secrets.toml` is ignored
 - `api_token.txt` is ignored
 - `wind_api.txt` is ignored
-- log files and local environment files are ignored
+- `.env` files are ignored
+- virtual environments are ignored
+- Python cache files are ignored
+- local processed cache files are ignored
+- large model artifacts such as `.pkl` files are ignored
 
-Recommended deployment approach:
+Only templates such as `.streamlit/secrets.toml.template` and `.streamlit/secrets.toml.example` are included.
 
-1. Keep real keys out of source control
-2. Push only code and templates
-3. Add production secrets in your deployment platform
+## Kaggle Notebook
 
-For Streamlit Community Cloud, place these in the app Secrets panel:
+A companion Kaggle notebook can be used to present the analytical story behind the application. Recommended notebook link placement:
 
-```toml
-WAQI_TOKEN = "your-waqi-token"
-TOMORROW_IO_API_KEY = "your-tomorrow-key"
+```markdown
+## Live Streamlit Dashboard
+
+Explore the interactive AirPulse Global dashboard here:
+
+[Open the Streamlit App](https://your-streamlit-link.streamlit.app/)
+```
+
+## Suggested GitHub Topics
+
+```text
+streamlit
+air-quality
+environmental-intelligence
+data-science
+forecasting
+waqi
+aqicn
+plotly
+python
+dashboard
 ```
 
 ## Deployment Checklist
 
-- `app.py` is the entrypoint
+- `app.py` is present
 - `requirements.txt` is present
+- `.streamlit/config.toml` is present
 - `.streamlit/secrets.toml` is not committed
-- `.streamlit/secrets.toml.template` is present for onboarding
+- API keys are added only through Streamlit secrets
 - local token files remain ignored
-- large processed outputs and local runtime files stay out of GitHub
+- the app runs locally with `streamlit run app.py`
+- the GitHub repository is public or accessible to Streamlit Community Cloud
 
-## Notes
+## Disclaimer
 
-- The live app favors stability and source transparency over experimental model complexity.
-- Notebooks remain in the repository as supporting material, but the active `src/airpulse` package is now trimmed to app-used modules.
-- For production reliability, the app currently favors upstream WAQI forecast data over more experimental forecast paths.
+AirPulse Global depends on third-party live data providers. Before public or production use, verify that your intended use complies with the terms of WAQI / AQICN, Tomorrow.io, and any other upstream data provider.
 
-## License / Usage
-
-This repository depends on third-party live data providers. Before public deployment, verify that your intended use complies with the provider terms for WAQI / AQICN, Tomorrow.io, and any downstream export or redistribution workflow.
+The application is a data-product and analytics demonstration. It is not a substitute for official air-quality alerts, public-health guidance, regulatory reporting, or emergency decision-making.
