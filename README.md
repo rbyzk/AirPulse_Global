@@ -1,13 +1,15 @@
 # AirPulse Global
 
+![AirPulse Global](https://raw.githubusercontent.com/rbyzk/AirPulse_Global/d01ac8cc6eb974d9a0f021c10331f8d0dbcfd0e6/airpulse.png)
+
 AirPulse Global is an interactive Streamlit application for live air-quality intelligence, station exploration, pollutant forecasting, wind-aware analytics, and clean-air action guidance.
 
 The project combines WAQI / AQICN live air-quality feeds, optional Tomorrow.io wind context, local station-history datasets, forecasting helpers, analytics views, and export-ready reporting tools in one deployable dashboard.
 
 ## Live Demo
 
-Streamlit app: Coming soon  
-Kaggle notebook: Coming soon
+Streamlit app: [Open AirPulse Global](https://airpulseglobal.streamlit.app/)
+Kaggle notebook: [AirPulse: Air Quality Risk Intelligence](https://www.kaggle.com/code/beyzakucuk/airpulse-air-quality-risk-intelligence)
 
 ## Repository Description
 
@@ -15,15 +17,16 @@ Interactive air-quality intelligence app with live WAQI data, station maps, wind
 
 ## Highlights
 
-- Live AQI, PM2.5, PM10, O3, NO2, SO2, and CO monitoring
-- WAQI-powered global station map and nearby station exploration
-- Wind-aware dashboard views with optional Tomorrow.io integration
-- Forecast page using WAQI native daily forecasts when available
-- Conservative fallback forecasting when upstream forecast data is incomplete
-- Analytics for temporal patterns, pollutant behavior, wind dispersion, forecast validation, and anomaly detection
-- Action guidance that translates air-quality signals into clean-air recommendations
-- PDF and image export support for reporting workflows
-- Turkish and English interface resources
+* Live AQI, PM2.5, PM10, O₃, NO₂, SO₂, and CO monitoring
+* WAQI-powered global station map and nearby station exploration
+* Wind-aware dashboard views with optional Tomorrow.io integration
+* Forecast page using WAQI native daily forecasts when available
+* Conservative fallback forecasting when upstream forecast data is incomplete
+* Analytics for temporal patterns, pollutant behavior, wind dispersion, forecast validation, and anomaly detection
+* Action guidance that translates air-quality signals into clean-air recommendations
+* PDF and image export support for reporting workflows
+* Turkish and English interface resources
+* Companion Kaggle notebook for synthetic-data analysis and product storytelling
 
 ## What This Project Does
 
@@ -38,24 +41,43 @@ The application is designed around a practical workflow:
 5. Review forecast signals and uncertainty
 6. Compare cities, pollutants, and station behavior
 7. Generate action-oriented recommendations
+8. Export report-ready outputs
 
 The project is intended for portfolio demonstration, environmental analytics, data-product design, and air-quality decision-support experimentation. It should not be used as official public-health, regulatory, or emergency guidance.
 
+## Companion Kaggle Notebook
+
+A companion Kaggle notebook presents the analytical story behind AirPulse Global using a reproducible synthetic air-quality dataset.
+
+Notebook: [AirPulse: Air Quality Risk Intelligence](https://www.kaggle.com/code/beyzakucuk/airpulse-air-quality-risk-intelligence)
+
+The notebook covers:
+
+* Synthetic global air-quality data intake
+* Data governance and quality checks
+* City and station risk intelligence
+* Pollutant behavior analysis
+* Weather-aware exposure context
+* Anomaly detection
+* Next-day PM2.5 forecasting
+* Action recommendation segmentation
+* Dashboard-aligned analytical outputs
+
 ## Tech Stack
 
-- Python
-- Streamlit
-- pandas
-- NumPy
-- Plotly
-- Matplotlib
-- scikit-learn
-- Prophet / cmdstanpy
-- Folium and streamlit-folium
-- ReportLab
-- PyArrow
-- WAQI / AQICN API
-- Tomorrow.io API, optional
+* Python
+* Streamlit
+* pandas
+* NumPy
+* Plotly
+* Matplotlib
+* scikit-learn
+* Prophet / cmdstanpy
+* Folium and streamlit-folium
+* ReportLab
+* PyArrow
+* WAQI / AQICN API
+* Tomorrow.io API, optional
 
 ## Project Structure
 
@@ -95,37 +117,37 @@ AirPulse_Global/
 
 ## Core Application Files
 
-- `app.py`  
+* `app.py`
   Streamlit entrypoint for the deployed application.
 
-- `src/airpulse/legacy_app.py`  
+* `src/airpulse/legacy_app.py`
   Main multi-page Streamlit interface, dashboard composition, station views, analytics rendering, reporting actions, and forecast page wiring.
 
-- `src/airpulse/forecasting.py`  
+* `src/airpulse/forecasting.py`
   Forecast bundle generation, WAQI-native forecast handling, conservative fallback forecasting, and forecast diagnostics.
 
-- `src/airpulse/analytics_engine.py`  
+* `src/airpulse/analytics_engine.py`
   Analytics computations for temporal trends, pollutant behavior, wind dispersion, comparative analysis, and anomaly detection.
 
-- `src/airpulse/action_engine.py`  
+* `src/airpulse/action_engine.py`
   Clean-air action suggestions, sustainability prompts, checklist scoring, and recommendation logic.
 
-- `src/airpulse/services/secrets.py`  
+* `src/airpulse/services/secrets.py`
   Secret-loading helpers for Streamlit secrets, environment variables, and local fallback files.
 
-- `src/airpulse/services/reporting.py`  
+* `src/airpulse/services/reporting.py`
   PDF and image export helpers for reporting workflows.
 
 ## Data Sources
 
 The application can use:
 
-- WAQI / AQICN live air-quality data
-- WAQI station search and map tiles
-- WAQI native forecast feeds when available
-- Optional Tomorrow.io wind data
-- Local historical station CSV files
-- Cached external station snapshots for development and demonstration
+* WAQI / AQICN live air-quality data
+* WAQI station search and map tiles
+* WAQI native forecast feeds when available
+* Optional Tomorrow.io wind data
+* Local historical station CSV files
+* Cached external station snapshots for development and demonstration
 
 Some data in this repository is included for local development and portfolio demonstration. Live deployment requires valid API credentials for the full experience.
 
@@ -188,10 +210,10 @@ python -m streamlit run app.py
 
 Use the following settings when deploying from GitHub:
 
-- Repository: `AirPulse_Global`
-- Branch: `main`
-- Main file path: `app.py`
-- Python dependencies: `requirements.txt`
+* Repository: `AirPulse_Global`
+* Branch: `main`
+* Main file path: `app.py`
+* Python dependencies: `requirements.txt`
 
 Add the following values in the Streamlit app Secrets panel:
 
@@ -209,28 +231,16 @@ Do not commit `.streamlit/secrets.toml` to GitHub.
 
 The repository is configured to keep local secrets and runtime files out of version control:
 
-- `.streamlit/secrets.toml` is ignored
-- `api_token.txt` is ignored
-- `wind_api.txt` is ignored
-- `.env` files are ignored
-- virtual environments are ignored
-- Python cache files are ignored
-- local processed cache files are ignored
-- large model artifacts such as `.pkl` files are ignored
+* `.streamlit/secrets.toml` is ignored
+* `api_token.txt` is ignored
+* `wind_api.txt` is ignored
+* `.env` files are ignored
+* virtual environments are ignored
+* Python cache files are ignored
+* local processed cache files are ignored
+* large model artifacts such as `.pkl` files are ignored
 
 Only `.streamlit/secrets.toml.template` is included as the safe onboarding template.
-
-## Kaggle Notebook
-
-A companion Kaggle notebook can be used to present the analytical story behind the application. Recommended notebook link placement:
-
-```markdown
-## Live Streamlit Dashboard
-
-Explore the interactive AirPulse Global dashboard here:
-
-[Open the Streamlit App](https://your-streamlit-link.streamlit.app/)
-```
 
 ## Suggested GitHub Topics
 
@@ -249,14 +259,16 @@ dashboard
 
 ## Deployment Checklist
 
-- `app.py` is present
-- `requirements.txt` is present
-- `.streamlit/config.toml` is present
-- `.streamlit/secrets.toml` is not committed
-- API keys are added only through Streamlit secrets
-- local token files remain ignored
-- the app runs locally with `streamlit run app.py`
-- the GitHub repository is public or accessible to Streamlit Community Cloud
+* `app.py` is present
+* `requirements.txt` is present
+* `.streamlit/config.toml` is present
+* `.streamlit/secrets.toml` is not committed
+* API keys are added only through Streamlit secrets
+* local token files remain ignored
+* the app runs locally with `streamlit run app.py`
+* the GitHub repository is public or accessible to Streamlit Community Cloud
+* the Streamlit app link is updated in this README
+* the Kaggle notebook link is updated in this README
 
 ## Disclaimer
 
