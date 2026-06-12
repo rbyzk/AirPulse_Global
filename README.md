@@ -168,13 +168,15 @@ Then add your local credentials:
 ```toml
 WAQI_TOKEN = "your-waqi-token"
 TOMORROW_IO_API_KEY = "your-tomorrow-io-api-key"
+# Optional alias if your wind provider key is stored separately:
+# WIND_API_KEY = "your-wind-api-key"
 DEBUG = false
 
 [app]
 default_city = "Istanbul, TR"
 ```
 
-`TOMORROW_IO_API_KEY` is optional. Without it, wind-specific features use fallback behavior where possible.
+`TOMORROW_IO_API_KEY` is optional. If your wind provider key is stored separately, use `WIND_API_KEY` instead. Without a wind key, wind-specific features use fallback behavior where possible.
 
 ### 4. Run the app
 
@@ -196,6 +198,8 @@ Add the following values in the Streamlit app Secrets panel:
 ```toml
 WAQI_TOKEN = "your-waqi-token"
 TOMORROW_IO_API_KEY = "your-tomorrow-io-api-key"
+# Optional alias:
+# WIND_API_KEY = "your-wind-api-key"
 DEBUG = false
 ```
 
