@@ -2614,25 +2614,19 @@ def page_dashboard():
                     badge_name = "Sensitive"
                 elif badge_name == "Very Unhealthy":
                     badge_name = "Very High"
-                city_cards.append(f"""
-                <div class="aqi-widget" style="--wcolor:{inf_f['color']};--wbg:{inf_f['bg']};--wtext:{inf_f['text']}">
-                  <div class="w-head">
-                    <span class="w-city">{html.escape(city_name)}</span>
-                    <span class="w-badge">{html.escape(badge_name)}</span>
-                  </div>
-                  <div style="display:flex;align-items:baseline;gap:8px">
-                    <span class="w-aqi">{int(row_f['aqi'])}</span>
-                    <span style="font-size:1.4rem">{inf_f['icon']}</span>
-                  </div>
-                  <div class="w-desc" style="font-size:.78rem">{html.escape(comm_f)}</div>
-                  <div class="pols">
-                    <div class="pol-box"><div class="pol-lbl">PM2.5</div><div class="pol-val">{row_f["pm25"]:.1f}</div></div>
-                    <div class="pol-box"><div class="pol-lbl">PM10</div><div class="pol-val">{row_f["pm10"]:.1f}</div></div>
-                    <div class="pol-box"><div class="pol-lbl">O3</div><div class="pol-val">{row_f["o3"]:.1f}</div></div>
-                  </div>
-                  <div class="wind-row">Wind {row_f["wind_speed"]:.1f} m/s {wind_icon(row_f["wind_dir"])}</div>
-                </div>
-                """)
+                city_cards.append(
+                    f"<div class='aqi-widget' style='--wcolor:{inf_f['color']};--wbg:{inf_f['bg']};--wtext:{inf_f['text']}'>"
+                    f"<div class='w-head'><span class='w-city'>{html.escape(city_name)}</span>"
+                    f"<span class='w-badge'>{html.escape(badge_name)}</span></div>"
+                    f"<div style='display:flex;align-items:baseline;gap:8px'>"
+                    f"<span class='w-aqi'>{int(row_f['aqi'])}</span><span style='font-size:1.4rem'>{inf_f['icon']}</span></div>"
+                    f"<div class='w-desc' style='font-size:.78rem'>{html.escape(comm_f)}</div>"
+                    f"<div class='pols'>"
+                    f"<div class='pol-box'><div class='pol-lbl'>PM2.5</div><div class='pol-val'>{row_f['pm25']:.1f}</div></div>"
+                    f"<div class='pol-box'><div class='pol-lbl'>PM10</div><div class='pol-val'>{row_f['pm10']:.1f}</div></div>"
+                    f"<div class='pol-box'><div class='pol-lbl'>O3</div><div class='pol-val'>{row_f['o3']:.1f}</div></div>"
+                    f"</div><div class='wind-row'>Wind {row_f['wind_speed']:.1f} m/s {wind_icon(row_f['wind_dir'])}</div></div>"
+                )
             st.markdown(f"<div class='city-monitor-grid'>{''.join(city_cards)}</div>", unsafe_allow_html=True)
             df_feat = pd.DataFrame()
         if not df_feat.empty:
