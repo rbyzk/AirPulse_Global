@@ -415,7 +415,7 @@ html, body, [class*="css"] {
 }
 .city-monitor-grid {
   display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1.15rem;
   align-items:start;
   margin-top:.25rem;
@@ -755,11 +755,15 @@ html, body, [class*="css"] {
 /* ── RESPONSIVE ───────────────────────────────────── */
 @media(max-width:768px){
   .hero-title{font-size:1.7rem;}
+  .city-monitor-grid{grid-template-columns:1fr;}
   .aqi-widget{padding:1rem;}
   .aq-overview-top{grid-template-columns:1fr;}
   .aq-primary{border-left:none;padding-left:0;border-top:1px solid var(--border);padding-top:1rem;}
   .aq-pollutants{grid-template-columns:1fr;}
   .aq-pol-card{border-right:none;}
+}
+@media(min-width:769px) and (max-width:1180px){
+  .city-monitor-grid{grid-template-columns:repeat(2, minmax(0, 1fr));}
 }
 </style>
 """, unsafe_allow_html=True)
@@ -991,7 +995,7 @@ def inject_runtime_styles() -> None:
         .metric-grid .m-value { font-size: clamp(1.55rem, 3vw, 2.1rem); }
         .city-monitor-grid {
           display:grid;
-          grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+          grid-template-columns: repeat(4, minmax(0, 1fr));
           gap: 1.15rem;
           align-items:start;
           margin-top:.25rem;
@@ -1138,7 +1142,11 @@ def inject_runtime_styles() -> None:
         @media(max-width:768px){
           .hero-title{font-size:1.75rem; max-width:none;}
           .hero-sub{max-width:none;}
+          .city-monitor-grid{grid-template-columns:1fr;}
           .aqi-widget{padding:1rem;}
+        }
+        @media(min-width:769px) and (max-width:1180px){
+          .city-monitor-grid{grid-template-columns:repeat(2, minmax(0, 1fr));}
         }
         </style>
         """,
